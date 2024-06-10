@@ -1,44 +1,104 @@
-﻿# jlu-llm-requirement-engineering-evaluator
+### README.md
 
-Dieses Projekt generiert Use Cases und formatiert sie zu Prompts für die Erstellung von User Stories. Es verwendet OpenAI für die Erstellung von Use Cases und LM Studio für die Generierung von User Stories.
+```markdown
+# jlu-llm-requirement-engineering-evaluator
+
+## Projektbeschreibung
+
+Dieses Projekt generiert Use Cases und User Stories für verschiedene Branchen unter Verwendung von Sprachmodellen (LLMs) und LM Studio.
 
 ## Installation
 
-### Python-Umgebung
+### Voraussetzungen
 
-1. Klone das Repository:
-    ```sh
-    git clone https://github.com/DeinBenutzername/jlu-llm-requirement-engineering-evaluator.git
-    cd jlu-llm-requirement-engineering-evaluator
-    ```
+- [Python 3.x](https://www.python.org/downloads/)
+- [Node.js](https://nodejs.org/en/download/) (empfohlen Version 16 oder höher)
+- [LM Studio](https://www.lmstudio.com/)
 
-2. Erstelle eine virtuelle Umgebung und aktiviere sie:
-    ```sh
-    python -m venv .venv
-    source .venv/bin/activate  # Für Windows: .venv\Scripts\activate
-    ```
+### Schritte
 
-3. Installiere die Python-Abhängigkeiten:
-    ```sh
-    pip install -r requirements.txt
-    ```
+1. **Repository klonen**:
 
-4. Erstelle eine `.env` Datei im Projektverzeichnis mit folgendem Inhalt:
-    ```env
-    OPENAI_API_KEY=your_openai_api_key_here
-    ```
+   ```sh
+   git clone https://github.com/dein-benutzername/jlu-llm-requirement-engineering-evaluator.git
+   cd jlu-llm-requirement-engineering-evaluator
+   ```
 
-### Node.js-Umgebung
+2. **Virtuelle Umgebung für Python erstellen und aktivieren**:
 
-1. Installiere die Node.js-Abhängigkeiten:
-    ```sh
-    npm install
-    ```
+   ```sh
+   python -m venv .venv
+   source .venv/bin/activate  # Für Windows: .venv\Scripts\activate
+   ```
 
-## Nutzung
+3. **Python-Abhängigkeiten installieren**:
 
-### Use Case Generator
+   ```sh
+   pip install -r requirements.txt
+   ```
 
-Führe das Skript `UseCaseGenerator.py` aus, um Use Cases zu generieren und in einer CSV-Datei zu speichern:
-```sh
-python UseCaseGenerator.py
+4. **Node.js-Abhängigkeiten installieren**:
+
+   ```sh
+   npm install
+   ```
+
+5. **LM Studio CLI installieren**:
+
+   ```sh
+   npx lmstudio install-cli
+   ```
+
+## Verwendung
+
+### Use Cases generieren
+
+Der `UseCaseGenerator.py` erstellt eine Reihe von Use Cases für verschiedene Branchen und speichert sie in einer CSV-Datei.
+
+1. **Use Cases generieren**:
+
+   ```sh
+   python UseCaseGenerator.py
+   ```
+
+   Diese Datei liest die Brancheninformationen und generiert die entsprechenden Use Cases, die in der Datei `generated_use_cases.csv` gespeichert werden.
+
+### Prompts generieren
+
+Der `PromptGenerator.py` erstellt Prompts basierend auf den generierten Use Cases und speichert sie in einer CSV-Datei.
+
+1. **Prompts generieren**:
+
+   ```sh
+   python PromptGenerator.py
+   ```
+
+   Diese Datei liest die `generated_use_cases.csv` und erstellt die entsprechenden Prompts, die in der Datei `generated_prompts.csv` gespeichert werden.
+
+### User Stories generieren
+
+Die `index.js`-Datei verwendet LM Studio, um basierend auf den generierten Prompts User Stories zu erstellen und speichert sie in einer CSV-Datei.
+
+1. **User Stories generieren**:
+
+   ```sh
+   node index.js
+   ```
+
+   Diese Datei liest die `generated_prompts.csv`, generiert die User Stories mithilfe von verschiedenen Modellen und speichert sie in der Datei `generated_user_stories.csv`.
+
+Die generierten User Stories werden in der Datei `generated_user_stories.csv` gespeichert, mit einer klaren Trennung zwischen den Modellen und den Use Cases.
+
+## Lizenz
+
+Dieses Projekt ist unter der MIT-Lizenz lizenziert. Siehe die [LICENSE.txt](LICENSE.txt) Datei für weitere Details.
+
+## Autoren
+
+- [Dein Name](https://github.com/dein-benutzername)
+
+## Danksagungen
+
+- Danke an [LM Studio](https://www.lmstudio.com/) für die Bereitstellung der LLMs.
+- Danke an [OpenAI](https://www.openai.com/) für die API.
+```
