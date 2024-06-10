@@ -32,6 +32,7 @@ coverage.xml
 
 # Environments
 .env
+.venv/
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -41,3 +42,17 @@ coverage.xml
 
 # PyCharm
 .idea/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.yarn-integrity
+
+# macOS
+.DS_Store
+
+# Generated files
+generated_prompts.csv
+generated_use_cases.csv
+generated_user_stories.csv

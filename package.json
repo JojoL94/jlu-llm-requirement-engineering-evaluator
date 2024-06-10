@@ -1,5 +1,12 @@
 {
+  "name": "jlu-llm-requirement-engineering-evaluator",
+  "version": "1.0.0",
+  "description": "A project to generate use cases and user stories using LM Studio and OpenAI.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "@lmstudio/sdk": "^0.0.12"
+    "@lmstudio/sdk": "^0.2.24"
   }
 }
