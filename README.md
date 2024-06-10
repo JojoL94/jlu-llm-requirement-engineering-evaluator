@@ -77,9 +77,17 @@ Der `PromptGenerator.py` erstellt Prompts basierend auf den generierten Use Case
 
 ### User Stories generieren
 
-Die `index.js`-Datei verwendet LM Studio, um basierend auf den generierten Prompts User Stories zu erstellen und speichert sie in einer CSV-Datei.
+Bevor die User Stories generiert werden können, muss der LM Studio-Server gestartet werden.
 
-1. **User Stories generieren**:
+1. **LM Studio-Server starten**:
+
+   ```sh
+   lms server start
+   ```
+
+   Dies startet den lokalen LM Studio-Server, der für die Verarbeitung der User Stories benötigt wird.
+
+2. **User Stories generieren**:
 
    ```sh
    node index.js
