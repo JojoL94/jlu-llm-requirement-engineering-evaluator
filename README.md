@@ -103,7 +103,7 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert. Siehe die [LICENSE.txt](LICE
 
 ## Autoren
 
-- [Dein Name](https://github.com/dein-benutzername)
+- [JojoL94](https://github.com/JojoL94)
 
 ## Danksagungen
 
