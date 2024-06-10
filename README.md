@@ -6,7 +6,7 @@
 ## Projektbeschreibung
 
 Dieses Projekt generiert Use Cases und User Stories für verschiedene Branchen unter Verwendung von Sprachmodellen (LLMs) und LM Studio.
-
+```
 ## Installation
 
 ### Voraussetzungen
