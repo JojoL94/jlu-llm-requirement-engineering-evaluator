@@ -7,6 +7,9 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@lmstudio/sdk": "^0.2.24"
+    "@lmstudio/sdk": "^0.0.12",
+    "csv-parse": "^5.5.6",
+    "csv-parser": "^3.0.0",
+    "csv-stringify": "^6.5.0"
   }
 }

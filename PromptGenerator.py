@@ -5,22 +5,8 @@ def read_use_cases(csv_file):
     use_cases = []
     with open(csv_file, mode='r', encoding='utf-8') as file:
         reader = csv.DictReader(file)
-        current_use_case = {}
         for row in reader:
-            if row['Indicator'] == 'BEGIN USE CASE':
-                current_use_case = {
-                    'industry': row['Industry'],
-                    'title': row['Title'],
-                    'description': row['Description'],
-                    'actor': row['Actor'],
-                    'preconditions': row['Preconditions'],
-                    'trigger': row['Trigger'],
-                    'use_case': ''
-                }
-            elif row['Indicator'] == '':
-                current_use_case['use_case'] += row['Use Case'] + '\n'
-            elif row['Indicator'] == 'END USE CASE':
-                use_cases.append(current_use_case)
+            use_cases.append(row)
     return use_cases
 
 # Funktion zum Generieren des Prompts
@@ -37,7 +23,7 @@ You are a skilled software developer responsible for translating a use case into
 Your task is to generate user stories based on the following use case:
 
 **Use Case:**
-{use_case['use_case']}
+{use_case['Use Case']}
 
 ### Requirements for the User Stories:
 
@@ -106,17 +92,19 @@ Now, using the provided use case, generate a complete set of user stories follow
 """
     return prompt_template
 
-# Hauptfunktion zum Generieren der Prompts und Speichern in einer Datei
+# Hauptfunktion zum Generieren der Prompts und Speichern in einer CSV-Datei
 def main():
-    csv_file = 'use_cases.csv'
-    output_file = 'generated_prompts.txt'
+    csv_file = 'generated_use_cases.csv'  # Aktualisierter Dateiname
+    output_file = 'generated_prompts.csv'
 
     use_cases = read_use_cases(csv_file)
-    with open(output_file, mode='w', encoding='utf-8') as file:
+    with open(output_file, mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        writer.writerow(['Industry', 'Title', 'Prompt'])
+
         for use_case in use_cases:
             prompt = generate_prompt(use_case)
-            file.write(prompt)
-            file.write('\n' + '='*80 + '\n')  # Trennlinie zwischen Prompts
+            writer.writerow([use_case['Industry'], use_case['Title'], prompt])
 
     print(f"Prompts have been saved to {output_file}")
 

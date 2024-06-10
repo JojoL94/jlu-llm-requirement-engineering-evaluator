@@ -51,8 +51,3 @@ yarn-error.log
 
 # macOS
 .DS_Store
-
-# Generated files
-generated_prompts.csv
-generated_use_cases.csv
-generated_user_stories.csv

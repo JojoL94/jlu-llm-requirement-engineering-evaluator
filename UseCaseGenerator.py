@@ -1,7 +1,7 @@
-﻿from openai import OpenAI
-from dotenv import load_dotenv
+﻿import csv
 import os
-import csv
+from openai import OpenAI
+from dotenv import load_dotenv
 
 # Lade die Umgebungsvariablen aus der .env Datei
 load_dotenv()
@@ -67,10 +67,10 @@ industries = [
 ]
 
 # CSV-Datei erstellen und die Daten speichern
-csv_file = 'use_cases.csv'
+csv_file = 'generated_use_cases.csv'
 with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
-    writer.writerow(["Indicator", "Industry", "Title", "Description", "Actor", "Preconditions", "Trigger", "Use Case"])
+    writer.writerow(["Industry", "Title", "Description", "Actor", "Preconditions", "Trigger", "Use Case"])
 
     for industry in industries:
         use_case = generate_use_case(
@@ -82,25 +82,13 @@ with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
             trigger=industry["trigger"]
         )
         writer.writerow([
-            "BEGIN USE CASE",
             industry["industry"],
             industry["title"],
             industry["description"],
             industry["actor"],
             industry["preconditions"],
             industry["trigger"],
-            ""
-        ])
-        writer.writerow([
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
             use_case
         ])
-        writer.writerow(["END USE CASE", "", "", "", "", "", "", ""])
 
 print(f"Use cases have been saved to {csv_file}")
