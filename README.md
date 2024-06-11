@@ -1,5 +1,3 @@
-### README.md
-
 ```markdown
 # jlu-llm-requirement-engineering-evaluator
 
