@@ -1,5 +1,3 @@
-Natürlich, hier ist die aktualisierte `README.md`-Datei mit Anweisungen, wie man die Branche im `UseCaseGenerator.py`, den Prompt im `PromptGenerator.py` und die LLMs im `index.js` ändern kann:
-
 ### README.md
 
 ```markdown
