@@ -180,8 +180,3 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert. Siehe die [LICENSE.txt](LICE
 ## Autoren
 
 - [JojoL94](https://github.com/JojoL94)
-
-## Danksagungen
-
-- Danke an [LM Studio](https://www.lmstudio.com/) für die Bereitstellung der LLMs.
-- Danke an [OpenAI](https://www.openai.com/) für die API.
