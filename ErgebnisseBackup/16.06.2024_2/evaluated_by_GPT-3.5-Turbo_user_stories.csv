@@ -1129,7 +1129,8 @@ Healthcare,Patient Appointment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-L
 - **So that I can ensure accurate patient records and update the system once it is available**
 - **Acceptance Criteria:**
 	+ Physician must be able to select options for documenting consultations offline
-	+ System must display a message indicating the need to update the record once technical issues are resolved.","Criterion: Well-formed
+	+ System must display a message indicating the need to update the record once technical issues are resolved.","------Start of format------
+Criterion: Well-formed
 User Story 1: Yes - The user story includes the role of the physician (As a physician) and the means (log into the healthcare system) clearly defined.
 User Story 2: Yes - The user story includes the role of the physician (As a physician) and the means (access a patient's electronic health record) clearly defined.
 User Story 3: Yes - The user story includes the role of the physician (As a physician) and the means (review a patient's medical history and current symptoms) clearly defined.
@@ -1407,17 +1408,6 @@ Public Sector,Voter Registration,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta
 	+ System must provide clear instructions on how to resolve the issue
 
 These user stories cover all aspects of the given use case, including login, navigation, feedback review and entry, validation, storage, and notification. They prioritize the most critical features and organize them in a logical sequence.","------Start of format------
-Criterion: [Name of Criterion]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-(...rest of user stories with their evaluation in the same format as before)
-
-Overall Result: [Yes/No]
-Explanation: [Short Explanation of the overall result if necessary. Max 3 sentences]
-End of Evaluation
--------End of format-------
-
 Criterion: Well-formed
 User Story 1: Yes - The user story includes the role of ""Public Sector Employee"" and the means of ""log into the feedback submission system.""
 User Story 2: Yes - The user story includes the role of ""Public Sector Employee"" and the means of ""navigate to the Feedback Submission page.""
@@ -1430,6 +1420,7 @@ User Story 7: Yes - The user story includes the role of ""Public Sector Employee
 Overall Result: Yes
 Explanation: All user stories are well-formed as they include a role and a means, aligning with the criterion provided.
 End of Evaluation
+-------End of format-------
 ------Start of format------
 Criterion: Atomic: The user story should express exactly one requirement.
 User Story 1: Yes - The user story focuses on the single requirement of logging into the feedback submission system.

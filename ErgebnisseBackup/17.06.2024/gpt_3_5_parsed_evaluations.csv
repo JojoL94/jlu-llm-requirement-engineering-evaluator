@@ -1,0 +1,846 @@
+Industry,Title,Model,Criterion,Yes,No
+Automotive,Parts Supplier Management,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Well-formed,9,0
+Automotive,Parts Supplier Management,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Atomic,9,0
+Automotive,Parts Supplier Management,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Minimal,9,0
+Automotive,Parts Supplier Management,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conceptually sound,9,0
+Automotive,Parts Supplier Management,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Problem-oriented,9,0
+Automotive,Parts Supplier Management,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unambiguous,9,0
+Automotive,Parts Supplier Management,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conflict-free,9,0
+Automotive,Parts Supplier Management,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Full sentence,9,0
+Automotive,Parts Supplier Management,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Estimatable,9,0
+Automotive,Parts Supplier Management,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unique,9,0
+Automotive,Parts Supplier Management,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Uniform,9,0
+Automotive,Parts Supplier Management,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Independent,9,0
+Automotive,Parts Supplier Management,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Complete,9,0
+Food,Production Line Monitoring,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Well-formed,9,0
+Food,Production Line Monitoring,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Atomic,9,0
+Food,Production Line Monitoring,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Minimal,0,9
+Food,Production Line Monitoring,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conceptually sound,9,0
+Food,Production Line Monitoring,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Problem-oriented,9,0
+Food,Production Line Monitoring,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unambiguous,8,1
+Food,Production Line Monitoring,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conflict-free,9,0
+Food,Production Line Monitoring,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Full sentence,9,0
+Food,Production Line Monitoring,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Estimatable,9,0
+Food,Production Line Monitoring,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unique,9,0
+Food,Production Line Monitoring,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Uniform,9,0
+Food,Production Line Monitoring,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Independent,9,0
+Food,Production Line Monitoring,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Complete,9,0
+Banking,Loan Processing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Well-formed,7,0
+Banking,Loan Processing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Atomic,7,0
+Banking,Loan Processing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Minimal,0,7
+Banking,Loan Processing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conceptually sound,7,0
+Banking,Loan Processing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Problem-oriented,7,0
+Banking,Loan Processing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unambiguous,7,0
+Banking,Loan Processing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conflict-free,7,0
+Banking,Loan Processing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Full sentence,7,0
+Banking,Loan Processing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Estimatable,7,0
+Banking,Loan Processing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unique,7,0
+Banking,Loan Processing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Uniform,7,0
+Banking,Loan Processing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Independent,7,0
+Banking,Loan Processing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Complete,7,0
+Insurance,Claim Filing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Well-formed,8,0
+Insurance,Claim Filing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Atomic,8,0
+Insurance,Claim Filing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Minimal,0,8
+Insurance,Claim Filing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conceptually sound,8,0
+Insurance,Claim Filing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Problem-oriented,8,0
+Insurance,Claim Filing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unambiguous,8,0
+Insurance,Claim Filing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conflict-free,8,0
+Insurance,Claim Filing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Full sentence,8,0
+Insurance,Claim Filing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Estimatable,8,0
+Insurance,Claim Filing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unique,8,0
+Insurance,Claim Filing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Uniform,8,0
+Insurance,Claim Filing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Independent,8,0
+Insurance,Claim Filing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Complete,8,0
+Healthcare,Patient Appointment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Well-formed,10,0
+Healthcare,Patient Appointment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Atomic,10,0
+Healthcare,Patient Appointment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Minimal,0,10
+Healthcare,Patient Appointment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conceptually sound,10,0
+Healthcare,Patient Appointment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Problem-oriented,10,0
+Healthcare,Patient Appointment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unambiguous,10,0
+Healthcare,Patient Appointment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conflict-free,10,0
+Healthcare,Patient Appointment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Full sentence,10,0
+Healthcare,Patient Appointment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Estimatable,10,0
+Healthcare,Patient Appointment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unique,10,0
+Healthcare,Patient Appointment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Uniform,10,0
+Healthcare,Patient Appointment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Independent,10,0
+Healthcare,Patient Appointment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Complete,10,0
+Public Sector,Voter Registration,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Well-formed,7,0
+Public Sector,Voter Registration,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Atomic,7,0
+Public Sector,Voter Registration,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Minimal,0,7
+Public Sector,Voter Registration,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conceptually sound,7,0
+Public Sector,Voter Registration,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Problem-oriented,7,0
+Public Sector,Voter Registration,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unambiguous,7,0
+Public Sector,Voter Registration,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conflict-free,7,0
+Public Sector,Voter Registration,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Full sentence,7,0
+Public Sector,Voter Registration,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Estimatable,7,0
+Public Sector,Voter Registration,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unique,7,0
+Public Sector,Voter Registration,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Uniform,7,0
+Public Sector,Voter Registration,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Independent,7,0
+Public Sector,Voter Registration,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Complete,7,0
+Travel & Logistics,Shipment Tracking,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Well-formed,9,0
+Travel & Logistics,Shipment Tracking,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Atomic,9,0
+Travel & Logistics,Shipment Tracking,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Minimal,9,0
+Travel & Logistics,Shipment Tracking,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conceptually sound,9,0
+Travel & Logistics,Shipment Tracking,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Problem-oriented,9,0
+Travel & Logistics,Shipment Tracking,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unambiguous,9,0
+Travel & Logistics,Shipment Tracking,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conflict-free,9,0
+Travel & Logistics,Shipment Tracking,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Full sentence,9,0
+Travel & Logistics,Shipment Tracking,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Estimatable,9,0
+Travel & Logistics,Shipment Tracking,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unique,9,0
+Travel & Logistics,Shipment Tracking,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Uniform,9,0
+Travel & Logistics,Shipment Tracking,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Independent,9,0
+Travel & Logistics,Shipment Tracking,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Complete,9,0
+Telecommunications,Service Ticket Resolution,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Well-formed,8,0
+Telecommunications,Service Ticket Resolution,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Atomic,8,0
+Telecommunications,Service Ticket Resolution,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Minimal,0,8
+Telecommunications,Service Ticket Resolution,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conceptually sound,8,0
+Telecommunications,Service Ticket Resolution,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Problem-oriented,8,0
+Telecommunications,Service Ticket Resolution,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unambiguous,8,0
+Telecommunications,Service Ticket Resolution,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conflict-free,8,0
+Telecommunications,Service Ticket Resolution,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Full sentence,8,0
+Telecommunications,Service Ticket Resolution,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Estimatable,8,0
+Telecommunications,Service Ticket Resolution,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unique,8,0
+Telecommunications,Service Ticket Resolution,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Uniform,8,0
+Telecommunications,Service Ticket Resolution,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Independent,8,0
+Telecommunications,Service Ticket Resolution,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Complete,8,0
+Corporate IT,Software Update Deployment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Well-formed,10,0
+Corporate IT,Software Update Deployment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Atomic,10,0
+Corporate IT,Software Update Deployment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Minimal,10,0
+Corporate IT,Software Update Deployment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conceptually sound,10,0
+Corporate IT,Software Update Deployment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Problem-oriented,0,10
+Corporate IT,Software Update Deployment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unambiguous,10,0
+Corporate IT,Software Update Deployment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conflict-free,10,0
+Corporate IT,Software Update Deployment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Full sentence,10,0
+Corporate IT,Software Update Deployment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Estimatable,10,0
+Corporate IT,Software Update Deployment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unique,10,0
+Corporate IT,Software Update Deployment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Uniform,10,0
+Corporate IT,Software Update Deployment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Independent,10,0
+Corporate IT,Software Update Deployment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Complete,10,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Well-formed,7,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Atomic,7,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Minimal,0,7
+Consumer Products | New Data Solutions,Purchase Data Analysis,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conceptually sound,7,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Problem-oriented,7,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unambiguous,7,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conflict-free,7,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Full sentence,7,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Estimatable,7,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unique,7,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Uniform,7,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Independent,7,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Complete,7,0
+Cyber Security,Security Audit,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Well-formed,8,0
+Cyber Security,Security Audit,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Atomic,8,0
+Cyber Security,Security Audit,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Minimal,0,8
+Cyber Security,Security Audit,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conceptually sound,8,0
+Cyber Security,Security Audit,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Problem-oriented,8,0
+Cyber Security,Security Audit,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unambiguous,8,0
+Cyber Security,Security Audit,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conflict-free,8,0
+Cyber Security,Security Audit,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Full sentence,8,0
+Cyber Security,Security Audit,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Estimatable,8,0
+Cyber Security,Security Audit,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unique,8,0
+Cyber Security,Security Audit,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Uniform,8,0
+Cyber Security,Security Audit,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Independent,8,0
+Cyber Security,Security Audit,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Complete,8,0
+Test & Quality Management,Quality Assurance Test,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Well-formed,6,0
+Test & Quality Management,Quality Assurance Test,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Atomic,6,0
+Test & Quality Management,Quality Assurance Test,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Minimal,6,0
+Test & Quality Management,Quality Assurance Test,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conceptually sound,6,0
+Test & Quality Management,Quality Assurance Test,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Problem-oriented,6,0
+Test & Quality Management,Quality Assurance Test,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unambiguous,6,0
+Test & Quality Management,Quality Assurance Test,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conflict-free,6,0
+Test & Quality Management,Quality Assurance Test,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Full sentence,6,0
+Test & Quality Management,Quality Assurance Test,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Estimatable,6,0
+Test & Quality Management,Quality Assurance Test,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unique,6,0
+Test & Quality Management,Quality Assurance Test,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Uniform,6,0
+Test & Quality Management,Quality Assurance Test,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Independent,6,0
+Test & Quality Management,Quality Assurance Test,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Complete,6,0
+Life Science & Chemicals,Lab Experiment Recording,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Well-formed,7,0
+Life Science & Chemicals,Lab Experiment Recording,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Atomic,7,0
+Life Science & Chemicals,Lab Experiment Recording,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Minimal,0,7
+Life Science & Chemicals,Lab Experiment Recording,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conceptually sound,7,0
+Life Science & Chemicals,Lab Experiment Recording,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Problem-oriented,7,0
+Life Science & Chemicals,Lab Experiment Recording,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unambiguous,7,0
+Life Science & Chemicals,Lab Experiment Recording,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Conflict-free,7,0
+Life Science & Chemicals,Lab Experiment Recording,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Full sentence,7,0
+Life Science & Chemicals,Lab Experiment Recording,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Estimatable,7,0
+Life Science & Chemicals,Lab Experiment Recording,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Unique,7,0
+Life Science & Chemicals,Lab Experiment Recording,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Uniform,7,0
+Life Science & Chemicals,Lab Experiment Recording,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Independent,7,0
+Life Science & Chemicals,Lab Experiment Recording,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,Complete,7,0
+Automotive,Parts Supplier Management,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Well-formed,6,0
+Automotive,Parts Supplier Management,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Atomic,6,0
+Automotive,Parts Supplier Management,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Minimal,6,0
+Automotive,Parts Supplier Management,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conceptually sound,6,0
+Automotive,Parts Supplier Management,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Problem-oriented,6,0
+Automotive,Parts Supplier Management,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unambiguous,6,0
+Automotive,Parts Supplier Management,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conflict-free,6,0
+Automotive,Parts Supplier Management,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Full sentence,6,0
+Automotive,Parts Supplier Management,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Estimatable,6,0
+Automotive,Parts Supplier Management,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unique,6,0
+Automotive,Parts Supplier Management,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Uniform,6,0
+Automotive,Parts Supplier Management,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Independent,6,0
+Automotive,Parts Supplier Management,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Complete,6,0
+Food,Production Line Monitoring,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Well-formed,8,0
+Food,Production Line Monitoring,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Atomic,8,0
+Food,Production Line Monitoring,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Minimal,0,8
+Food,Production Line Monitoring,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conceptually sound,8,0
+Food,Production Line Monitoring,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Problem-oriented,8,0
+Food,Production Line Monitoring,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unambiguous,8,0
+Food,Production Line Monitoring,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conflict-free,8,0
+Food,Production Line Monitoring,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Full sentence,8,0
+Food,Production Line Monitoring,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Estimatable,8,0
+Food,Production Line Monitoring,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unique,8,0
+Food,Production Line Monitoring,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Uniform,8,0
+Food,Production Line Monitoring,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Independent,8,0
+Food,Production Line Monitoring,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Complete,8,0
+Banking,Loan Processing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Well-formed,9,0
+Banking,Loan Processing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Atomic,9,0
+Banking,Loan Processing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Minimal,9,0
+Banking,Loan Processing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conceptually sound,9,0
+Banking,Loan Processing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Problem-oriented,9,0
+Banking,Loan Processing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unambiguous,9,0
+Banking,Loan Processing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conflict-free,9,0
+Banking,Loan Processing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Full sentence,9,0
+Banking,Loan Processing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Estimatable,9,0
+Banking,Loan Processing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unique,9,0
+Banking,Loan Processing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Uniform,9,0
+Banking,Loan Processing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Independent,9,0
+Banking,Loan Processing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Complete,9,0
+Insurance,Claim Filing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Well-formed,5,0
+Insurance,Claim Filing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Atomic,5,0
+Insurance,Claim Filing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Minimal,0,5
+Insurance,Claim Filing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conceptually sound,5,0
+Insurance,Claim Filing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Problem-oriented,5,0
+Insurance,Claim Filing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unambiguous,5,0
+Insurance,Claim Filing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conflict-free,5,0
+Insurance,Claim Filing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Full sentence,5,0
+Insurance,Claim Filing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Estimatable,5,0
+Insurance,Claim Filing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unique,5,0
+Insurance,Claim Filing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Uniform,5,0
+Insurance,Claim Filing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Independent,5,0
+Insurance,Claim Filing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Complete,5,0
+Healthcare,Patient Appointment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Well-formed,9,0
+Healthcare,Patient Appointment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Atomic,9,0
+Healthcare,Patient Appointment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Minimal,0,9
+Healthcare,Patient Appointment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conceptually sound,9,0
+Healthcare,Patient Appointment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Problem-oriented,9,0
+Healthcare,Patient Appointment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unambiguous,9,0
+Healthcare,Patient Appointment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conflict-free,9,0
+Healthcare,Patient Appointment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Full sentence,9,0
+Healthcare,Patient Appointment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Estimatable,9,0
+Healthcare,Patient Appointment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unique,9,0
+Healthcare,Patient Appointment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Uniform,9,0
+Healthcare,Patient Appointment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Independent,9,0
+Healthcare,Patient Appointment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Complete,9,0
+Public Sector,Voter Registration,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Well-formed,7,0
+Public Sector,Voter Registration,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Atomic,7,0
+Public Sector,Voter Registration,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Minimal,0,7
+Public Sector,Voter Registration,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conceptually sound,7,0
+Public Sector,Voter Registration,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Problem-oriented,7,0
+Public Sector,Voter Registration,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unambiguous,7,0
+Public Sector,Voter Registration,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conflict-free,7,0
+Public Sector,Voter Registration,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Full sentence,7,0
+Public Sector,Voter Registration,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Estimatable,7,0
+Public Sector,Voter Registration,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unique,7,0
+Public Sector,Voter Registration,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Uniform,7,0
+Public Sector,Voter Registration,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Independent,7,0
+Public Sector,Voter Registration,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Complete,7,0
+Travel & Logistics,Shipment Tracking,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Well-formed,9,0
+Travel & Logistics,Shipment Tracking,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Atomic,9,0
+Travel & Logistics,Shipment Tracking,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Minimal,0,9
+Travel & Logistics,Shipment Tracking,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conceptually sound,9,0
+Travel & Logistics,Shipment Tracking,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Problem-oriented,9,0
+Travel & Logistics,Shipment Tracking,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unambiguous,9,0
+Travel & Logistics,Shipment Tracking,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conflict-free,9,0
+Travel & Logistics,Shipment Tracking,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Full sentence,9,0
+Travel & Logistics,Shipment Tracking,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Estimatable,9,0
+Travel & Logistics,Shipment Tracking,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unique,9,0
+Travel & Logistics,Shipment Tracking,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Uniform,9,0
+Travel & Logistics,Shipment Tracking,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Independent,9,0
+Travel & Logistics,Shipment Tracking,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Complete,9,0
+Telecommunications,Service Ticket Resolution,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Well-formed,9,0
+Telecommunications,Service Ticket Resolution,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Atomic,9,0
+Telecommunications,Service Ticket Resolution,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Minimal,0,9
+Telecommunications,Service Ticket Resolution,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conceptually sound,9,0
+Telecommunications,Service Ticket Resolution,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Problem-oriented,9,0
+Telecommunications,Service Ticket Resolution,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unambiguous,9,0
+Telecommunications,Service Ticket Resolution,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conflict-free,9,0
+Telecommunications,Service Ticket Resolution,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Full sentence,9,0
+Telecommunications,Service Ticket Resolution,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Estimatable,9,0
+Telecommunications,Service Ticket Resolution,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unique,9,0
+Telecommunications,Service Ticket Resolution,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Uniform,9,0
+Telecommunications,Service Ticket Resolution,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Independent,9,0
+Telecommunications,Service Ticket Resolution,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Complete,9,0
+Corporate IT,Software Update Deployment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Well-formed,10,0
+Corporate IT,Software Update Deployment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Atomic,10,0
+Corporate IT,Software Update Deployment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Minimal,10,0
+Corporate IT,Software Update Deployment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conceptually sound,10,0
+Corporate IT,Software Update Deployment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Problem-oriented,10,0
+Corporate IT,Software Update Deployment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unambiguous,10,0
+Corporate IT,Software Update Deployment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conflict-free,10,0
+Corporate IT,Software Update Deployment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Full sentence,10,0
+Corporate IT,Software Update Deployment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Estimatable,10,0
+Corporate IT,Software Update Deployment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unique,10,0
+Corporate IT,Software Update Deployment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Uniform,10,0
+Corporate IT,Software Update Deployment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Independent,10,0
+Corporate IT,Software Update Deployment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Complete,10,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Well-formed,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Atomic,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Minimal,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conceptually sound,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Problem-oriented,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unambiguous,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conflict-free,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Full sentence,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Estimatable,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unique,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Uniform,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Independent,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Complete,8,0
+Cyber Security,Security Audit,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Well-formed,8,0
+Cyber Security,Security Audit,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Atomic,8,0
+Cyber Security,Security Audit,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Minimal,8,0
+Cyber Security,Security Audit,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conceptually sound,8,0
+Cyber Security,Security Audit,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Problem-oriented,8,0
+Cyber Security,Security Audit,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unambiguous,8,0
+Cyber Security,Security Audit,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conflict-free,8,0
+Cyber Security,Security Audit,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Full sentence,8,0
+Cyber Security,Security Audit,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Estimatable,8,0
+Cyber Security,Security Audit,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unique,8,0
+Cyber Security,Security Audit,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Uniform,8,0
+Cyber Security,Security Audit,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Independent,8,0
+Cyber Security,Security Audit,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Complete,8,0
+Test & Quality Management,Quality Assurance Test,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Well-formed,10,0
+Test & Quality Management,Quality Assurance Test,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Atomic,10,0
+Test & Quality Management,Quality Assurance Test,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Minimal,10,0
+Test & Quality Management,Quality Assurance Test,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conceptually sound,10,0
+Test & Quality Management,Quality Assurance Test,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Problem-oriented,10,0
+Test & Quality Management,Quality Assurance Test,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unambiguous,10,0
+Test & Quality Management,Quality Assurance Test,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conflict-free,10,0
+Test & Quality Management,Quality Assurance Test,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Full sentence,10,0
+Test & Quality Management,Quality Assurance Test,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Estimatable,10,0
+Test & Quality Management,Quality Assurance Test,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unique,10,0
+Test & Quality Management,Quality Assurance Test,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Uniform,10,0
+Test & Quality Management,Quality Assurance Test,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Independent,10,0
+Test & Quality Management,Quality Assurance Test,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Complete,10,0
+Life Science & Chemicals,Lab Experiment Recording,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Well-formed,8,0
+Life Science & Chemicals,Lab Experiment Recording,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Atomic,8,0
+Life Science & Chemicals,Lab Experiment Recording,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Minimal,0,8
+Life Science & Chemicals,Lab Experiment Recording,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conceptually sound,8,0
+Life Science & Chemicals,Lab Experiment Recording,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Problem-oriented,8,0
+Life Science & Chemicals,Lab Experiment Recording,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unambiguous,8,0
+Life Science & Chemicals,Lab Experiment Recording,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Conflict-free,8,0
+Life Science & Chemicals,Lab Experiment Recording,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Full sentence,8,0
+Life Science & Chemicals,Lab Experiment Recording,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Estimatable,8,0
+Life Science & Chemicals,Lab Experiment Recording,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Unique,8,0
+Life Science & Chemicals,Lab Experiment Recording,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Uniform,8,0
+Life Science & Chemicals,Lab Experiment Recording,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Independent,8,0
+Life Science & Chemicals,Lab Experiment Recording,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,Complete,8,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,0,4
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,4,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,0,4
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,0,4
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,0,4
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,0,4
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,0,4
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,4,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Estimatable,0,4
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,4,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,0,4
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,4,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,0,4
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,1,3
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,4,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,4,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,1,3
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,1,3
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,4,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,4,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,4,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Estimatable,4,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,4,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,4,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,4,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,1,3
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,4,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,4,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,0,4
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,4,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,4,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,4,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,4,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,4,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Estimatable,4,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,4,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,4,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,4,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,4,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,0,4
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,4,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,0,4
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,0,4
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,0,4
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,4,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,4,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,4,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Estimatable,4,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,4,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,0,4
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,4,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,0,4
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,0,6
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,3,3
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,0,6
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,6,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,6,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,0,6
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,6,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,6,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Estimatable,6,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,6,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,6,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,6,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,0,6
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,4,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,4,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,0,4
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,4,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,4,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,4,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,4,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,4,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Estimatable,4,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,4,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,4,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,4,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,4,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,4,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,4,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,0,4
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,4,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,4,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,4,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,4,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,4,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Estimatable,4,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,4,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,4,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,4,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,4,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,0,4
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,4,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,0,4
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,0,4
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,0,4
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,0,4
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,0,4
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,0,4
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Estimatable,4,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,4,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,0,4
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,4,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,0,4
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,1,3
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,4,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,1,3
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,1,3
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,1,3
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,1,3
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,1,3
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,4,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Estimatable,1,3
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,4,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,4,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,4,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,1,3
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,0,4
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,3,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,0,4
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,0,4
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,0,4
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,0,4
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,4,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,0,4
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Estimatable,0,4
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,4,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,0,4
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,4,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,0,4
+Cyber Security,Security Audit,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,4,0
+Cyber Security,Security Audit,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,4,0
+Cyber Security,Security Audit,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,0,4
+Cyber Security,Security Audit,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,4,0
+Cyber Security,Security Audit,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,4,0
+Cyber Security,Security Audit,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,4,0
+Cyber Security,Security Audit,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,4,0
+Cyber Security,Security Audit,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,4,0
+Cyber Security,Security Audit,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Estimatable,4,0
+Cyber Security,Security Audit,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,4,0
+Cyber Security,Security Audit,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,4,0
+Cyber Security,Security Audit,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,4,0
+Cyber Security,Security Audit,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,4,0
+Test & Quality Management,Quality Assurance Test,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,9,0
+Test & Quality Management,Quality Assurance Test,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,9,0
+Test & Quality Management,Quality Assurance Test,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,0,9
+Test & Quality Management,Quality Assurance Test,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,9,0
+Test & Quality Management,Quality Assurance Test,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,0,9
+Test & Quality Management,Quality Assurance Test,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,9,0
+Test & Quality Management,Quality Assurance Test,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,9,0
+Test & Quality Management,Quality Assurance Test,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,9,0
+Test & Quality Management,Quality Assurance Test,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Estimatable,9,0
+Test & Quality Management,Quality Assurance Test,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,9,0
+Test & Quality Management,Quality Assurance Test,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,9,0
+Test & Quality Management,Quality Assurance Test,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,9,0
+Test & Quality Management,Quality Assurance Test,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,9,0
+Life Science & Chemicals,Lab Experiment Recording,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,6,4
+Life Science & Chemicals,Lab Experiment Recording,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,10,0
+Life Science & Chemicals,Lab Experiment Recording,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,6,4
+Life Science & Chemicals,Lab Experiment Recording,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,6,4
+Life Science & Chemicals,Lab Experiment Recording,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,6,4
+Life Science & Chemicals,Lab Experiment Recording,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,6,4
+Life Science & Chemicals,Lab Experiment Recording,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,6,4
+Life Science & Chemicals,Lab Experiment Recording,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,6,4
+Life Science & Chemicals,Lab Experiment Recording,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Estimatable,6,4
+Life Science & Chemicals,Lab Experiment Recording,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,10,0
+Life Science & Chemicals,Lab Experiment Recording,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,6,4
+Life Science & Chemicals,Lab Experiment Recording,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,10,0
+Life Science & Chemicals,Lab Experiment Recording,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,6,4
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,7,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,7,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,6,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,6,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,6,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,6,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,6,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Full sentence,6,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Estimatable,6,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,6,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,6,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,6,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,6,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Full sentence,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Estimatable,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,8,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,7,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,7,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,7
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,7,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,7,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,0,7
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,7,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Full sentence,7,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Estimatable,7,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,7,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,7,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,7,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,7,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,7,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,7,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,7
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,7,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,7,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,7,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,7,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Full sentence,7,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Estimatable,7,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,7,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,7,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,7,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,7,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,7,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,6,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,7
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,6,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,7,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,7,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,7,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Full sentence,7,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Estimatable,7,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,7,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,7,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,7,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,7,0
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,6,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,6,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,7
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,6,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,6,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,6,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,6,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Full sentence,6,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Estimatable,6,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,6,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,6,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,6,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,6,1
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,9,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,9,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,9
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,9,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,9,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,9,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,9,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Full sentence,9,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Estimatable,9,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,9,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,10,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,9,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,9,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,7,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,7,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,6,1
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,7,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,6,1
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,6,1
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,7,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Full sentence,7,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Estimatable,7,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,7,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,7,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,7,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,7,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,7,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,7,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,7
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,7,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,7,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,7,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,7,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Full sentence,7,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Estimatable,7,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,7,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,7,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,7,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,7,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,8
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,0,8
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,0,8
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Full sentence,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Estimatable,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,0,8
+Cyber Security,Security Audit,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,6,0
+Cyber Security,Security Audit,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,6,0
+Cyber Security,Security Audit,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,6,0
+Cyber Security,Security Audit,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,6,0
+Cyber Security,Security Audit,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,6,0
+Cyber Security,Security Audit,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,6,0
+Cyber Security,Security Audit,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,6,0
+Cyber Security,Security Audit,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Full sentence,6,0
+Cyber Security,Security Audit,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Estimatable,6,0
+Cyber Security,Security Audit,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,6,0
+Cyber Security,Security Audit,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,6,0
+Cyber Security,Security Audit,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,6,0
+Cyber Security,Security Audit,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,6,0
+Test & Quality Management,Quality Assurance Test,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,8,0
+Test & Quality Management,Quality Assurance Test,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,7,1
+Test & Quality Management,Quality Assurance Test,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,8,0
+Test & Quality Management,Quality Assurance Test,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,8,0
+Test & Quality Management,Quality Assurance Test,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,8,0
+Test & Quality Management,Quality Assurance Test,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,7,1
+Test & Quality Management,Quality Assurance Test,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,8,0
+Test & Quality Management,Quality Assurance Test,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Full sentence,8,0
+Test & Quality Management,Quality Assurance Test,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Estimatable,8,0
+Test & Quality Management,Quality Assurance Test,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,8,0
+Test & Quality Management,Quality Assurance Test,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,8,0
+Test & Quality Management,Quality Assurance Test,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,8,0
+Test & Quality Management,Quality Assurance Test,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,8,0
+Life Science & Chemicals,Lab Experiment Recording,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,2,1
+Life Science & Chemicals,Lab Experiment Recording,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,2,1
+Life Science & Chemicals,Lab Experiment Recording,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,2,1
+Life Science & Chemicals,Lab Experiment Recording,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,2,1
+Life Science & Chemicals,Lab Experiment Recording,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,2,1
+Life Science & Chemicals,Lab Experiment Recording,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,2,1
+Life Science & Chemicals,Lab Experiment Recording,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,3,0
+Life Science & Chemicals,Lab Experiment Recording,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Full sentence,2,1
+Life Science & Chemicals,Lab Experiment Recording,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Estimatable,2,1
+Life Science & Chemicals,Lab Experiment Recording,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,2,1
+Life Science & Chemicals,Lab Experiment Recording,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,2,1
+Life Science & Chemicals,Lab Experiment Recording,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,3,0
+Life Science & Chemicals,Lab Experiment Recording,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,2,1
+Automotive,Parts Supplier Management,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Well-formed,5,0
+Automotive,Parts Supplier Management,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Atomic,5,0
+Automotive,Parts Supplier Management,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Minimal,0,5
+Automotive,Parts Supplier Management,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conceptually sound,5,0
+Automotive,Parts Supplier Management,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Problem-oriented,5,0
+Automotive,Parts Supplier Management,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unambiguous,5,0
+Automotive,Parts Supplier Management,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conflict-free,5,0
+Automotive,Parts Supplier Management,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Full sentence,5,0
+Automotive,Parts Supplier Management,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Estimatable,5,0
+Automotive,Parts Supplier Management,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unique,5,0
+Automotive,Parts Supplier Management,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Uniform,5,0
+Automotive,Parts Supplier Management,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Independent,5,0
+Automotive,Parts Supplier Management,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Complete,5,0
+Food,Production Line Monitoring,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Well-formed,1,1
+Food,Production Line Monitoring,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Atomic,1,1
+Food,Production Line Monitoring,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Minimal,1,1
+Food,Production Line Monitoring,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conceptually sound,1,1
+Food,Production Line Monitoring,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Problem-oriented,1,0
+Food,Production Line Monitoring,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unambiguous,1,0
+Food,Production Line Monitoring,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conflict-free,1,0
+Food,Production Line Monitoring,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Full sentence,1,1
+Food,Production Line Monitoring,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Estimatable,1,1
+Food,Production Line Monitoring,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unique,1,0
+Food,Production Line Monitoring,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Uniform,1,1
+Food,Production Line Monitoring,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Independent,1,0
+Food,Production Line Monitoring,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Complete,1,1
+Banking,Loan Processing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Well-formed,1,0
+Banking,Loan Processing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Atomic,4,0
+Banking,Loan Processing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Minimal,0,1
+Banking,Loan Processing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conceptually sound,1,0
+Banking,Loan Processing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Problem-oriented,1,0
+Banking,Loan Processing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unambiguous,1,0
+Banking,Loan Processing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conflict-free,1,0
+Banking,Loan Processing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Full sentence,1,0
+Banking,Loan Processing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Estimatable,1,0
+Banking,Loan Processing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unique,1,0
+Banking,Loan Processing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Uniform,1,0
+Banking,Loan Processing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Independent,1,0
+Banking,Loan Processing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Complete,1,0
+Insurance,Claim Filing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Well-formed,4,0
+Insurance,Claim Filing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Atomic,3,1
+Insurance,Claim Filing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Minimal,0,4
+Insurance,Claim Filing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conceptually sound,4,0
+Insurance,Claim Filing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Problem-oriented,0,4
+Insurance,Claim Filing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unambiguous,4,0
+Insurance,Claim Filing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conflict-free,4,0
+Insurance,Claim Filing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Full sentence,4,0
+Insurance,Claim Filing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Estimatable,4,0
+Insurance,Claim Filing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unique,4,0
+Insurance,Claim Filing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Uniform,4,0
+Insurance,Claim Filing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Independent,4,0
+Insurance,Claim Filing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Complete,4,0
+Healthcare,Patient Appointment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Well-formed,4,0
+Healthcare,Patient Appointment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Atomic,4,0
+Healthcare,Patient Appointment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Minimal,4,0
+Healthcare,Patient Appointment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conceptually sound,4,0
+Healthcare,Patient Appointment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Problem-oriented,4,0
+Healthcare,Patient Appointment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unambiguous,4,0
+Healthcare,Patient Appointment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conflict-free,4,0
+Healthcare,Patient Appointment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Full sentence,4,0
+Healthcare,Patient Appointment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Estimatable,4,0
+Healthcare,Patient Appointment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unique,4,0
+Healthcare,Patient Appointment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Uniform,4,0
+Healthcare,Patient Appointment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Independent,4,0
+Healthcare,Patient Appointment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Complete,4,0
+Public Sector,Voter Registration,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Well-formed,1,0
+Public Sector,Voter Registration,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Atomic,0,1
+Public Sector,Voter Registration,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Minimal,0,1
+Public Sector,Voter Registration,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conceptually sound,1,0
+Public Sector,Voter Registration,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Problem-oriented,1,0
+Public Sector,Voter Registration,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unambiguous,1,0
+Public Sector,Voter Registration,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conflict-free,1,0
+Public Sector,Voter Registration,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Full sentence,1,0
+Public Sector,Voter Registration,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Estimatable,1,0
+Public Sector,Voter Registration,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unique,1,0
+Public Sector,Voter Registration,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Uniform,1,0
+Public Sector,Voter Registration,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Independent,1,0
+Public Sector,Voter Registration,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Complete,1,0
+Travel & Logistics,Shipment Tracking,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Well-formed,1,0
+Travel & Logistics,Shipment Tracking,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Atomic,0,1
+Travel & Logistics,Shipment Tracking,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Minimal,0,1
+Travel & Logistics,Shipment Tracking,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conceptually sound,0,1
+Travel & Logistics,Shipment Tracking,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Problem-oriented,0,1
+Travel & Logistics,Shipment Tracking,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unambiguous,0,1
+Travel & Logistics,Shipment Tracking,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conflict-free,1,0
+Travel & Logistics,Shipment Tracking,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Full sentence,1,0
+Travel & Logistics,Shipment Tracking,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Estimatable,1,0
+Travel & Logistics,Shipment Tracking,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unique,1,0
+Travel & Logistics,Shipment Tracking,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Uniform,1,0
+Travel & Logistics,Shipment Tracking,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Independent,1,0
+Travel & Logistics,Shipment Tracking,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Complete,0,1
+Telecommunications,Service Ticket Resolution,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Well-formed,5,0
+Telecommunications,Service Ticket Resolution,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Atomic,5,0
+Telecommunications,Service Ticket Resolution,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Minimal,0,5
+Telecommunications,Service Ticket Resolution,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conceptually sound,5,0
+Telecommunications,Service Ticket Resolution,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Problem-oriented,5,0
+Telecommunications,Service Ticket Resolution,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unambiguous,5,0
+Telecommunications,Service Ticket Resolution,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conflict-free,5,0
+Telecommunications,Service Ticket Resolution,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Full sentence,5,0
+Telecommunications,Service Ticket Resolution,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Estimatable,5,0
+Telecommunications,Service Ticket Resolution,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unique,5,0
+Telecommunications,Service Ticket Resolution,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Uniform,5,0
+Telecommunications,Service Ticket Resolution,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Independent,5,0
+Telecommunications,Service Ticket Resolution,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Complete,5,0
+Corporate IT,Software Update Deployment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Well-formed,1,1
+Corporate IT,Software Update Deployment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Atomic,1,1
+Corporate IT,Software Update Deployment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Minimal,0,2
+Corporate IT,Software Update Deployment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conceptually sound,1,1
+Corporate IT,Software Update Deployment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Problem-oriented,0,2
+Corporate IT,Software Update Deployment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unambiguous,1,0
+Corporate IT,Software Update Deployment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conflict-free,1,0
+Corporate IT,Software Update Deployment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Full sentence,1,0
+Corporate IT,Software Update Deployment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Estimatable,1,0
+Corporate IT,Software Update Deployment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unique,1,0
+Corporate IT,Software Update Deployment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Uniform,1,0
+Corporate IT,Software Update Deployment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Independent,1,0
+Corporate IT,Software Update Deployment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Complete,1,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Well-formed,4,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Atomic,3,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Minimal,0,4
+Consumer Products | New Data Solutions,Purchase Data Analysis,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conceptually sound,4,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Problem-oriented,4,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unambiguous,2,2
+Consumer Products | New Data Solutions,Purchase Data Analysis,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conflict-free,4,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Full sentence,4,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Estimatable,4,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unique,4,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Uniform,4,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Independent,4,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Complete,4,0
+Cyber Security,Security Audit,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Well-formed,1,1
+Cyber Security,Security Audit,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Atomic,1,1
+Cyber Security,Security Audit,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Minimal,1,1
+Cyber Security,Security Audit,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conceptually sound,1,1
+Cyber Security,Security Audit,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Problem-oriented,1,1
+Cyber Security,Security Audit,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unambiguous,1,1
+Cyber Security,Security Audit,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conflict-free,1,0
+Cyber Security,Security Audit,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Full sentence,1,1
+Cyber Security,Security Audit,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Estimatable,1,1
+Cyber Security,Security Audit,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unique,1,0
+Cyber Security,Security Audit,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Uniform,1,0
+Cyber Security,Security Audit,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Independent,1,0
+Cyber Security,Security Audit,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Complete,1,0
+Test & Quality Management,Quality Assurance Test,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Well-formed,3,0
+Test & Quality Management,Quality Assurance Test,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Atomic,3,0
+Test & Quality Management,Quality Assurance Test,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Minimal,0,3
+Test & Quality Management,Quality Assurance Test,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conceptually sound,3,0
+Test & Quality Management,Quality Assurance Test,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Problem-oriented,3,0
+Test & Quality Management,Quality Assurance Test,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unambiguous,3,0
+Test & Quality Management,Quality Assurance Test,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conflict-free,3,0
+Test & Quality Management,Quality Assurance Test,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Full sentence,3,0
+Test & Quality Management,Quality Assurance Test,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Estimatable,3,0
+Test & Quality Management,Quality Assurance Test,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unique,3,0
+Test & Quality Management,Quality Assurance Test,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Uniform,3,0
+Test & Quality Management,Quality Assurance Test,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Independent,3,0
+Test & Quality Management,Quality Assurance Test,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Complete,3,0
+Life Science & Chemicals,Lab Experiment Recording,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Well-formed,1,1
+Life Science & Chemicals,Lab Experiment Recording,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Atomic,1,1
+Life Science & Chemicals,Lab Experiment Recording,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Minimal,0,2
+Life Science & Chemicals,Lab Experiment Recording,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conceptually sound,1,1
+Life Science & Chemicals,Lab Experiment Recording,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Problem-oriented,1,1
+Life Science & Chemicals,Lab Experiment Recording,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unambiguous,1,1
+Life Science & Chemicals,Lab Experiment Recording,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Conflict-free,1,0
+Life Science & Chemicals,Lab Experiment Recording,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Full sentence,1,1
+Life Science & Chemicals,Lab Experiment Recording,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Estimatable,1,1
+Life Science & Chemicals,Lab Experiment Recording,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Unique,1,0
+Life Science & Chemicals,Lab Experiment Recording,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Uniform,1,1
+Life Science & Chemicals,Lab Experiment Recording,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Independent,1,0
+Life Science & Chemicals,Lab Experiment Recording,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,Complete,1,1
