@@ -2,8 +2,7 @@
 
 ## Projektbeschreibung
 
-Dieses Projekt generiert Use Cases und User Stories für verschiedene Branchen unter Verwendung von Sprachmodellen (LLMs) und LM Studio.
-
+Dieses Projekt generiert Use Cases und User Stories für verschiedene Branchen unter Verwendung von Sprachmodellen (LLMs) und LM Studio. Zudem werden die generierten User Stories evaluiert und ein Leaderboard erstellt, das die Leistung der verschiedenen Modelle vergleicht.
 
 ## Installation
 
@@ -97,6 +96,9 @@ prompt_template = """
 You are a skilled software developer responsible for translating a use case into a complete set of user stories. Each user story should be in the format commonly used in agile software development, specifically:
 
 - **As a [type of user]**
+-
+
+```markdown
 - **I want [some goal]**
 - **So that [some reason]**
 
@@ -168,6 +170,28 @@ const models = [
 ```
 
 Die generierten User Stories werden in der Datei `generated_user_stories.csv` gespeichert, mit einer klaren Trennung zwischen den Modellen und den Use Cases.
+
+### User Stories evaluieren
+
+1. **Evaluation der User Stories durchführen**:
+
+   ```sh
+   python GPTEvaluatorUserStories.py
+   ```
+
+   Diese Datei liest die `generated_user_stories.csv`, evaluiert die User Stories mithilfe des ausgewählten Modells und speichert die Ergebnisse in der Datei `evaluated_user_stories.csv`.
+
+### Ergebnisse analysieren und ein Leaderboard erstellen
+
+Das Skript `LeaderboardGenerator.py` analysiert die Evaluationsergebnisse und erstellt ein Leaderboard.
+
+1. **Ergebnisse analysieren und ein Leaderboard erstellen**:
+
+   ```sh
+   python LeaderboardGenerator.py
+   ```
+
+   Diese Datei liest die `evaluated_user_stories.csv`, analysiert die Ergebnisse und erstellt ein Leaderboard, das in der Datei `leaderboard.csv` gespeichert wird.
 
 ## Lizenz
 
