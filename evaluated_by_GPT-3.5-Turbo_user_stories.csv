@@ -3670,17 +3670,6 @@ Food,Production Line Monitoring,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0
    - **So that I can continue managing inventory efficiently during system downtime**
    - **Acceptance Criteria:**
      - The system must provide a mechanism for the Inventory Manager to manually update inventory levels and place orders when needed, with the option to revert back to automated processes once the system is operational again.","------Start of format------
-Criterion: [Name of Criterion]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-(...rest of user stories with their evaluation in the same format as before)
-
-Overall Result: [Yes/No]
-Explanation: [Short Explanation of the overall result if necessary. Max 3 sentences]
-End of Evaluation
--------End of format------
-
 Criterion: Well-formed
 User Story 1: Yes - The user story includes the role of ""Inventory Manager"" and the means of ""log into the inventory management system.""
 User Story 2: Yes - The user story includes the role of ""Inventory Manager"" and the means of ""navigate to the Inventory Management Dashboard.""
@@ -3694,6 +3683,7 @@ User Story 8: Yes - The user story includes the role of ""Inventory Manager"" an
 Overall Result: Yes
 Explanation: All user stories are well-formed as they include a role and a means, aligning with the criterion provided. Each user story clearly defines the role of the Inventory Manager and the action they want to perform within the inventory management system.
 End of Evaluation
+-------End of format------
 ------Start of format------
 Criterion: Atomic: The user story should express exactly one requirement.
 User Story 1: Yes - The user story expresses one clear requirement: ""I want to log into the inventory management system.""
@@ -3948,17 +3938,6 @@ Banking,Loan Processing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/
    - **Acceptance Criteria:**
      - System should display an error message and explain any technical issues
      - User should have the option to retry or exit the session","------Start of format------
-Criterion: [Name of Criterion]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-(...rest of user stories with their evaluation in the same format as before)
-
-Overall Result: [Yes/No]
-Explanation: [Short Explanation of the overall result if necessary. Max 3 sentences]
-End of Evaluation
--------End of format------
-
 Criterion: Well-formed
 User Story 1: Yes - The user story includes the role of ""bank customer"" and the means of ""log into the online banking system.""
 User Story 2: Yes - The user story includes the role of ""bank customer"" and the means of ""view my account balance.""
@@ -3973,6 +3952,7 @@ User Story 9: Yes - The user story includes the role of ""bank customer"" and th
 Overall Result: Yes
 Explanation: All user stories meet the criterion of being well-formed as they include a role and a means for each scenario described. Each user story clearly defines the role of the bank customer and the action they want to perform within the online banking system. 
 End of Evaluation
+-------End of format------
 ------Start of format------
 Criterion: Atomic
 User Story 1: Yes - The user story expresses one requirement clearly: logging into the online banking system.
@@ -5795,17 +5775,6 @@ Consumer Products | New Data Solutions,Purchase Data Analysis,RichardErkhov/mist
    - **Acceptance Criteria:**
      - System should automatically store each completed analysis with a unique identifier
      - User should be able to search, filter, and sort saved analyses based on various criteria (e.g., date, data set, findings)","------Start of format------
-Criterion: [Name of Criterion]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-(...rest of user stories with their evaluation in the same format as before)
-
-Overall Result: [Yes/No]
-Explanation: [Short Explanation of the overall result if necessary. Max 3 sentences]
-End of Evaluation
--------End of format-------
-
 Criterion: Well-formed
 User Story 1: Yes - The user story includes the role of ""Data Analyst"" and the means of ""log into the data analysis tool.""
 User Story 2: Yes - The user story includes the role of ""Data Analyst"" and the means of ""navigate to the Purchase Data Analysis section.""
@@ -5819,6 +5788,7 @@ User Story 8: Yes - The user story includes the role of ""Data Analyst"" and the
 Overall Result: Yes
 Explanation: All user stories are well-formed as they clearly define the role of the Data Analyst and the specific actions they want to perform within the data analysis tool. Each user story aligns with the context of the use case and contributes to the overall goal of analyzing consumer purchase data effectively. 
 End of Evaluation
+-------End of format-------
 ------Start of format------
 Criterion: Atomic: The user story should express exactly one requirement.
 User Story 1: Yes - The user story focuses on the single requirement of logging into the data analysis tool.
@@ -10172,17 +10142,6 @@ Trigger: Patient arrives for a consultation
    - **Acceptance Criteria:**
      - The system should allow for communication with other healthcare providers who have access to the patient's records.
      - Received information must be verified, updated, and recorded in the patient' Writes an incomplete medical history","------Start of format------
-Criterion: [Name of Criterion]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-(...rest of user stories with their evaluation in the same format as before)
-
-Overall Result: [Yes/No]
-Explanation: [Short Explanation of the overall result if necessary. Max 3 sentences]
-End of Evaluation
--------End of format-------
-
 Criterion: Well-formed
 User Story 1: Yes - The user story includes the role of an attending physician (Actor) and the means of logging into the EHR system to access patient information for consultation.
 User Story 2: Yes - The user story includes the role of an attending physician (Actor) and the means of accessing the patient's health records from the EHR system for review during consultation.
@@ -10195,6 +10154,7 @@ User Story 7: Yes - The user story includes the role of an attending physician (
 Overall Result: Yes
 Explanation: All user stories are well-formed as they include the necessary roles and means as per the given criterion. Each user story clearly defines the role of the attending physician and the specific actions they need to perform within the patient consultation use case.
 End of Evaluation
+-------End of format-------
 ------Start of format------
 Criterion: Atomic: The user story should express exactly one requirement.
 User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
@@ -12025,17 +11985,6 @@ Test & Quality Management,Quality Assurance Test,microsoft/Phi-3-mini-4k-instruc
    - **Acceptance Criteria:**
      - System must detect unavailability and provide an error message.
      - Notification should be sent to the QA Engineer for follow-up actions on test execution scheduling.","------Start of format------
-Criterion: [Name of Criterion]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-(...rest of user stories with their evaluation in the same format as before)
-
-Overall Result: [Yes/No]
-Explanation: [Short Explanation of the overall result if necessary. Max 3 sentences]
-End of Evaluation
--------End of format-------
-
 Criterion: Well-formed
 User Story 1: Yes - The user story includes the role of ""QA Engineer"" and the means of ""log into the quality assurance system.""
 User Story 2: Yes - The user story includes the role of ""QA Engineer"" and the means of ""navigate to and select a test from the Quality Assurance Test page.""
@@ -12048,6 +11997,7 @@ User Story 8: Yes - The user story includes the role of ""QA Engineer"" and the 
 
 Overall Result: Yes
 Explanation: All user stories are well-formed as they clearly define the role of the QA Engineer and the specific actions they want to perform within the quality assurance testing process. Each user story follows the format of ""As a [role], I want [means], so that [benefit]."" End of Evaluation
+-------End of format-------
 ------Start of format------
 Criterion: Atomic: The user story should express exactly one requirement.
 User Story 1: Yes - The user story focuses on the single requirement of logging into the quality assurance system.
@@ -12233,17 +12183,6 @@ Life Science & Chemicals,Lab Experiment Recording,microsoft/Phi-3-mini-4k-instru
      - The module should be easily accessible from the main dashboard or menu.
 
 3. Written by user","------Start of format------
-Criterion: [Name of Criterion]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-(...rest of user stories with their evaluation in the same format as before)
-
-Overall Result: [Yes/No]
-Explanation: [Short Explanation of the overall result if necessary. Max 3 sentences]
-End of Evaluation
--------End of format------
-
 Criterion: Well-formed
 User Story 1: Yes - This user story includes the role of ""Lab Manager"" and the means of ""log into the lab inventory management system.""
 User Story 2: Yes - This user story includes the role of ""Lab Manager"" and the means of ""navigate to the Lab Inventory Management module in the system.""
@@ -12252,6 +12191,7 @@ User Story 3: No - This user story is incomplete and does not provide a clear ro
 Overall Result: Partially
 Explanation: User Story 3 is incomplete and does not meet the criterion of including at least one role and one means. The other user stories are well-formed. 
 End of Evaluation
+-------End of format------
 ------Start of format------
 Criterion: Atomic
 User Story 1: Yes - This user story expresses exactly one requirement: logging into the lab inventory management system.
@@ -13393,17 +13333,6 @@ Telecommunications,Service Ticket Resolution,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-
    - **Acceptance Criteria:**
      - System must display all open tickets for resolution
 ```","------Start of format------
-Criterion: [Name of Criterion]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
-(...rest of user stories with their evaluation in the same format as before)
-
-Overall Result: [Yes/No]
-Explanation: [Short Explanation of the overall result if necessary. Max 3 sentences]
-End of Evaluation
--------End of format------
-
 Criterion: Well-formed
 User Story 1: Yes - The user story includes the role of ""Customer Service Agent"" and the means of ""resolve a customer service ticket.""
 User Story 2: Yes - The user story includes the role of ""Customer Service Agent"" and the means of ""update a customer service ticket.""
@@ -13414,6 +13343,7 @@ User Story 5: Yes - The user story includes the role of ""Customer Service Agent
 Overall Result: Yes
 Explanation: All user stories meet the criterion of being well-formed by including a role and a means for the action to be performed. Each user story clearly defines the role of the Customer Service Agent and the specific action they want to take in the context of resolving customer service tickets.
 End of Evaluation
+-------End of format------
 ------Start of format------
 Criterion: Atomic
 User Story 1: Yes - The user story expresses exactly one requirement: ""resolve a customer service ticket.""

@@ -1,0 +1,6 @@
+Model,Quality Index
+RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf,0.9600870827285922
+QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,0.9399267399267399
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,0.9051465676357638
+TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,0.8452961066083238
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,0.6804733727810651
