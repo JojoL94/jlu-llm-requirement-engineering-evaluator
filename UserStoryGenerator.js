@@ -6,10 +6,11 @@ const { stringify } = require("csv-stringify");
 
 // Liste der Modelle, die verwendet werden sollen
 const models = [
-    "lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct-Q4_K_M.gguf",
-    "RichardErkhov/google_-_gemma-1.1-7b-it-gguf/gemma-1.1-7b-it.Q2_K.gguf",
-    "TheBloke/Mistral-7B-Instruct-v0.2-GGUF/mistral-7b-instruct-v0.2.Q4_K_S.gguf",
-    "Qwen/Qwen2-7B-Instruct-GGUF/qwen2-7b-instruct-q5_0.gguf",
+    "QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf",
+    "RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf",
+    "lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf",
+    "microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf",
+    "TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf",
     // Füge hier weitere Modelle hinzu
     // "another-model-path",
 ];

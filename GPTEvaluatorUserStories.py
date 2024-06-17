@@ -87,7 +87,18 @@ User Stories: {user_stories}
 
 The next criterion is: {criterion}
 
-Please evaluate the user stories based on this criterion. Provide the evaluation for each user story in the same format as before.
+Please evaluate the user stories based on this criterion. Provide the evaluation for each user story in the same format as described and stay in this format.
+------Start of format------
+Criterion: [Name of Criterion]
+User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
+User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
+User Story [Number of User Story]: [Yes/No] - [Explanation and thought process if necessary]
+(...rest of user stories with their evaluation in the same format as before)
+
+Overall Result: [Yes/No]
+Explanation: [Short Explanation of the overall result if necessary. Max 3 sentences]
+End of Evaluation
+-------End of format-------
 """
 
 # Rate limiting

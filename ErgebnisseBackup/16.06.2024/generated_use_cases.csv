@@ -1,0 +1,292 @@
+Industry,Title,Description,Actor,Preconditions,Trigger,Use Case
+Automotive,Vehicle Maintenance,track vehicle maintenance schedules,Mechanic,Mechanic is logged into the system,Mechanic selects a vehicle,"Title: Inventory Management
+Actor: Dealer Manager
+Description: Monitor and control inventory of vehicles in a dealership
+Preconditions: Dealer Manager is logged into the system
+Trigger: Dealer Manager chooses the Inventory Management option
+
+Main Flow:
+1. [Actor] logs into the system.
+2. [Actor] navigates to the Inventory Management page.
+3. [Actor] reviews current inventory of vehicles.
+4. [Actor] updates any changes to vehicle inventory status as needed (e.g., new arrivals, sales, etc.)
+5. The system validates the changes.
+6. The system updates the inventory status and displays a confirmation message.
+
+Alternative Flows:
+1a. If [Actor] provides invalid input, the system returns an error message prompting for correction.
+6a. If a vehicle's inventory count drops to zero or below, a prompt or alert is generated for [Actor] to order or restock that particular vehicle.
+
+Postconditions: The inventory status is accurately updated and Dealer Manager is aware of current stock levels.
+Exceptions: If the system is unavailable, [Actor] is notified."
+Banking,Loan Processing,process a loan application,Bank Officer,Bank Officer is logged into the loan processing system,Customer submits a loan application,"Title: Automated Account Verification
+Actor: Bank Administrator
+Description: Verifies a customer's account information
+Preconditions: Bank Administrator is logged into the account administration system
+Trigger: Customer submits new account or changes account information
+
+Main Flow:
+1. [Actor] logs into the account administration system.
+2. [Actor] navigates to the Account Verification page.
+3. [Actor] inputs the customer's account details.
+4. The system validates the account information.
+5. The system displays a verification status.
+
+Alternative Flows:
+1a. If [Actor] inputs invalid or incomplete account information, the system displays an error message.
+
+Postconditions: The verification process confirms the account information is correct and updated.
+Exceptions: If the system or database is unavailable, [Actor] receives an error message."
+Insurance,Claim Filing,file an insurance claim,Insurance Agent,Insurance Agent is on the claims page,Customer reports an incident,"Title: Digital Policy Purchase
+Actor: Potential Policyholder
+Description: Purchase of insurance policy online
+Preconditions: Potential Policyholder is on the Policy selection page
+Trigger: Potential Policyholder clicks on ""Purchase Policy"" button
+
+Main Flow:
+1. [Actor] browses different insurance policies available on the website.
+2. [Actor] selects a suitable policy based on their need.
+3. [Actor] clicks the 'Purchase Policy' button.
+4. The system directs the [Actor] to the payment page.
+5. [Actor] enters the payment details and completes the purchase.
+6. The system processes the purchase and sends a confirmation email to the [Actor].
+
+Alternative Flows:
+5a. If the payment fails, the system redirects the [Actor] back to the payment page with error message.
+
+Postconditions: [Actor] successfully purchases a policy and receives a confirmation.
+Exceptions: If the system or payment gateway is unavailable, then the [Actor] is notified via an error message. 
+
+Title: Policy Renewal
+Actor: Policyholder
+Description: Renewal of existing insurance policy
+Preconditions: Policyholder is on the dashboard with their policy details
+Trigger: Policyholder clicks on ""Renew Policy"" button
+
+Main Flow:
+1. [Actor] logs into the system.
+2. [Actor] navigates to their policy dashboard.
+3. [Actor] clicks on 'Renew Policy' button associated with the policy due for renewal.
+4. The system directs the [Actor] to the payment page.
+5. [Actor] makes the renewal payment.
+6. The system processes the payment and sends a policy renewal confirmation email to the [Actor].
+
+Alternative Flows:
+5a. In case the payment fails, the system redirects the [Actor] back to the payment page with an error message.
+
+Postconditions: [Actor] successfully renews a policy and receives a confirmation.
+Exceptions: If the system or payment gateway is unavailable, then the [Actor] is notified via an error message."
+Healthcare,Patient Appointment,schedule a patient appointment,Receptionist,Receptionist is logged into the appointment system,Patient requests an appointment,"Title: Electronic Medical Records (EMR) Access and Management
+Actor: Physician
+Description: Securely access, manage and update patient's electronic medical records
+Preconditions: Physician is logged in and authorized in the Electronic Medical Records System (EMRS)
+Trigger: The need to access a patient's medical history for diagnosis or to update the records.
+
+Main Flow:
+1. [Actor] logs into the EMRS application.
+2. [Actor] navigates to the specific patient's EMR section.
+3. The system displays the chosen patient's EMR.
+4. [Actor] reads, searches, and/or updates patient's EMR as necessary.
+5. The system validates the updates, if any, and saves the changes.
+6. The system returns a confirmation message to the [Actor] upon successful update.
+
+Alternative Flows:
+6a. If [Actor] provides invalid updates, the system displays an error message and requests for a valid input.
+
+Postconditions: The specific patient's EMR is securely accessed and, if necessary, updated by the [Actor].
+Exceptions: If the EMRS is not accessible due to maintenance or other unexpected scenarios, the [Actor] will be alerted and the action may not be completed."
+Public Sector,Voter Registration,register a new voter,Government Official,Official is on the voter registration page,Citizen requests to register as a voter,"Title: Public Health Record Management
+Actor: Health Department Official
+Description: Manage and update public health records.
+Preconditions: The official is on the health records management page.
+Trigger: Need to update, add, or retrieve public health records.
+
+Main Flow:
+1. [Actor] logs into the health records management system.
+2. [Actor] navigates to the desired health record page (Add, Update, Retrieve).
+3. [Actor] performs the required action (add new record, update existing record, retrieve record).
+4. The system validates the input or request.
+5. The system processes the request and displays a confirmation message.
+
+Alternative Flows:
+1a. If [Actor] provides invalid input or request, the system displays an error message and prompts for correct input.
+
+Postconditions: The health record is successfully managed (added, updated, or retrieved).
+Exceptions: If the system is unavailable, [Actor] is notified."
+Travel & Logistics,Shipment Tracking,track a shipment,Logistics Coordinator,Coordinator is logged into the tracking system,Shipment status is updated,"Title: Automated Route Optimization
+Actor: Logistics Manager
+Description: Optimize route for deliveries
+Preconditions: Manager has access to the route optimization system
+Trigger: Delivery schedule is created
+
+Main Flow:
+1. [Actor] logs into the Route Optimization system.
+2. [Actor] enters the delivery destinations into the system.
+3. The system processes and analyzes the entries.
+4. The system produces an optimized route plan.
+5. The system displays the route plan to the [Actor] 
+
+Alternative Flows:
+5a. If [Actor] is unsatisfied with the route plan, they can request another plan.
+
+Postconditions: An optimized route plan is created and displayed.
+Exceptions: If the system is unavailable or cannot process the input, [Actor] is notified."
+Telecommunications,Service Ticket Resolution,resolve a customer service ticket,Customer Service Agent,Agent is on the support ticket page,Customer submits a service ticket,"Title: Network Outage Detection and Report
+Actor: Network Management System (NMS)
+Description: Monitoring and reporting of network outage 
+Preconditions: Network Management System (NMS) is operational. 
+Trigger: Network connectivity fails on any sites or nodes.
+
+Main Flow:
+1. [Actor] continually monitors the network status.
+2. [Actor] detects network fault/outage.
+3. [Actor] categorizes the severity level of the fault.
+4. [Actor] documents necessary information pertaining to the fault including location, time of failure, and probable cause.
+5. The system sends a comprehensive network failure report to the Network Operation Center (NOC) agents.
+6. Network Operation Center (NOC) agents will initiate the recovery process following the report.
+
+Alternative Flows:
+1a. If [Actor] cannot determine the severity of the fault, it is considered as the highest priority.
+
+Postconditions: An appropriate action is taken by the NOC agents to resolve any network issues.
+Exceptions: If system fails to send the report, a backup report mechanism will take over."
+Corporate IT,Software Update Deployment,deploy a new software update,IT Administrator,Administrator is on the update deployment page,Update is ready for deployment,"Title: Automated Hardware Inventory Management
+Actor: IT Administrator
+Description: Automate the process of tracking and managing the hardware inventory.
+Preconditions: Administrator has access to the Automated Hardware Inventory Management system.
+Trigger: A change in the inventory is detected.
+
+Main Flow:
+1. [Actor] logs into the Automated Hardware Inventory Management system.
+2. [Actor] navigates to the inventory management page.
+3. System automatically detects changes in the hardware inventory.
+4. [Actor] reviews the detected changes.
+5. [Actor] approves or disapproves the changes.
+6. If approved, the system updates the inventory list.
+7. The system generates and sends a hardware inventory report to the IT Administrator.
+
+Alternative Flows:
+7a. If the [Actor] disapproves the changes, the system doesn't update the inventory list.
+
+Postconditions: The Automated Hardware Inventory Management System successfully updates and manages the hardware inventory.
+Exceptions: If the system fails to detect changes or update the inventory, the [Actor] is notified."
+Consumer Products | New Data Solutions,Purchase Data Analysis,analyze consumer purchase data,Data Analyst,Analyst is logged into the data analysis tool,New purchase data is available,"Title: Consumer Behavior Tracking 
+Actor: Data Analyst
+Description: Track and analyze consumer behavior patterns 
+Preconditions: Analyst is logged into the Data Analytics Tool
+Trigger: New consumer behavior data has been collected
+
+Main Flow:
+1. [Actor] logs into the Data Analytics Tool.
+2. [Actor] navigates to the Consumer Behavior Tracking page.
+3. [Actor] selects the relevant consumer behavior parameters to analyze.
+4. The system validates the parameters.
+5. The system initiates the data analysis process.
+6. [Actor] reviews the analysis results. 
+
+Alternative Flows:
+1a. If the [Actor] selects invalid or non-existent parameters, the system displays an error message.
+
+Postconditions: Analysis of consumer behavior data is successfully completed and is ready for interpretation.
+Exceptions: If the system is unavailable, [Actor] is notified."
+Cyber Security,Security Audit,conduct a security audit,Security Auditor,Auditor is on the audit page,Audit is scheduled,"Title: Cyber Threat Detection 
+Actor: Cybersecurity Analyst
+Description: Actively monitor and identify possible cyber threats.
+Preconditions: Analyst is logged into the network security monitoring system.
+Trigger: Anomaly in network or suspicious activity detected.
+
+Main Flow:
+1. [Actor] logs into the cybersecurity monitoring system.
+2. [Actor] receives an alert/notification of possible threat.
+3. [Actor] investigates the possible threat by analyzing the data associated with it.
+4. The system aids in the analysis by providing relevant information about the threat.
+5. [Actor] determines if the threat is genuine or false positive.
+6. If threat is genuine, [Actor] initiates remedial measures.
+7. The system executes the remedial measures, updates threat database.
+
+Alternative Flows:
+6a. If threat is a false positive, [Actor] updates the system to avoid similar false alerts.
+
+Postconditions: The cybersecurity threat, if real, is successfully mitigated and data breach is prevented.
+Exceptions: If system fails to execute remedial measures, [Actor] is notified.
+"
+Test & Quality Management,Quality Assurance Test,execute a quality assurance test,QA Engineer,Engineer is logged into the QA system,Test is scheduled,"Title: Automated Unit Testing
+Actor: Software Developer
+Description: Execute automated unit tests 
+Preconditions: Software Developer is logged into the Integrated Development Environment (IDE)
+Trigger: Code is committed or pushed into the repository
+
+Main Flow:
+1. [Actor] commits or pushes changes into the repository.
+2. IDE detects the changes committed.
+3. [Actor] selects the ""Run unit tests"" option.
+4. The system starts executing all automated unit tests.
+5. The system returns the test results, passed or failed, along with specific errors if any.
+
+Alternative Flows:
+5a. If a test fails, the system shows the details of the failure and [Actor] needs to resolve the failure before proceeding.
+
+Postconditions: All unit tests are successfully executed and passed.
+Exceptions: Midway system failure, IDE crashes, lost internet connection. In these cases, [Actor] is automatically notified of the issue. 
+
+Title: Automated Regression Testing
+Actor: QA Engineer
+Description: Execute automated regression testing
+Preconditions: QA Engineer is logged into the testing environment
+Trigger: Test is scheduled or new code is ready for testing
+
+Main Flow:
+1. [Actor] schedules a regression test or it is triggered by new code.
+2. The system automatically sets up the testing environment.
+3. [Actor] initiates the automated regression testing.
+4. Testing tool executes the regression test.
+5. The system returns the results; whether the new code has broken existing functionality.
+
+Alternative Flows:
+5a. If the test presents a failure, the system indicates the failing module and provides the failure details for review by the QA Engineer. 
+
+Postconditions: All regression tests are executed and passed successfully.
+Exceptions: If the system is unavailable, [Actor] is notified."
+Life Science & Chemicals,Lab Experiment Recording,record lab experiment results,Lab Technician,Technician is on the lab results page,Experiment is completed,"Title: Hazardous Chemicals Inventory Management
+Actor: Lab Inventory Manager
+Description: Management of stock levels of specific hazard chemicals
+Preconditions: Manager has proper login credentials to the system. 
+Trigger: Low stock alert on a specific hazardous chemical
+
+Main Flow:
+1. [Actor] logs into the chemicals inventory management system.
+2. [Actor] receives a low stock alert and navigates to the respective chemical's page.
+3. [Actor] checks the current stock status, usage trend, and pending orders. 
+4. The system validates the details for accuracy. 
+5. If necessary, [Actor] orders more supplies of the chemical.
+6. The system records the order and updates inventory projection.
+7. The system sends order confirmation and updated inventory status to [Actor].
+
+Alternative Flows:
+5a. If chemical supply is sufficient according to usage trend and pending orders, [Actor] does not order more supplies.
+7a. If [Actor] decides to delay the order, the system records decision and predicts when the chemical will run out.
+
+Postconditions: The inventory of hazardous chemicals is successfully managed, preventing shortages or overstock situations.
+
+Exceptions: If the system is unavailable or unable to validate data, [Actor] is notified and instructed on manual procedures."
+Food,Food Inventory Management,manage a food inventory,Inventory Manager,Manager is logged into the inventory system,Inventory levels are updated,"Title: Restaurant Order Processing System
+Actor: Restaurant Staff
+Description: An online order processing system for a restaurant
+Preconditions: Staff is logged into the restaurant's ordering system
+Trigger: A new online order is placed
+
+Main Flow:
+1. [Actor] logs into the restaurant's online ordering system.
+2. [Actor] receives a notification when a new online order is placed.
+3. [Actor] reviews the order details.
+4. [Actor] confirms the order and its details, and the system sends a confirmation to the customer.
+5. [Actor] commences preparing the order.
+6. The system automatically updates the order status to show it's 'under preparation'.
+7. Once the order is ready, [Actor] updates the order status to 'Ready for pickup' or 'Out for delivery' depending on the chosen delivery method.
+
+Alternative Flows:
+3a. If a menu item in the order is not available, [Actor] contacts the customer for a possible substitution or notifies them of the cancellation.
+6a. If the preparation takes longer than the estimated time, the system automatically notifies the customer about the delay.
+
+Postconditions: The online order is processed successfully, and the customer is continuously informed about their order status.
+Exceptions: If the system is unavailable, [Actor] is notified and orders are halted until further notice."

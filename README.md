@@ -149,14 +149,14 @@ Bevor die User Stories generiert werden können, muss der LM Studio-Server gesta
 2. **User Stories generieren**:
 
    ```sh
-   node index.js
+   node UserStoryGenerator.js
    ```
 
    Diese Datei liest die `generated_prompts.csv`, generiert die User Stories mithilfe von verschiedenen Modellen und speichert sie in der Datei `generated_user_stories.csv`.
 
-#### Änderung der LLMs im `index.js`
+#### Änderung der LLMs im `UserStoryGenerator.js`
 
-Um die Modelle zu ändern, die für die Generierung der User Stories verwendet werden, kannst du die `models`-Liste im `index.js` bearbeiten. Hier ist ein Beispiel:
+Um die Modelle zu ändern, die für die Generierung der User Stories verwendet werden, kannst du die `models`-Liste im `UserStoryGenerator.js` bearbeiten. Hier ist ein Beispiel:
 
 ```javascript
 const models = [
