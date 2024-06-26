@@ -1,4 +1,6 @@
-﻿openai
-python-dotenv
+﻿openai~=1.33.0
+python-dotenv~=1.0.1
 pydantic
 pydantic_core
+pandas~=2.2.2
+backoff~=2.2.1

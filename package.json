@@ -2,9 +2,9 @@
   "name": "jlu-llm-requirement-engineering-evaluator",
   "version": "1.0.0",
   "description": "A project to generate use cases and user stories using LM Studio and OpenAI.",
-  "main": "UserStoryGenerator.js",
+  "main": "scripts/generators/UserStoryGenerator.js",
   "scripts": {
-    "start": "node UserStoryGenerator.js"
+    "start": "node scripts/generators/UserStoryGenerator.js"
   },
   "dependencies": {
     "@lmstudio/sdk": "^0.0.12",

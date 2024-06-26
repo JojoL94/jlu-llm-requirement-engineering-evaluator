@@ -1,4 +1,7 @@
-﻿import csv
+﻿import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../.venv/Lib/site-packages')))
+import csv
 
 # Funktion zum Lesen der Use Cases aus der CSV-Datei
 def read_use_cases(csv_file):
@@ -94,8 +97,12 @@ Now, using the provided use case, generate a complete set of user stories follow
 
 # Hauptfunktion zum Generieren der Prompts und Speichern in einer CSV-Datei
 def main():
-    csv_file = 'generated_use_cases.csv'  # Aktualisierter Dateiname
-    output_file = 'generated_prompts.csv'
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    data_dir = os.path.join(current_dir, '../../data/generated')
+    os.makedirs(data_dir, exist_ok=True)
+
+    csv_file = os.path.join(data_dir, "generated_use_cases.csv")
+    output_file = os.path.join(data_dir, "generated_prompts.csv")
 
     use_cases = read_use_cases(csv_file)
     with open(output_file, mode='w', newline='', encoding='utf-8') as file:

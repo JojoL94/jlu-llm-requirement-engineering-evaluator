@@ -1,5 +1,7 @@
-import csv
+import sys
 import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../.venv/Lib/site-packages')))
+import csv
 
 # Kriterien nach Lucassen et al.
 criteria = [
@@ -19,8 +21,8 @@ criteria = [
 ]
 
 # Pfade zu den CSV-Dateien
-input_use_cases_file = 'generated_use_cases.csv'
-input_user_stories_file = 'generated_user_stories.csv'
+input_use_cases_file = '../../ErgebnisseBackup/generated_use_cases.csv'
+input_user_stories_file = '../../ErgebnisseBackup/generated_user_stories.csv'
 output_prompts_file = 'generated_evaluation_prompts.csv'
 
 # Lesen der Use Cases

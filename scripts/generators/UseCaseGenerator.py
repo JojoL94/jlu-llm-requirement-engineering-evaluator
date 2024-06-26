@@ -1,4 +1,8 @@
-﻿import csv
+﻿import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../.venv/Lib/site-packages')))
+
+import csv
 import os
 import time
 import random
@@ -103,6 +107,7 @@ def generate_use_case(industry, title, description, actor, preconditions, trigge
 
     # Extrahiere die Antwortnachricht
     message = response.choices[0].message.content
+    print(f"Generated use case for {title}:\n{message}")  # Echtzeit-Ausgabe in die Konsole
     return message
 
 def main():
@@ -122,8 +127,13 @@ def main():
         {"industry": "Life Science & Chemicals", "title": "Lab Experiment Recording", "description": "record lab experiment results", "actor": "Lab Technician", "preconditions": "Technician is on the lab results page", "trigger": "Experiment is completed"}
     ]
 
+    # Erstelle das Verzeichnis für die generierten Dateien, falls es noch nicht existiert
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    output_dir = os.path.join(current_dir, '../../data/generated')
+    os.makedirs(output_dir, exist_ok=True)
+
     # CSV-Datei erstellen und die Daten speichern
-    csv_file = 'generated_use_cases.csv'
+    csv_file = os.path.join(output_dir, "generated_use_cases.csv")
     with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         writer.writerow(["Industry", "Title", "Description", "Actor", "Preconditions", "Trigger", "Use Case"])

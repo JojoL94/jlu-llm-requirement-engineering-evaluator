@@ -48,6 +48,28 @@ Dieses Projekt generiert Use Cases und User Stories für verschiedene Branchen u
 
 ## Verwendung
 
+### Kompletten Prozess ausführen
+
+Der `run_all.py`-Skript steuert den gesamten Prozess vom Generieren der Use Cases bis zur Erstellung des Leaderboards.
+
+1. **Gesamten Prozess ausführen**:
+
+   ```sh
+   python scripts/run_all.py
+   ```
+
+   Dieses Skript führt die folgenden Schritte aus:
+   - Generiert Use Cases (`UseCaseGenerator.py`)
+   - Generiert Prompts (`PromptGenerator.py`)
+   - Startet den LM Studio-Server
+   - Generiert User Stories (`UserStoryGenerator.js`)
+   - Evaluiert die User Stories (`GPTEvaluatorUserStories.py`)
+   - Erstellt ein Leaderboard (`LeaderboardGenerator.py`)
+
+### Einzelschritte ausführen
+
+Sie können auch jeden Schritt des Prozesses einzeln ausführen, wie unten beschrieben.
+
 ### Use Cases generieren
 
 Der `UseCaseGenerator.py` erstellt eine Reihe von Use Cases für verschiedene Branchen und speichert sie in einer CSV-Datei.
@@ -55,10 +77,10 @@ Der `UseCaseGenerator.py` erstellt eine Reihe von Use Cases für verschiedene Br
 1. **Use Cases generieren**:
 
    ```sh
-   python UseCaseGenerator.py
+   python scripts/generators/UseCaseGenerator.py
    ```
 
-   Diese Datei liest die Brancheninformationen und generiert die entsprechenden Use Cases, die in der Datei `generated_use_cases.csv` gespeichert werden.
+   Diese Datei liest die Brancheninformationen und generiert die entsprechenden Use Cases, die in der Datei `data/generated/generated_use_cases.csv` gespeichert werden.
 
 #### Änderung der Branche im `UseCaseGenerator.py`
 
@@ -80,10 +102,10 @@ Der `PromptGenerator.py` erstellt Prompts basierend auf den generierten Use Case
 1. **Prompts generieren**:
 
    ```sh
-   python PromptGenerator.py
+   python scripts/generators/PromptGenerator.py
    ```
 
-   Diese Datei liest die `generated_use_cases.csv` und erstellt die entsprechenden Prompts, die in der Datei `generated_prompts.csv` gespeichert werden.
+   Diese Datei liest die `data/generated/generated_use_cases.csv` und erstellt die entsprechenden Prompts, die in der Datei `data/generated/generated_prompts.csv` gespeichert werden.
 
 #### Änderung des Prompts im `PromptGenerator.py`
 
@@ -96,9 +118,6 @@ prompt_template = """
 You are a skilled software developer responsible for translating a use case into a complete set of user stories. Each user story should be in the format commonly used in agile software development, specifically:
 
 - **As a [type of user]**
--
-
-```markdown
 - **I want [some goal]**
 - **So that [some reason]**
 
@@ -151,10 +170,10 @@ Bevor die User Stories generiert werden können, muss der LM Studio-Server gesta
 2. **User Stories generieren**:
 
    ```sh
-   node UserStoryGenerator.js
+   node scripts/generators/UserStoryGenerator.js
    ```
 
-   Diese Datei liest die `generated_prompts.csv`, generiert die User Stories mithilfe von verschiedenen Modellen und speichert sie in der Datei `generated_user_stories.csv`.
+   Diese Datei liest die `data/generated/generated_prompts.csv`, generiert die User Stories mithilfe von verschiedenen Modellen und speichert sie in der Datei `data/generated/generated_user_stories.csv`.
 
 #### Änderung der LLMs im `UserStoryGenerator.js`
 
@@ -169,17 +188,17 @@ const models = [
 ];
 ```
 
-Die generierten User Stories werden in der Datei `generated_user_stories.csv` gespeichert, mit einer klaren Trennung zwischen den Modellen und den Use Cases.
+Die generierten User Stories werden in der Datei `data/generated/generated_user_stories.csv` gespeichert, mit einer klaren Trennung zwischen den Modellen und den Use Cases.
 
 ### User Stories evaluieren
 
 1. **Evaluation der User Stories durchführen**:
 
    ```sh
-   python GPTEvaluatorUserStories.py
+   python scripts/evaluators/GPTEvaluatorUserStories.py
    ```
 
-   Diese Datei liest die `generated_user_stories.csv`, evaluiert die User Stories mithilfe des ausgewählten Modells und speichert die Ergebnisse in der Datei `evaluated_user_stories.csv`.
+   Diese Datei liest die `data/generated/generated_user_stories.csv`, evaluiert die User Stories mithilfe des ausgewählten Modells und speichert die Ergebnisse in der Datei `data/evaluated/evaluated_by_GPT-3.5-Turbo_user_stories.csv`.
 
 ### Ergebnisse analysieren und ein Leaderboard erstellen
 
@@ -188,10 +207,10 @@ Das Skript `LeaderboardGenerator.py` analysiert die Evaluationsergebnisse und er
 1. **Ergebnisse analysieren und ein Leaderboard erstellen**:
 
    ```sh
-   python LeaderboardGenerator.py
+   python scripts/analytics/LeaderboardGenerator.py
    ```
 
-   Diese Datei liest die `evaluated_user_stories.csv`, analysiert die Ergebnisse und erstellt ein Leaderboard, das in der Datei `leaderboard.csv` gespeichert wird.
+   Diese Datei liest die `data/evaluated/evaluated_by_GPT-3.5-Turbo_user_stories.csv`, analysiert die Ergebnisse und erstellt ein Leaderboard, das in der Datei `data/leaderboard/leaderboard.csv` gespeichert wird.
 
 ## Lizenz
 

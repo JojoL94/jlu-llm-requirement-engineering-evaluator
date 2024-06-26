@@ -1,5 +1,7 @@
-import pandas as pd
+import sys
 import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../.venv/Lib/site-packages')))
+import pandas as pd
 import re
 
 # Funktion zum Bereinigen der Kriterien-Namen
@@ -28,10 +30,10 @@ def parse_evaluation(evaluation):
     return criteria_results
 
 # Setze den Pfad zu den Evaluierungsergebnissen
-file_path = 'evaluated_by_GPT-3.5-Turbo_user_stories.csv'
+input_file_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../data/evaluated/evaluated_by_GPT-3.5-Turbo_user_stories.csv'))
 
 # Laden der Evaluierungsergebnisse von GPT-3.5
-gpt_3_5_evaluations = pd.read_csv(file_path)
+gpt_3_5_evaluations = pd.read_csv(input_file_path)
 
 # Anzeigen der ersten Zeilen, um einen Überblick über die Struktur zu erhalten
 print(gpt_3_5_evaluations.head())
@@ -62,7 +64,8 @@ results_df = pd.DataFrame(all_results)
 print(results_df.head())
 
 # Speichern der Ergebnisse in einer neuen CSV-Datei
-results_df.to_csv('gpt_3_5_parsed_evaluations.csv', index=False)
+parsed_evaluations_output_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../data/parsed/gpt_3_5_parsed_evaluations.csv'))
+results_df.to_csv(parsed_evaluations_output_path, index=False)
 
 # Aggregieren der Ergebnisse nach Modell und Kriterium
 aggregated_results = results_df.groupby(['Model', 'Criterion']).agg({
@@ -74,13 +77,15 @@ aggregated_results = results_df.groupby(['Model', 'Criterion']).agg({
 aggregated_results['Quality Index'] = aggregated_results['Yes'] / (aggregated_results['Yes'] + aggregated_results['No'])
 
 # Speichern der aggregierten Ergebnisse in einer neuen CSV-Datei
-aggregated_results.to_csv('aggregated_results.csv', index=False)
+aggregated_results_output_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../data/aggregated/aggregated_results.csv'))
+aggregated_results.to_csv(aggregated_results_output_path, index=False)
 
 # Erstellen eines Leaderboards
 leaderboard = aggregated_results.groupby('Model')['Quality Index'].mean().reset_index()
 leaderboard = leaderboard.sort_values(by='Quality Index', ascending=False)
 
 # Speichern des Leaderboards in einer neuen CSV-Datei
-leaderboard.to_csv('leaderboard.csv', index=False)
+leaderboard_output_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../data/leaderboard/leaderboard.csv'))
+leaderboard.to_csv(leaderboard_output_path, index=False)
 
 print("Leaderboard erstellt und Ergebnisse gespeichert.")

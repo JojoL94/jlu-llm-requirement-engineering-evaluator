@@ -90,7 +90,7 @@ End of Evaluation
 `;
 
 function detectLoop(text) {
-    const pattern = /(.)\1{4,}/; // Detect 5 or more consecutive repeating characters
+    const pattern = /(.)\1{8,}/; // Detect 5 or more consecutive repeating characters
     return pattern.test(text);
 }
 

@@ -23,7 +23,11 @@ async function generateUserStoriesForModel(modelPath, prompts) {
     });
 
     // File to save the generated user stories
-    const outputFile = path.join(__dirname, "generated_user_stories.csv");
+    const outputDir = path.join(__dirname, "../../data", "generated");
+    const outputFile = path.join(__dirname, "../../data/generated/generated_user_stories.csv");
+    if (!fs.existsSync(outputDir)) {
+        fs.mkdirSync(outputDir, { recursive: true });
+    }
     const output = fs.createWriteStream(outputFile, { flags: "a" });
 
     // Initialize CSV writer with columns
@@ -56,7 +60,7 @@ async function generateUserStoriesForModel(modelPath, prompts) {
 
 async function main() {
     // Read the generated prompts from the CSV file
-    const promptsFile = path.join(__dirname, "generated_prompts.csv");
+    const promptsFile = path.join(__dirname, "..", "..", "data", "generated", "generated_prompts.csv");
     const prompts = [];
 
     fs.createReadStream(promptsFile)

@@ -1,5 +1,7 @@
-import csv
+import sys
 import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../.venv/Lib/site-packages')))
+import csv
 import time
 import random
 import datetime
@@ -187,9 +189,13 @@ def continue_evaluation(use_case, user_stories, previous_evaluation, criterion):
     return response.choices[0].message.content
 
 def main():
-    input_use_cases_file = 'generated_use_cases.csv'
-    input_user_stories_file = 'generated_user_stories.csv'
-    output_file = 'evaluated_by_GPT-3.5-Turbo_user_stories.csv'
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    input_use_cases_file = os.path.join(current_dir, '../../data/generated', "generated_use_cases.csv")
+    input_user_stories_file = os.path.join(current_dir, '../../data/generated', "generated_user_stories.csv")
+
+    data_dir = os.path.join(current_dir, '../../data/evaluated')
+    os.makedirs(data_dir, exist_ok=True)
+    output_file = os.path.join(data_dir, "evaluated_by_GPT-3.5-Turbo_user_stories.csv")
 
     use_cases_dict = {}
     with open(input_use_cases_file, mode='r', encoding='utf-8') as file:

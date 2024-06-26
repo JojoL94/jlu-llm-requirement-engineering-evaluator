@@ -1,0 +1,3312 @@
+Industry,Title,Model,User Stories
+Automotive,Parts Supplier Management,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,"Here is the set of user stories based on the Parts Inventory Optimization use case:
+
+**1. User Story:**
+   - **As an Inventory Manager**
+   - **I want to log into the inventory management system**
+   - **So that I can access parts inventory optimization features and perform tasks efficiently**
+   - **Acceptance Criteria:**
+     - System must authenticate user credentials
+     - System must display a dashboard with navigation options for the Parts Inventory Optimization module
+
+**2. User Story:**
+   - **As an Inventory Manager**
+   - **I want to navigate to the Parts Inventory Optimization module**
+   - **So that I can review inventory levels and demand forecasts, and identify areas for optimization**
+   - **Acceptance Criteria:**
+     - System must provide a clear and intuitive navigation path to the Parts Inventory Optimization module
+     - System must display relevant data and charts for reviewing inventory levels and demand forecasts
+
+**3. User Story:**
+   - **As an Inventory Manager**
+   - **I want to review current inventory levels and demand forecasts**
+   - **So that I can identify parts that need restocking or reduction, and plan accordingly**
+   - **Acceptance Criteria:**
+     - System must display accurate and up-to-date inventory levels for each part
+     - System must provide a clear and easy-to-read graphical representation of demand forecasts
+
+**4. User Story:**
+   - **As an Inventory Manager**
+   - **I want to identify parts that need restocking or reduction**
+   - **So that I can adjust inventory levels accordingly and optimize storage space**
+   - **Acceptance Criteria:**
+     - System must provide a list of parts with low inventory levels or excessive stock
+     - System must display recommended reorder points for each part
+
+**5. User Story:**
+   - **As an Inventory Manager**
+   - **I want to adjust inventory levels based on analysis and optimization algorithms**
+   - **So that I can optimize storage space, reduce excess stock, and improve efficiency**
+   - **Acceptance Criteria:**
+     - System must allow for manual adjustment of inventory levels
+     - System must apply optimization algorithms to generate recommended inventory levels
+
+**6. User Story:**
+   - **As an Inventory Manager**
+   - **I want the system to update inventory records and generate purchase orders for restocking**
+   - **So that I can track changes in inventory levels and ensure accurate reporting**
+   - **Acceptance Criteria:**
+     - System must update inventory records accurately
+     - System must generate a detailed report of recommended purchases
+
+**7. User Story:**
+   - **As an Inventory Manager**
+   - **I want the system to provide recommendations for optimizing inventory levels**
+   - **So that I can make informed decisions about inventory management and reduce waste**
+   - **Acceptance Criteria:**
+     - System must display a clear and concise report of optimization recommendations
+     - System must provide a summary of potential cost savings or efficiency gains
+
+**8. User Story:**
+   - **As an Inventory Manager**
+   - **I want to reconcile any discrepancies in inventory data before proceeding with optimization**
+   - **So that I can ensure accurate reporting and optimize inventory levels correctly**
+   - **Acceptance Criteria:**
+     - System must detect and alert the user of potential discrepancies
+     - System must provide tools for reconciling inventory data
+
+**9. User Story:**
+   - **As an Inventory Manager**
+   - **I want to adjust reorder points for parts with long lead times**
+   - **So that I can ensure timely restocking and minimize stockouts**
+   - **Acceptance Criteria:**
+     - System must provide a clear indication of parts with long lead times
+     - System must allow for manual adjustment of reorder points
+
+**10. User Story:**
+   - **As an Inventory Manager**
+   - **I want to be alerted if the system encounters technical issues and unable to perform optimization**
+   - **So that I can take alternative measures for inventory management and minimize disruption**
+   - **Acceptance Criteria:**
+     - System must detect and alert the user of technical issues
+     - System must provide a clear and concise explanation of the issue and recommended actions"
+Food,Production Line Monitoring,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,"Here are the generated user stories based on the Inventory Management System use case:
+
+**User Story 1:**
+- **As an Inventory Manager**
+- **I want to log into the inventory management system**
+- **So that I can access and manage my inventory data**
+- **Acceptance Criteria:**
+	+ The system must prompt for login credentials
+	+ The system must display an error message for invalid login attempts
+
+**User Story 2:**
+- **As an Inventory Manager**
+- **I want to navigate to the Inventory Management page**
+- **So that I can view and update inventory levels**
+- **Acceptance Criteria:**
+	+ The system must display a dashboard with current inventory levels and upcoming orders
+	+ The system must provide easy navigation to key features (e.g., updating inventory levels, ordering restocking)
+
+**User Story 3:**
+- **As an Inventory Manager**
+- **I want to review current inventory levels and upcoming orders**
+- **So that I can track my stock and plan for replenishment**
+- **Acceptance Criteria:**
+	+ The system must display accurate and up-to-date inventory levels
+	+ The system must show a clear representation of upcoming orders
+
+**User Story 4:**
+- **As an Inventory Manager**
+- **I want to update inventory levels based on deliveries or usage**
+- **So that my records accurately reflect my current stock**
+- **Acceptance Criteria:**
+	+ The system must allow for manual updates of inventory levels
+	+ The system must automatically adjust stock levels and generate alerts for low inventory items
+
+**User Story 5:**
+- **As an Inventory Manager**
+- **I want to place orders for restocking low inventory items**
+- **So that I can ensure timely replenishment of my stock**
+- **Acceptance Criteria:**
+	+ The system must provide a list of low inventory items
+	+ The system must allow for easy ordering and confirmation
+
+**User Story 6:**
+- **As an Inventory Manager**
+- **I want to confirm order placement and update inventory levels**
+- **So that I can track my orders and adjust my stock accordingly**
+- **Acceptance Criteria:**
+	+ The system must display a confirmation message upon successful order placement
+	+ The system must update the inventory levels after order placement
+
+**User Story 7:**
+- **As an Inventory Manager**
+- **I want to manually adjust inventory levels if there are discrepancies**
+- **So that I can correct errors and maintain accurate records**
+- **Acceptance Criteria:**
+	+ The system must allow for manual adjustment of inventory levels
+	+ The system must provide clear instructions for correcting discrepancies
+
+**User Story 8:**
+- **As an Inventory Manager**
+- **I want to set up notifications when items become available again**
+- **So that I can stay informed about restocking opportunities**
+- **Acceptance Criteria:**
+	+ The system must allow for setting up notifications
+	+ The system must send a notification when the item becomes available again
+
+**User Story 9:**
+- **As an Inventory Manager**
+- **I want to be notified if there are technical issues with the system**
+- **So that I can resort to manual inventory tracking methods temporarily**
+- **Acceptance Criteria:**
+	+ The system must display a notification for technical issues
+	+ The system must provide instructions for manual inventory tracking
+
+Please note that these user stories should be prioritized and refined based on the specific requirements of the project."
+Banking,Loan Processing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,"Here is the complete set of user stories based on the given use case:
+
+**User Story 1:**
+- **As a bank customer**
+- **I want to log into my online banking account**
+- **So that I can securely access my banking features**
+- **Acceptance Criteria:**
+	+ User must enter a valid username and password
+	+ System must display an error message for invalid login attempts
+
+**User Story 2:**
+- **As a bank customer**
+- **I want to navigate to the Account Management section**
+- **So that I can view my account details and transactions**
+- **Acceptance Criteria:**
+	+ User must be able to access the Account Management section after logging in
+	+ System must display the user's account balance, recent transactions, and account details
+
+**User Story 3:**
+- **As a bank customer**
+- **I want to view my account balance and recent transactions**
+- **So that I can track my spending and verify transactions**
+- **Acceptance Criteria:**
+	+ User must be able to view the current account balance
+	+ System must display a list of recent transactions
+
+**User Story 4:**
+- **As a bank customer**
+- **I want to initiate a fund transfer to another account**
+- **So that I can pay bills or send money to others**
+- **Acceptance Criteria:**
+	+ User must enter recipient account details and transfer amount
+	+ System must prompt user for confirmation before processing the transfer
+
+**User Story 5:**
+- **As a bank customer**
+- **I want to confirm a fund transfer**
+- **So that I can ensure the transfer is processed correctly**
+- **Acceptance Criteria:**
+	+ User must be able to confirm or cancel the transfer
+	+ System must process the transfer and update the account balance accordingly
+
+**User Story 6:**
+- **As a bank customer**
+- **I want to receive a confirmation message for a successful fund transfer**
+- **So that I know the transfer was processed correctly**
+- **Acceptance Criteria:**
+	+ User must be displayed a confirmation message for a successful transfer
+	+ System must update the account balance accordingly
+
+**User Story 7 (Alternative Flow):**
+- **As a bank customer**
+- **I want to receive an error message if I enter incorrect recipient details**
+- **So that I know what went wrong and can correct it**
+- **Acceptance Criteria:**
+	+ User is prompted for correction of the recipient account details
+	+ System displays an error message explaining the issue
+
+**User Story 8 (Alternative Flow):**
+- **As a bank customer**
+- **I want to receive an error message if I attempt to transfer more than my available balance**
+- **So that I know what went wrong and can adjust my transfer amount**
+- **Acceptance Criteria:**
+	+ User is prompted to enter a valid transfer amount
+	+ System displays an error message explaining the issue
+
+**User Story 9 (Exception):**
+- **As a bank customer**
+- **I want to be notified if the online banking system is down or experiencing technical issues**
+- **So that I know what's happening and can try again later**
+- **Acceptance Criteria:**
+	+ System displays an error message explaining the issue
+	+ User must be able to retry the operation when the system is available again"
+Insurance,Claim Filing,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,"Here are the user stories based on the Policy Renewal use case:
+
+
+**1. User Story:**
+- **As a policyholder**
+- **I want to receive a policy renewal notification**
+- **So that I can stay informed about my insurance policy's expiration date**
+- **Acceptance Criteria:**
+    - System must send a notification to the policyholder via email or SMS
+    - Notification must include details of the approaching policy expiration date
+
+
+**2. User Story:**
+- **As a policyholder**
+- **I want to log into the insurance company's portal**
+- **So that I can access my policy information and renewal options**
+- **Acceptance Criteria:**
+    - System must prompt for login credentials
+    - Login must be successful with valid username and password
+
+
+**3. User Story:**
+- **As a policyholder**
+- **I want to navigate to the Policy Renewal section**
+- **So that I can review my policy details and coverage options**
+- **Acceptance Criteria:**
+    - System must display a clear menu or navigation option for policy renewal
+    - Navigation must be accessible from the main dashboard
+
+
+**4. User Story:**
+- **As a policyholder**
+- **I want to review my policy details and coverage options**
+- **So that I can make an informed decision about my insurance policy renewal**
+- **Acceptance Criteria:**
+    - System must display accurate and up-to-date policy information
+    - Policyholder must be able to view available coverage options and premium rates
+
+
+**5. User Story:**
+- **As a policyholder**
+- **I want to select the desired renewal options**
+- **So that I can confirm my insurance policy renewal**
+- **Acceptance Criteria:**
+    - System must allow for selection of renewal options (e.g., coverage levels, payment terms)
+    - Policyholder must be able to preview their selected options and premium
+
+
+**6. User Story:**
+- **As a policyholder**
+- **I want the system to calculate the renewal premium**
+- **So that I can confirm my insurance policy renewal with accurate pricing information**
+- **Acceptance Criteria:**
+    - System must accurately calculate the renewal premium based on selected options
+    - Premium calculation must include applicable discounts or surcharges
+
+
+**7. User Story:**
+- **As a policyholder**
+- **I want to confirm the renewal and make payment**
+- **So that I can complete my insurance policy renewal successfully**
+- **Acceptance Criteria:**
+    - System must provide an option for confirming the renewal
+    - Payment processing must be secure and successful
+
+
+**8. User Story:**
+- **As a policyholder**
+- **I want the system to update the policy status to renewed**
+- **So that I can verify my insurance policy is up-to-date**
+- **Acceptance Criteria:**
+    - System must update the policy status to ""renewed"" upon successful payment
+    - Policyholder must be able to view their updated policy information
+
+
+**9. User Story:**
+- **As a policyholder**
+- **I want to receive a confirmation of the policy renewal**
+- **So that I have proof of my insurance policy's renewal**
+- **Acceptance Criteria:**
+    - System must generate and send a confirmation email or notification
+    - Confirmation must include details of the renewed policy, including coverage levels and premium
+
+
+**10. User Story:**
+- **As a policyholder**
+- **I want to contact customer support if I have questions or need assistance**
+- **So that I can get help with my insurance policy renewal**
+- **Acceptance Criteria:**
+    - System must provide clear contact information for customer support
+    - Customer support team must be available to assist with policyholder inquiries
+
+
+**11. User Story:**
+- **As a policyholder**
+- **I want to explore other policy options or request cancellation if I decide not to renew**
+- **So that I can make an informed decision about my insurance needs**
+- **Acceptance Criteria:**
+    - System must provide clear options for exploring alternative policies
+    - Policyholder must be able to initiate a policy cancellation request
+
+
+**12. User Story:**
+- **As a policyholder**
+- **I want the system to handle payment processing errors and offer alternatives**
+- **So that I can complete my insurance policy renewal successfully**
+- **Acceptance Criteria:**
+    - System must detect and notify payment processing errors
+    - Policyholder must be provided with clear options for retrying or using an alternative payment method"
+Healthcare,Patient Appointment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,"Here is the set of user stories based on the given use case:
+
+**User Story 1:**
+- **As a healthcare provider**
+- **I want to log into the patient management system**
+- **So that I can access patient medical records and start the diagnosis process**
+- **Acceptance Criteria:**
+  - System must authenticate the healthcare provider's login credentials
+  - System must display an error message for invalid login attempts
+
+**User Story 2:**
+- **As a healthcare provider**
+- **I want to access patient medical records and symptoms**
+- **So that I can review relevant information before conducting a physical examination and diagnostic tests**
+- **Acceptance Criteria:**
+  - User must be able to select the patient's record from the list of patients
+  - System must display the patient's medical history, allergies, and current symptoms
+
+**User Story 3:**
+- **As a healthcare provider**
+- **I want to conduct a physical examination and diagnostic tests**
+- **So that I can gather necessary information for an accurate diagnosis**
+- **Acceptance Criteria:**
+  - User must be able to select the type of examination or test required
+  - System must display the results of the examination or test
+
+**User Story 4:**
+- **As a healthcare provider**
+- **I want to formulate a diagnosis based on findings**
+- **So that I can determine the best course of treatment for the patient**
+- **Acceptance Criteria:**
+  - User must be able to select relevant findings from the examination and test results
+  - System must provide options for potential diagnoses based on the selected findings
+
+**User Story 5:**
+- **As a healthcare provider**
+- **I want to create a treatment plan including medications, procedures, and follow-up care**
+- **So that I can ensure the patient receives appropriate care and follow-up**
+- **Acceptance Criteria:**
+  - User must be able to select relevant treatments from the list of options
+  - System must generate a comprehensive treatment plan with instructions for the patient
+
+**User Story 6:**
+- **As a healthcare provider**
+- **I want the system to store the diagnosis and treatment plan in the patient's electronic health record**
+- **So that I can easily access and update the patient's medical information**
+- **Acceptance Criteria:**
+  - System must save the diagnosis and treatment plan in the patient's electronic health record
+  - System must display an alert when a new diagnosis or treatment is added
+
+**User Story 7:**
+- **As a healthcare provider**
+- **I want the system to alert the pharmacy for medication orders and schedule follow-up appointments**
+- **So that I can ensure timely delivery of medications and scheduling of follow-ups**
+- **Acceptance Criteria:**
+  - System must send electronic prescriptions to the pharmacy
+  - System must schedule follow-up appointments with the patient
+
+**User Story 8:**
+- **As a healthcare provider**
+- **I want the system to provide alerts for additional tests or specialist consultations if necessary**
+- **So that I can make informed decisions and ensure accurate diagnoses**
+- **Acceptance Criteria:**
+  - System must display alerts for additional tests required
+  - System must allow user to schedule specialist consultations
+
+**User Story 9:**
+- **As a healthcare provider**
+- **I want the system to escalate critical cases for immediate attention**
+- **So that I can ensure timely treatment and minimize potential harm**
+- **Acceptance Criteria:**
+  - System must display an alert when a patient's condition is deemed critical
+  - System must allow user to escalate the case for immediate attention
+
+**User Story 10:**
+- **As a healthcare provider**
+- **I want the system to notify me if the patient's medical history is incomplete**
+- **So that I can request additional information and ensure accurate diagnoses**
+- **Acceptance Criteria:**
+  - System must display an alert when a patient's medical history is incomplete
+  - System must allow user to request additional information from the patient or other healthcare providers"
+Public Sector,Voter Registration,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,"Here is the complete set of user stories based on the given use case:
+
+**1. User Story:**
+- **As a citizen**
+- **I want to access the government feedback submission portal**
+- **So that I can provide my thoughts and suggestions to the government**
+- **Acceptance Criteria:**
+  - System must display the feedback submission page
+  - Page must include clear instructions for submitting feedback
+
+**2. User Story:**
+- **As a citizen**
+- **I want to select the appropriate category for my feedback**
+- **So that I can ensure my feedback is directed to the correct department or official**
+- **Acceptance Criteria:**
+  - System must display a list of categories (e.g., services, policies, infrastructure)
+  - User must be able to select one category from the list
+
+**3. User Story:**
+- **As a citizen**
+- **I want to provide detailed feedback in the text box**
+- **So that I can clearly convey my thoughts and concerns**
+- **Acceptance Criteria:**
+  - System must display a text box for providing feedback
+  - Text box must have a character limit (e.g., 500 characters)
+
+**4. User Story:**
+- **As a citizen**
+- **I want to attach relevant documents or images if necessary**
+- **So that I can provide additional context or evidence to support my feedback**
+- **Acceptance Criteria:**
+  - System must display an option for attaching files (e.g., PDF, image)
+  - File upload process must be secure and handle various file formats
+
+**5. User Story:**
+- **As a citizen**
+- **I want to submit my feedback**
+- **So that I can ensure it is received by the government**
+- **Acceptance Criteria:**
+  - System must display a ""Submit"" button
+  - Button must be enabled only when required fields are completed
+
+**6. User Story:**
+- **As a citizen**
+- **I want the system to acknowledge my feedback submission**
+- **So that I know my feedback has been received and is being processed**
+- **Acceptance Criteria:**
+  - System must display a confirmation message after successful submission
+  - Message must include details of the submitted feedback (e.g., category, summary)
+
+**7. User Story:**
+- **As a citizen**
+- **I want to be prompted if I try to submit feedback without completing required fields**
+- **So that I can ensure my feedback is complete and accurate**
+- **Acceptance Criteria:**
+  - System must display an error message when required fields are incomplete
+  - Message must indicate which fields need to be completed
+
+**8. User Story:**
+- **As a citizen**
+- **I want to save a draft of my feedback if I encounter technical issues**
+- **So that I can resume submitting my feedback later without losing my input**
+- **Acceptance Criteria:**
+  - System must display an option for saving a draft
+  - Draft must be stored securely and allow resumption of submission from the saved point
+
+**9. User Story:**
+- **As a citizen**
+- **I want to be informed about unavailability of the feedback submission portal due to system downtime or maintenance**
+- **So that I can plan accordingly and avoid frustration**
+- **Acceptance Criteria:**
+  - System must display a message indicating the reason for unavailability
+  - Message must include an estimated time for when the service will be available again"
+Travel & Logistics,Shipment Tracking,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,"Based on the given use case, I've created a set of user stories that cover all aspects of the shipment tracking process. Here are the user stories:
+
+**User Story 1:**
+- **As a Logistics Coordinator**
+- **I want to log into the shipment tracking system**
+- **So that I can access my shipments and track their progress**
+- **Acceptance Criteria:**
+	+ System must prompt for username and password
+	+ System must authenticate the user correctly
+
+**User Story 2:**
+- **As a Logistics Coordinator**
+- **I want to navigate to the Shipment Tracking section**
+- **So that I can quickly find and track my shipments**
+- **Acceptance Criteria:**
+	+ System must display a menu or tab for shipment tracking
+	+ System must allow me to search for specific shipments
+
+**User Story 3:**
+- **As a Logistics Coordinator**
+- **I want to enter the necessary details to track a shipment**
+- **So that I can quickly find and track my shipments**
+- **Acceptance Criteria:**
+	+ System must prompt for shipment tracking information (e.g., shipment ID, tracking number)
+	+ System must validate the input data
+
+**User Story 4:**
+- **As a Logistics Coordinator**
+- **I want to view the real-time status and location of my shipments**
+- **So that I can monitor their progress and ensure timely delivery**
+- **Acceptance Criteria:**
+	+ System must display the current status (e.g., in transit, delivered) and location
+	+ System must provide estimated delivery time and any potential delays
+
+**User Story 5:**
+- **As a Logistics Coordinator**
+- **I want to review tracking information and take necessary actions**
+- **So that I can respond promptly to shipment updates**
+- **Acceptance Criteria:**
+	+ System must display the latest tracking information
+	+ System must allow me to update or adjust delivery schedules as needed
+
+**User Story 6:**
+- **As a Logistics Coordinator**
+- **I want the system to prompt for correction if I enter invalid or incomplete information**
+- **So that I can provide accurate data and avoid errors**
+- **Acceptance Criteria:**
+	+ System must display error messages for invalid input
+	+ System must allow me to correct and re-enter the data
+
+**User Story 7:**
+- **As a Logistics Coordinator**
+- **I want the system to notify me if there are technical issues or temporary unavailability**
+- **So that I can plan accordingly and minimize disruptions**
+- **Acceptance Criteria:**
+	+ System must display an error message for technical issues
+	+ System must provide a notification option for when services are restored
+
+**User Story 8:**
+- **As a Logistics Coordinator**
+- **I want to ensure the system is always available and reliable**
+- **So that I can trust the data and make informed decisions**
+- **Acceptance Criteria:**
+	+ System must have a high uptime and responsiveness
+	+ System must have robust error handling and recovery mechanisms
+
+These user stories cover all aspects of the shipment tracking process, from logging in to reviewing tracking information. Each story includes clear goals, reasons, and acceptance criteria to ensure that the system meets the needs of the Logistics Coordinator."
+Telecommunications,Service Ticket Resolution,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,"Here are the generated user stories based on the given use case:
+
+**User Story 1:**
+- **As a Customer Service Agent**
+- **I want to log into the system**
+- **So that I can access customer service tickets for resolution**
+- **Acceptance Criteria:**
+    - User must enter valid credentials (username and password)
+    - System must display an error message for invalid login attempts
+
+**User Story 2:**
+- **As a Customer Service Agent**
+- **I want to navigate to the Service Ticket Resolution page**
+- **So that I can view and resolve customer service tickets efficiently**
+- **Acceptance Criteria:**
+    - User must be able to access the Service Ticket Resolution page from the main menu
+    - System must display a list of available tickets for resolution
+
+**User Story 3:**
+- **As a Customer Service Agent**
+- **I want to select and update a service ticket with relevant information or actions taken**
+- **So that I can effectively resolve customer issues and maintain accurate records**
+- **Acceptance Criteria:**
+    - User must be able to select a service ticket from the list
+    - System must allow user to enter updates, comments, or attachments related to the ticket
+
+**User Story 4:**
+- **As a Customer Service Agent**
+- **I want to submit the resolution of a service ticket**
+- **So that I can confirm the issue is resolved and update the status accordingly**
+- **Acceptance Criteria:**
+    - User must be able to submit the updated ticket with comments or attachments
+    - System must validate user input before updating the ticket status
+
+**User Story 5:**
+- **As a Customer Service Agent**
+- **I want to receive validation for my input and update the status of the service ticket**
+- **So that I can ensure accurate records and confirm resolution with the customer**
+- **Acceptance Criteria:**
+    - System must validate user input for accuracy and completeness
+    - System must update the ticket status to ""Resolved"" after successful submission
+
+**User Story 6:**
+- **As a Customer Service Agent or customer**
+- **I want to receive confirmation of service ticket resolution from the system**
+- **So that I can be notified and keep track of issue resolutions**
+- **Acceptance Criteria:**
+    - System must send notification (email or in-app) upon successful resolution
+    - Notification must include details about the resolved issue
+
+**User Story 7:**
+- **As a Customer Service Agent**
+- **I want to handle invalid input errors and prompts for correction**
+- **So that I can maintain data integrity and accuracy in service ticket updates**
+- **Acceptance Criteria:**
+    - System must display an error message when user provides invalid input
+    - User must be able to correct the invalid input before resubmitting
+
+**User Story 8:**
+- **As a Customer Service Agent or customer**
+- **I want to receive notification of system unavailability and prompts to try again later**
+- **So that I can maintain flexibility in service ticket resolution and minimize downtime**
+- **Acceptance Criteria:**
+    - System must display an error message when unavailable
+    - User must be able to retry submission after a reasonable time period
+
+These user stories cover all aspects of the given use case, including system responses, user interactions, and acceptance criteria. They provide clear goals, reasons, and acceptance criteria for each story, ensuring that the software development process is guided by the customer's needs and expectations."
+Corporate IT,Software Update Deployment,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,"Here is the set of user stories based on the given use case:
+
+**User Story 1:**
+- **As an IT Administrator**
+- **I want to log into the system**
+- **So that I can access software update deployment features**
+- **Acceptance Criteria:**
+	+ User must enter a valid username and password
+	+ System must display an error message for invalid login attempts
+
+**User Story 2:**
+- **As an IT Administrator**
+- **I want to navigate to the Software Update Deployment section**
+- **So that I can initiate the update deployment process**
+- **Acceptance Criteria:**
+	+ User must be able to access the Software Update Deployment section from the main menu
+	+ System must display a list of available software updates
+
+**User Story 3:**
+- **As an IT Administrator**
+- **I want to select a new software update for deployment**
+- **So that I can ensure all systems are running with the latest version**
+- **Acceptance Criteria:**
+	+ User must be able to select a software update from the list
+	+ System must verify the compatibility of the selected update
+
+**User Story 4:**
+- **As an IT Administrator**
+- **I want to confirm the deployment of the software update**
+- **So that I can ensure the update is initiated correctly**
+- **Acceptance Criteria:**
+	+ User must be able to confirm the deployment by clicking a button
+	+ System must initiate the deployment process after confirmation
+
+**User Story 5:**
+- **As an IT Administrator**
+- **I want to monitor the status of the software update deployment in real-time**
+- **So that I can track the progress and troubleshoot any issues**
+- **Acceptance Criteria:**
+	+ User must be able to view the current status of the deployment
+	+ System must display updates on the status as the deployment progresses
+
+**User Story 6:**
+- **As an IT Administrator**
+- **I want to receive notifications upon successful completion of the software update deployment**
+- **So that I can confirm the update is complete and verify its functionality**
+- **Acceptance Criteria:**
+	+ User must be notified when the deployment is completed
+	+ System must display a confirmation message with details on the successful deployment
+
+**User Story 7:**
+- **As an IT Administrator**
+- **I want to receive notifications upon failure or unexpected errors during the software update deployment**
+- **So that I can troubleshoot and resolve any issues promptly**
+- **Acceptance Criteria:**
+	+ User must be notified when an error occurs
+	+ System must log the incident for further investigation
+
+**User Story 8:**
+- **As an IT Administrator**
+- **I want to receive notifications in case of system downtime or unavailability during software update deployment**
+- **So that I can take appropriate action and minimize potential disruption**
+- **Acceptance Criteria:**
+	+ User must be notified when the system is unavailable
+	+ System must provide guidance on resolving the issue
+
+These user stories cover all aspects of the given use case, including logging in, selecting software updates, verifying compatibility, initiating deployment, monitoring status, receiving notifications, and handling exceptions."
+Consumer Products | New Data Solutions,Purchase Data Analysis,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,"Here is the complete set of user stories based on the Customer Segmentation Analysis use case:
+
+**User Story 1:**
+- **As a Data Analyst**
+- **I want to log into the data analysis tool**
+- **So that I can access the customer segmentation analysis feature**
+- **Acceptance Criteria:**
+	+ User must enter a valid username and password
+	+ System must display an error message for invalid login attempts
+
+**User Story 2:**
+- **As a Data Analyst**
+- **I want to navigate to the Customer Segmentation Analysis page**
+- **So that I can start analyzing customer purchase data**
+- **Acceptance Criteria:**
+	+ User must be able to access the Customer Segmentation Analysis page
+	+ System must display the available analysis options and criteria
+
+**User Story 3:**
+- **As a Data Analyst**
+- **I want to select segmentation criteria based on purchase data**
+- **So that I can identify distinct customer groups**
+- **Acceptance Criteria:**
+	+ User must be able to choose from various segmentation options (e.g., demographics, behavior, etc.)
+	+ System must display the selected criteria and provide a preview of the segmentation results
+
+**User Story 4:**
+- **As a Data Analyst**
+- **I want the system to process the data and generate customer segments**
+- **So that I can analyze the buying behavior of each group**
+- **Acceptance Criteria:**
+	+ User must be able to initiate the analysis process
+	+ System must display the generated customer segments with relevant metrics (e.g., average order value, purchase frequency)
+
+**User Story 5:**
+- **As a Data Analyst**
+- **I want to review the segmented customer groups and identify patterns and trends**
+- **So that I can gain insights into customer behavior**
+- **Acceptance Criteria:**
+	+ User must be able to view and compare the characteristics of each customer segment
+	+ System must provide visualization tools for easy analysis
+
+**User Story 6:**
+- **As a Data Analyst**
+- **I want the system to display the Customer Segmentation Analysis results**
+- **So that I can present my findings to stakeholders**
+- **Acceptance Criteria:**
+	+ User must be able to view the detailed report of the customer segmentation analysis
+	+ System must provide options for exporting or sharing the results
+
+**User Story 7 (Alternative Flow):**
+- **As a Data Analyst**
+- **I want the system to provide troubleshooting steps if data processing issues occur**
+- **So that I can resolve any errors and continue my analysis**
+- **Acceptance Criteria:**
+	+ User must be able to access a troubleshooting guide for common errors
+	+ System must display clear instructions for resolving data processing issues
+
+**User Story 8 (Alternative Flow):**
+- **As a Data Analyst**
+- **I want the ability to refine segmentation criteria and re-run the analysis**
+- **So that I can fine-tune my analysis and achieve more accurate results**
+- **Acceptance Criteria:**
+	+ User must be able to adjust the segmentation parameters
+	+ System must allow for re-running the analysis with the updated criteria
+
+**User Story 9 (Exception):**
+- **As a Data Analyst**
+- **I want to be notified if the system experiences downtime or data connectivity issues**
+- **So that I can try again later and minimize data loss**
+- **Acceptance Criteria:**
+	+ User must receive a notification of the system outage or issue
+	+ System must display a retry option for data processing
+
+These user stories cover all aspects of the given use case, addressing various functionalities, user interactions, and system responses. They provide clear goals, reasons, and acceptance criteria for each feature to ensure that the customer segmentation analysis tool meets the requirements."
+Cyber Security,Security Audit,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,"Here is the complete set of user stories for the Security Incident Response use case:
+
+**User Story 1:**
+- **As a Security Incident Responder**
+- **I want to receive notifications about security incidents**
+- **So that I can quickly respond to potential threats**
+- **Acceptance Criteria:**
+	+ System must send a notification to the responder when a security incident is detected
+	+ Notification should include basic details of the incident, such as timestamp and affected systems
+
+**User Story 2:**
+- **As a Security Incident Responder**
+- **I want to access the incident response dashboard**
+- **So that I can easily view and manage incident responses**
+- **Acceptance Criteria:**
+	+ System must display the incident response dashboard with relevant information, such as incident details and status
+	+ Dashboard should allow responders to filter incidents by severity, category, or date
+
+**User Story 3:**
+- **As a Security Incident Responder**
+- **I want to review the details of a security incident**
+- **So that I can understand the scope and impact of the incident**
+- **Acceptance Criteria:**
+	+ System must display detailed information about the security incident, including affected systems, users, and data
+	+ Information should be presented in a clear and organized manner
+
+**User Story 4:**
+- **As a Security Incident Responder**
+- **I want to take necessary actions to contain and mitigate the incident**
+- **So that I can prevent further damage and minimize impact**
+- **Acceptance Criteria:**
+	+ System must allow responders to execute actions such as isolating affected systems, disabling user accounts, or restarting services
+	+ System should log all actions taken by the responder
+
+**User Story 5:**
+- **As a Security Incident Responder**
+- **I want the system to generate a report on the incident response process**
+- **So that I can track progress and measure effectiveness of my actions**
+- **Acceptance Criteria:**
+	+ System must generate a detailed report on the incident response process, including all actions taken and decisions made
+	+ Report should include metrics such as incident severity, resolution time, and user impact
+
+**User Story 6:**
+- **As a Security Incident Responder**
+- **I want to request additional information from relevant sources if needed**
+- **So that I can gather more data to aid in the response**
+- **Acceptance Criteria:**
+	+ System must allow responders to request additional information, such as log files or system configuration details
+	+ System should provide a mechanism for tracking and organizing requested information
+
+**User Story 7:**
+- **As a Security Incident Responder**
+- **I want to escalate the incident response if necessary**
+- **So that I can involve higher authorities and ensure proper resolution**
+- **Acceptance Criteria:**
+	+ System must allow responders to escalate incidents to higher authorities, such as senior management or incident response teams
+	+ System should provide a mechanism for tracking and documenting escalation requests
+
+**User Story 8:**
+- **As a Security Incident Responder**
+- **I want the system to alert me if it experiences technical issues during an incident response**
+- **So that I can take alternative measures to continue responding effectively**
+- **Acceptance Criteria:**
+	+ System must alert responders of any technical issues, such as database connectivity loss or network failure
+	+ Alert should provide instructions on manual incident response procedures and alternatives for continued response
+
+These user stories cover all aspects of the Security Incident Response use case, including receiving notifications, accessing the incident response dashboard, reviewing incident details, taking actions to contain and mitigate incidents, generating reports, requesting additional information, escalating incidents, and handling technical issues."
+Test & Quality Management,Quality Assurance Test,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,"Here is the complete set of user stories based on the given use case:
+
+**1. Log in to Quality Assurance System**
+
+- **As a QA Engineer**
+- **I want to log into the Quality Assurance system**
+- **So that I can access test cases and test data for execution**
+- **Acceptance Criteria:**
+  - User must enter valid login credentials
+  - System must display an error message for invalid login attempts
+
+**2. Select Test Suite or Test Cases**
+
+- **As a QA Engineer**
+- **I want to select the test suite or test cases to be executed**
+- **So that I can ensure thorough testing of the software product**
+- **Acceptance Criteria:**
+  - User must be able to browse and select available test suites or individual test cases
+  - System must display a list of selected test cases for review
+
+**3. Run Test Cases**
+
+- **As a QA Engineer**
+- **I want to run the selected test cases on the designated test environment**
+- **So that I can execute automated tests and verify results**
+- **Acceptance Criteria:**
+  - User must be able to initiate the test execution process
+  - System must display the test results, including pass/fail status and any detected defects
+
+**4. Record Test Results**
+
+- **As a QA Engineer**
+- **I want to record the test results, including any defects found during testing**
+- **So that I can track progress and provide summary reports to stakeholders**
+- **Acceptance Criteria:**
+  - User must be able to view the test execution results
+  - System must store and update the test results and defect tracking information
+
+**5. Review Test Results**
+
+- **As a QA Engineer**
+- **I want to review the test results and log any identified issues in the defect tracking system**
+- **So that I can ensure accurate reporting of defects and prioritize resolution**
+- **Acceptance Criteria:**
+  - User must be able to view and analyze the test execution results
+  - System must allow for logging and tracking of defects, including assignment to developers
+
+**6. Complete Test Execution**
+
+- **As a QA Engineer**
+- **I want to mark the test execution as complete if all test cases pass successfully**
+- **So that I can provide accurate reporting and close out test sessions**
+- **Acceptance Criteria:**
+  - User must be able to confirm successful completion of test execution
+  - System must display a confirmation message and update the test execution status
+
+**7. Investigate Defects**
+
+- **As a QA Engineer**
+- **I want to investigate the root cause of any failed test cases and log defects**
+- **So that I can ensure accurate reporting and priority assignment for defect resolution**
+- **Acceptance Criteria:**
+  - User must be able to view detailed information about failed test cases
+  - System must allow for logging and tracking of defects, including assignment to developers
+
+**8. Escalate Critical Defects**
+
+- **As a QA Engineer**
+- **I want to escalate critical defects found during testing to the project manager for prioritization and resolution**
+- **So that I can ensure timely resolution of high-priority issues**
+- **Acceptance Criteria:**
+  - User must be able to identify critical defects based on pre-defined criteria
+  - System must allow for escalation of critical defects to the project manager
+
+**9. Generate Test Execution Summary Report**
+
+- **As a QA Engineer**
+- **I want to provide a test execution summary report to stakeholders**
+- **So that I can ensure transparency and visibility into testing progress and results**
+- **Acceptance Criteria:**
+  - User must be able to generate a report summarizing the test execution
+  - System must display a report format with relevant information, such as test case coverage and defect tracking.
+
+Please note that these user stories are based on the provided use case and may require modifications or additions depending on specific requirements and project needs."
+Life Science & Chemicals,Lab Experiment Recording,QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct.Q5_1.gguf,"Here is the set of user stories based on the given use case:
+
+1. **User Story:**
+   - **As a Lab Manager**
+   - **I want to log into the Lab Inventory Management system**
+   - **So that I can access the inventory management features**
+   - **Acceptance Criteria:**
+     - System must prompt for username and password
+     - System must display an error message for invalid login attempts
+
+2. **User Story:**
+   - **As a Lab Manager**
+   - **I want to view current lab inventory levels**
+   - **So that I can track the availability of chemicals and supplies**
+   - **Acceptance Criteria:**
+     - System must display a list of all items in stock with their corresponding quantities
+     - System must allow filtering by item type or category
+
+3. **User Story:**
+   - **As a Lab Manager**
+   - **I want to identify items that need to be reordered**
+   - **So that I can restock the lab and maintain optimal inventory levels**
+   - **Acceptance Criteria:**
+     - System must display a list of items with quantities below a predefined threshold
+     - System must provide an option to reorder these items
+
+4. **User Story:**
+   - **As a Lab Manager**
+   - **I want to place orders for required chemicals and supplies**
+   - **So that I can restock the lab and maintain optimal inventory levels**
+   - **Acceptance Criteria:**
+     - System must allow selection of items to order
+     - System must display an order summary before submitting the request
+
+5. **User Story:**
+   - **As a Lab Manager**
+   - **I want the system to update inventory levels after placing orders**
+   - **So that I can track changes in inventory and ensure accuracy**
+   - **Acceptance Criteria:**
+     - System must decrement quantities of ordered items
+     - System must send confirmation of the order
+
+6. **User Story:**
+   - **As a Lab Manager**
+   - **I want to mark expired or damaged items for disposal**
+   - **So that I can maintain accurate inventory levels and reduce waste**
+   - **Acceptance Criteria:**
+     - System must provide an option to mark items as expired or damaged
+     - System must update the inventory levels accordingly
+
+7. **User Story:**
+   - **As a Lab Manager**
+   - **I want to investigate and reconcile discrepancies in inventory levels**
+   - **So that I can ensure accurate inventory tracking and identify potential issues**
+   - **Acceptance Criteria:**
+     - System must provide an option to view historical inventory data
+     - System must allow for manual correction of discrepancies
+
+8. **User Story:**
+   - **As a Lab Manager**
+   - **I want the system to notify me of technical issues and provide alternative procedures**
+   - **So that I can continue managing lab inventory effectively during system downtime**
+   - **Acceptance Criteria:**
+     - System must send notifications in case of technical issues
+     - System must provide instructions for manual inventory management during downtime"
+Industry,Title,Model,User Stories
+Automotive,Parts Supplier Management,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf," 1. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to log into the inventory management system**
+   - **So that I can access and manage the parts inventory**
+   - **Acceptance Criteria:**
+     - The login screen should be accessible from the system homepage.
+     - User should enter a valid username and password to successfully log in.
+     - The system should display an error message for invalid login attempts.
+
+2. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to navigate to the Parts Inventory Optimization module**
+   - **So that I can optimize parts inventory levels**
+   - **Acceptance Criteria:**
+     - The system should provide a navigation menu with the option to access the Parts Inventory Optimization module.
+     - Upon selecting the module, the user should be redirected to the appropriate page displaying current inventory levels and demand forecasts.
+
+3. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to review current inventory levels and demand forecasts**
+   - **So that I can make informed decisions about optimizing parts inventory**
+   - **Acceptance Criteria:**
+     - The system should display the current stock levels for all parts.
+     - The system should present a visual representation of demand forecasts for each part.
+     - The data displayed should be updated in real-time or on a frequent schedule (e.g., hourly, daily).
+
+4. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to identify parts that need to be restocked or reduced**
+   - **So that I can ensure the right amount of inventory is available for demand and reduce excess stock**
+   - **Acceptance Criteria:**
+     - The system should provide recommendations on which parts need to be restocked based on current levels and demand forecasts.
+     - Users should have the ability to manually adjust inventory levels if needed.
+
+5. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to adjust inventory levels based on analysis and optimization algorithms**
+   - **So that I can optimize parts inventory efficiently**
+   - **Acceptance Criteria:**
+     - Users should be able to input adjustments to inventory levels for specific parts.
+     - The system should apply optimization algorithms in real-time or upon user confirmation, updating inventory records accordingly.
+
+6. **User Story:**
+   - **As an Inventory Manager**
+   - **I want the system to update inventory records and generate purchase orders for restocking**
+   - **So that I can ensure accurate inventory levels and avoid stockouts**
+   - **Acceptance Criteria:**
+     - Upon adjusting inventory levels, the system should automatically update the records for each part.
+     - For parts requiring restocking, the system should generate a purchase order with vendor information and necessary details.
+
+7. **User Story:**
+   - **As an Inventory Manager**
+   - **I want the system to provide recommendations for optimizing inventory levels**
+   - **So that I can proactively manage parts inventory and reduce costs**
+   - **Acceptance Criteria:**
+     - The system should analyze historical demand data and apply optimization algorithms to suggest optimal reorder points, safety stock levels, etc.
+     - Users should have the ability to accept or modify these recommendations as needed.
+
+8. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to reconcile discrepancies in inventory data when they occur**
+   - **So that I can maintain accurate records and make informed decisions about parts inventory**
+   - **Acceptance Criteria:**
+     - When the system detects discrepancies in inventory data, it should alert the user and provide options for investigating and resolving these issues.
+     - Users should have access to tools such as reporting or data analysis to help reconcile any discrepancies.
+
+9. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to adjust reorder points for parts with long lead times**
+   - **So that I can ensure sufficient inventory levels while minimizing excess stock**
+   - **Acceptance Criteria:**
+     - Users should have the ability to manually adjust reorder points for specific parts if needed.
+     - The system should take into account lead time and historical demand data when making recommendations for optimal reorder points.
+
+10. **User Story:**
+    - **As an Inventory Manager**
+    - **I want the system to notify me of any potential stockouts or inventory issues**
+    - **So that I can take proactive measures to maintain accurate inventory levels and avoid stockouts**
+    - **Acceptance Criteria:**
+        - The system should monitor inventory levels and demand forecasts for each part and alert users when a potential issue is detected (e.g., low stock, high demand, etc.)
+        - Users should have the ability to customize notifications based on their preferences or priorities."
+Food,Production Line Monitoring,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf," ### User Stories for Inventory Management System
+
+1. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to log into the inventory management system**
+   - **So that I can access the inventory features and manage the food stock efficiently**
+   - **Acceptance Criteria:**
+     - The system should display a login page with fields for username and password.
+     - After successful login, the system should navigate to the Inventory Management page and display the current inventory levels.
+     - System must show an error message for incorrect login details.
+
+2. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to review the current inventory levels**
+   - **So that I can track the stock availability of each item**
+   - **Acceptance Criteria:**
+     - The system should display the inventory levels for all items in a clear and concise manner.
+     - The Inventory Manager should be able to sort the list by item name, category, or expiration date.
+
+3. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to review upcoming orders**
+   - **So that I can plan for stock replenishment accordingly**
+   - **Acceptance Criteria:**
+     - The system should display a list of upcoming orders, including order details such as item name, quantity, and expected delivery date.
+     - System should allow the Inventory Manager to filter the list by supplier or order status (pending, in transit, delivered).
+
+4. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to update inventory levels based on deliveries or usage**
+   - **So that the system can accurately track and manage stock**
+   - **Acceptance Criteria:**
+     - The system should allow the Inventory Manager to increase or decrease inventory levels for each item.
+     - Upon updating inventory, the system should automatically adjust stock levels and generate alerts for low inventory items.
+
+5. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to place orders for restocking low inventory items**
+   - **So that I can ensure timely replenishment of essential items**
+   - **Acceptance Criteria:**
+     - The system should allow the Inventory Manager to select items and specify quantities for ordering.
+     - System must confirm the order placement and update the inventory levels accordingly, including estimated delivery date and order status.
+
+6. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to manually adjust stock levels in case of discrepancies**
+   - **So that I can maintain accurate inventory records**
+   - **Acceptance Criteria:**
+     - The system should allow the Inventory Manager to manually input or adjust inventory levels for specific items.
+     - System must display a warning message before allowing manual adjustments, asking the Inventory Manager to confirm the action due to its potential impact on stock management.
+
+7. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to set up notifications for items that are out of stock**
+   - **So that I can be alerted when essential items become available again**
+   - **Acceptance Criteria:**
+     - The system should allow the Inventory Manager to select items and specify notification preferences (email, SMS, or app notifications).
+     - System must send a notification when the selected item is restocked or becomes available for purchase.
+
+8. **User Story:**
+   - **As an Inventory Manager**
+   - **I want the system to generate low inventory alerts**
+   - **So that I can take timely action to prevent stockouts**
+   - **Acceptance Criteria:**
+     - The system should automatically monitor inventory levels and generate alerts when any item falls below a predefined threshold.
+     - System must display the alert on the Inventory Management page and send notifications if preferred by the Inventory Manager.
+
+9. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to resort to manual inventory tracking methods temporarily in case of technical issues**
+   - **So that I can continue managing inventory effectively during system downtime**
+   - **Acceptance Criteria:**
+     - The system should provide options for the Inventory Manager to manually log inventory additions, removals, or adjustments during system downtime.
+     - Upon resolving technical issues, the system should automatically import the manual inventory logs and update the stock records accordingly."
+Banking,Loan Processing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf," ### User Stories for Account Management in Online Banking:
+
+1. **User Story:**
+   - **As a registered bank customer**
+   - **I want to log into my online banking account**
+   - **So that I can access my account management features**
+   - **Acceptance Criteria:**
+     - User must enter a valid username and password
+     - System must display an error message for invalid login attempts
+
+2. **User Story:**
+   - **As a registered bank customer**
+   - **I want to navigate to the Account Management section**
+   - **So that I can manage my account details and transactions**
+   - **Acceptance Criteria:**
+     - System must display the Account Management page upon successful login
+
+3. **User Story:**
+   - **As a registered bank customer**
+   - **I want to view my current account balance**
+   - **So that I know how much money I have available**
+   - **Acceptance Criteria:**
+     - System must display the current account balance accurately
+
+4. **User Story:**
+   - **As a registered bank customer**
+   - **I want to view my recent transactions**
+   - **So that I can track my spending and verify transactions**
+   - **Acceptance Criteria:**
+     - User must be able to select a date range for viewing transactions
+     - System must display a list of transactions within the selected date range
+
+5. **User Story:**
+   - **As a registered bank customer**
+   - **I want to initiate a fund transfer to another account**
+   - **So that I can pay bills or send money to others**
+   - **Acceptance Criteria:**
+     - User must enter recipient details (account number, name) and transfer amount
+     - System must prompt the user to confirm the fund transfer
+
+6. **User Story:**
+   - **As a registered bank customer**
+   - **I want to confirm my fund transfer request**
+   - **So that the transfer can be processed**
+   - **Acceptance Criteria:**
+     - User must review and approve the transfer details before submitting the request
+     - System should process the fund transfer and update the account balance accordingly
+
+7. **User Story:**
+   - **As a registered bank customer**
+   - **I want to receive a confirmation message for successful fund transfers**
+   - **So that I know the transaction was processed correctly**
+   - **Acceptance Criteria:**
+     - System should display a message confirming the successful transfer
+
+8. **User Story:**
+   - **As a registered bank customer**
+   - **I want the system to handle errors if I enter incorrect recipient details**
+   - **So that I can correct any mistakes and complete the transfer**
+   - **Acceptance Criteria:**
+     - System should display an error message and prompt the user to re-enter the recipient details if there is an issue
+
+9. **User Story:**
+   - **As a registered bank customer**
+   - **I want the system to handle errors if I enter an invalid transfer amount**
+   - **So that I can enter a valid amount and complete the transfer**
+   - **Acceptance Criteria:**
+     - System should display an error message and prompt the user to re-enter a valid transfer amount if there is an issue"
+Insurance,Claim Filing,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf," ### User Stories for Policy Renewal Use Case:
+
+1. **User Story:**
+   - **As a policyholder**
+   - **I want to receive a policy renewal notification**
+   - **So that I am informed when my insurance policy is nearing expiration**
+   - **Acceptance Criteria:**
+     - System must send the renewal notification before the policy's expiration date
+     - System must include relevant information such as policy number, expiration date, and renewal options in the notification
+
+2. **User Story:**
+   - **As a policyholder**
+   - **I want to log into the insurance company's portal**
+   - **So that I can access my account and perform actions related to my policy**
+   - **Acceptance Criteria:**
+     - User must enter valid login credentials (username, password)
+     - System must verify the user's identity and allow them to access their account
+
+3. **User Story:**
+   - **As a policyholder**
+   - **I want to navigate to the Policy Renewal section**
+   - **So that I can initiate the renewal process**
+   - **Acceptance Criteria:**
+     - System must display a clear and easily accessible link or button for navigating to the Policy Renewal section
+     - System must take users directly to the Policy Renewal section upon clicking the link/button
+
+4. **User Story:**
+   - **As a policyholder**
+   - **I want to review my policy details and coverage options**
+   - **So that I can verify the accuracy of my information and make informed decisions about renewal options**
+   - **Acceptance Criteria:**
+     - System must display current policy details (e.g., coverage, premium, deductibles)
+     - System must allow users to view available coverage options and their respective costs
+
+5. **User Story:**
+   - **As a policyholder**
+   - **I want to select the desired renewal options**
+   - **So that I can customize my policy to meet my needs and budget**
+   - **Acceptance Criteria:**
+     - System must allow users to toggle coverage options on/off
+     - System must calculate the total premium based on selected options in real-time
+
+6. **User Story:**
+   - **As a policyholder**
+   - **I want the system to calculate the renewal premium**
+   - **So that I know the cost of renewing my policy with my chosen options**
+   - **Acceptance Criteria:**
+     - System must display the calculated premium clearly and prominently
+     - System must accurately reflect changes made to coverage options in the premium calculation
+
+7. **User Story:**
+   - **As a policyholder**
+   - **I want to confirm the renewal and make the payment**
+   - **So that I can finalize the policy renewal process**
+   - **Acceptance Criteria:**
+     - System must allow users to review their selected options and the total premium before confirming the renewal
+     - System must provide secure payment methods (e.g., credit/debit card, bank transfer) for completing the payment
+
+8. **User Story:**
+   - **As a policyholder**
+   - **I want the system to update my policy status to renewed**
+   - **So that I can be assured my policy is up-to-date and active**
+   - **Acceptance Criteria:**
+     - System must save the confirmed renewal details in the user's account
+     - System must update the policy status to ""renewed"" upon successful payment
+
+9. **User Story:**
+   - **As a policyholder**
+   - **I want the system to generate a confirmation of the policy renewal**
+   - **So that I have written proof of my updated policy information**
+   - **Acceptance Criteria:**
+     - System must display a clear and concise confirmation message upon successful completion of the renewal process
+     - System must allow users to download or print the confirmation for their records
+
+10. **User Story:**
+    - **As a policyholder**
+    - **I want to contact customer support if I have questions or need assistance**
+    - **So that I can get help with renewing my policy or understanding my options**
+    - **Acceptance Criteria:**
+        - System must provide multiple methods for reaching out to customer support (e.g., phone, email, live chat)
+        - Customer support representatives should be knowledgeable and able to assist with common issues related to the renewal process
+
+11. **User Story:**
+    - **As a policyholder**
+    - **I want to access my account and review my policy information after the renewal process is complete**
+    - **So that I can ensure my policy details are accurate and up-to-date**
+    - **Acceptance Criteria:**
+        - System must allow users to easily navigate to their account after completing the renewal process
+        - System must display updated policy information (e.g., coverage, premium, deductibles) in the user's account"
+Healthcare,Patient Appointment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf," 1. **User Story:**
+   - **As a logged-in healthcare provider**
+   - **I want to access a patient's medical records and symptoms**
+   - **So that I can review the patient's relevant information before making a diagnosis**
+   - **Acceptance Criteria:**
+     - Healthcare Provider must be able to navigate to the patient's profile.
+     - The system must display the patient's medical history and recorded symptoms.
+     - The system must securely store and protect sensitive patient data.
+
+2. **User Story:**
+   - **As a logged-in healthcare provider**
+   - **I want to conduct a physical examination and diagnostic tests**
+   - **So that I can gather more information about the patient's current health status**
+   - **Acceptance Criteria:**
+     - Healthcare Provider must be able to input observations from the physical examination.
+     - The system must allow for ordering and scheduling of diagnostic tests.
+     - The system must store results of conducted tests securely within the patient's electronic health record.
+
+3. **User Story:**
+   - **As a logged-in healthcare provider**
+   - **I want to formulate a diagnosis based on findings**
+   - **So that I can determine the appropriate treatment plan for the patient**
+   - **Acceptance Criteria:**
+     - Healthcare Provider must be able to access all relevant information (medical history, symptoms, examination results, diagnostic test results).
+     - The system must support the process of diagnosing a medical condition based on this information.
+     - The system must store the diagnosis within the patient's electronic health record.
+
+4. **User Story:**
+   - **As a logged-in healthcare provider**
+   - **I want to create a treatment plan including medications, procedures, and follow-up care**
+   - **So that I can provide the necessary medical interventions for the patient's recovery**
+   - **Acceptance Criteria:**
+     - Healthcare Provider must be able to specify medication dosage, frequency, and duration.
+     - The system must allow for scheduling of procedures and follow-up appointments.
+     - The treatment plan must be stored within the patient's electronic health record.
+
+5. **User Story:**
+   - **As a logged-in healthcare provider**
+   - **I want to store the diagnosis and treatment plan in the patient's electronic health record**
+   - **So that all relevant healthcare providers can access the information during care coordination**
+   - **Acceptance Criteria:**
+     - The system must securely store both the diagnosis and treatment plan within the patient's electronic health record.
+     - The system must allow for easy retrieval of this information by authorized healthcare providers.
+
+6. **User Story:**
+   - **As a logged-in healthcare provider**
+   - **I want the system to alert the pharmacy for medication orders and schedule follow-up appointments**
+   - **So that the patient can receive necessary medications and continue receiving proper care**
+   - **Acceptance Criteria:**
+     - The system must send a prescription to the pharmacy securely.
+     - The system must automatically schedule appropriate follow-up appointments based on the treatment plan.
+
+7a. **User Story:**
+   - **As a logged-in healthcare provider**
+   - **I want to order additional tests if necessary through the system**
+   - **So that I can gather more information about the patient's current health status**
+   - **Acceptance Criteria:**
+     - Healthcare Provider must be able to select and order additional diagnostic tests through the system.
+     - The system must update the patient's electronic health record with test results when they are available.
+
+7b. **User Story:**
+   - **As a logged-in healthcare provider**
+   - **I want to send a referral to a specialist through the system if needed**
+   - **So that the patient can receive specialized care from a relevant medical professional**
+   - **Acceptance Criteria:**
+     - Healthcare Provider must be able to specify the type of specialist and reason for referral.
+     - The system must send a secure referral to the appropriate medical professional, who can then accept or decline it.
+
+7c. **User Story:**
+   - **As a logged-in healthcare provider**
+   - **I want to handle emergency situations appropriately, such as directly contacting emergency services if necessary**
+   - **So that the patient receives immediate care in life-threatening situations**
+   - **Acceptance Criteria:**
+     - The system must provide an easy way for Healthcare Providers to contact emergency services when needed.
+     - The system should offer guidance on appropriate actions during emergencies, including steps to follow and resources available."
+Public Sector,Voter Registration,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf," ### User Stories for Citizen Feedback Submission Use Case:
+
+1. **User Story:**
+   - **As a citizen**
+   - **I want to access the feedback submission page**
+   - **So that I can provide my thoughts and suggestions to the government**
+   - **Acceptance Criteria:**
+     - The user is able to navigate to the feedback submission page using an internet browser.
+     - The page contains a clear title and instructions for submitting feedback.
+
+2. **User Story:**
+   - **As a citizen**
+   - **I want to select a category for my feedback**
+   - **So that I can ensure my feedback is directed appropriately to the relevant department**
+   - **Acceptance Criteria:**
+     - The user can choose from predefined categories (e.g., services, policies, infrastructure).
+     - The selected category persists throughout the feedback submission process.
+
+3. **User Story:**
+   - **As a citizen**
+   - **I want to provide detailed feedback in a text box**
+   - **So that I can express my thoughts and concerns clearly**
+   - **Acceptance Criteria:**
+     - The user has an unlimited character limit for the text box.
+     - The text box supports formatting options such as bold, italics, and bullet points.
+
+4. **User Story:**
+   - **As a citizen**
+   - **I want to attach relevant documents or images if necessary**
+   - **So that I can support my feedback with evidence or examples**
+   - **Acceptance Criteria:**
+     - The user can upload files in popular formats (e.g., .docx, .pdf, .jpg, .png).
+     - The file size limit is sufficient for the majority of potential attachments.
+
+5. **User Story:**
+   - **As a citizen**
+   - **I want to submit my feedback after completing all required fields**
+   - **So that I can ensure my feedback is sent to the government**
+   - **Acceptance Criteria:**
+     - The user must complete the category selection, text box input, and any file uploads before submitting.
+     - The system displays an error message if the user tries to submit without completing required fields.
+
+6. **User Story:**
+   - **As a citizen**
+   - **I want the system to acknowledge my feedback submission**
+   - **So that I know my feedback has been successfully sent to the government**
+   - **Acceptance Criteria:**
+     - The user sees a confirmation message or page after submitting their feedback.
+     - The system sends an email to the user acknowledging receipt of the feedback.
+
+7. **User Story:**
+   - **As a citizen**
+   - **I want to save a draft and submit later if I encounter technical issues**
+   - **So that I don't lose my feedback if I experience connectivity problems or need more time to complete it**
+   - **Acceptance Criteria:**
+     - The user can create a draft of their feedback for later submission.
+     - The system saves the draft and allows the user to return to it at a later time to submit.
+
+8. **User Story:**
+   - **As a citizen**
+   - **I want to be informed if the system experiences downtime or maintenance**
+   - **So that I can plan accordingly or try again when the service is available**
+   - **Acceptance Criteria:**
+     - The user sees an error message if the feedback submission portal is unavailable due to downtime or maintenance.
+     - The user receives a notification about when the system will be back online, if applicable."
+Travel & Logistics,Shipment Tracking,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf," 1. **User Story:**
+   - **As a Logistics Coordinator**
+   - **I want to log into the shipment tracking system**
+   - **So that I can access and manage shipments**
+   - **Acceptance Criteria:**
+     - The system must prompt for login credentials (username and password)
+     - System must validate entered credentials against stored records
+     - The system should display an error message for invalid or incorrect login attempts
+     - Upon successful login, the user should be redirected to the Shipment Tracking section
+
+2. **User Story:**
+   - **As a Logistics Coordinator**
+   - **I want to navigate to the Shipment Tracking section**
+   - **So that I can track and manage shipments**
+   - **Acceptance Criteria:**
+     - The user should be able to find the Shipment Tracking section within the system
+     - Upon selecting the Shipment Tracking section, the user should be redirected to the appropriate page
+
+3. **User Story:**
+   - **As a Logistics Coordinator**
+   - **I want to enter shipment details for tracking purposes**
+   - **So that I can accurately track the progress of the shipment**
+   - **Acceptance Criteria:**
+     - The user should be presented with an input form to enter shipment details (e.g., tracking number, sender's address, recipient's address)
+     - System must validate entered details for accuracy and completeness
+     - If validation fails, the system should prompt the user for correction and display error messages as needed
+
+4. **User Story:**
+   - **As a Logistics Coordinator**
+   - **I want to view real-time tracking information for a specific shipment**
+   - **So that I can monitor its progress and ensure timely delivery**
+   - **Acceptance Criteria:**
+     - The user should be able to search for a specific shipment by entering the tracking number
+     - Upon selecting a shipment, the system should display up-to-date information (e.g., current location, estimated delivery time, potential delays)
+     - System should refresh tracking data periodically to ensure accuracy and timeliness
+
+5. **User Story:**
+   - **As a Logistics Coordinator**
+   - **I want to review the status and details of a specific shipment**
+   - **So that I can take necessary actions based on its progress**
+   - **Acceptance Criteria:**
+     - The user should be able to view all relevant information for the selected shipment (e.g., current location, previous stops, estimated delivery time)
+     - System should allow the user to access additional details or documentation related to the shipment if available
+
+6. **User Story:**
+   - **As a Logistics Coordinator**
+   - **I want to receive notifications for changes in a shipment's status**
+   - **So that I can respond promptly to any issues or delays**
+   - **Acceptance Criteria:**
+     - The system should send push notifications to the user when there are significant updates to a shipment's status (e.g., arrival at a new location, unexpected delay)
+     - Users should be able to customize their notification preferences within the system settings
+
+7. **User Story:**
+   - **As a Logistics Coordinator**
+   - **I want to receive technical support if the shipment tracking system is temporarily unavailable or encounters issues**
+   - **So that I can resolve any problems and maintain efficient shipment management**
+   - **Acceptance Criteria:**
+     - The system should provide an option for users to contact technical support within the platform
+     - Technical support should respond promptly to reported issues, and offer solutions or workarounds as necessary"
+Telecommunications,Service Ticket Resolution,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf," **Use Case:** Service Ticket Resolution
+
+1. **User Story:**
+   - **As a Customer Service Agent**
+   - **I want to log into the system**
+   - **So that I can access customer service tickets**
+   - **Acceptance Criteria:**
+     - The system must display a login page.
+     - User must be able to enter valid credentials (username and password).
+     - If invalid credentials are entered, the system should display an error message.
+
+2. **User Story:**
+   - **As a Customer Service Agent**
+   - **I want to navigate to the Service Ticket Resolution page**
+   - **So that I can view and resolve service tickets**
+   - **Acceptance Criteria:**
+     - The system must have a navigation menu or link to access the Service Ticket Resolution page.
+     - User should be redirected to the Service Ticket Resolution page upon successful login.
+
+3. **User Story:**
+   - **As a Customer Service Agent**
+   - **I want to select a service ticket to resolve**
+   - **So that I can address customer issues effectively**
+   - **Acceptance Criteria:**
+     - The system must display a list of available service tickets for resolution.
+     - User should be able to select a specific service ticket.
+
+4. **User Story:**
+   - **As a Customer Service Agent**
+   - **I want to update the ticket with relevant information or actions taken**
+   - **So that I can provide detailed context on my interactions with the customer**
+   - **Acceptance Criteria:**
+     - User must be able to input text, select options, or attach files to update the service ticket.
+     - Updated information should be visible in the service ticket details.
+
+5. **User Story:**
+   - **As a Customer Service Agent**
+   - **I want to submit the resolution**
+   - **So that I can finalize my interaction with the customer and mark the ticket as resolved**
+   - **Acceptance Criteria:**
+     - User must have the option to submit the service ticket resolution.
+     - The system should display a confirmation upon successful submission.
+
+6. **User Story:**
+   - **As a Customer Service Agent**
+   - **I want to receive an error message if I provide invalid input**
+   - **So that I can correct my mistakes and avoid errors**
+   - **Acceptance Criteria:**
+     - If the provided input is invalid, the system should display a clear error message.
+     - User should have the option to correct their input before resubmitting.
+
+7. **User Story:**
+   - **As a Customer Service Agent**
+   - **I want to be notified if the system is unavailable**
+   - **So that I can try again later or contact technical support**
+   - **Acceptance Criteria:**
+     - If the system is temporarily unavailable, the user should receive an error message.
+     - User should have the option to retry or leave a notification for technical support."
+Corporate IT,Software Update Deployment,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf," **Use Case:** Software Update Deployment for Corporate IT Systems
+
+1. **User Story:**
+   - **As an IT Administrator**
+   - **I want to log into the IT management platform**
+   - **So that I can access software update deployment features**
+   - **Acceptance Criteria:**
+     - The system should prompt for valid credentials upon login.
+     - Incorrect login attempts must be logged and limited after a certain threshold.
+     - Upon successful login, the IT Administrator's dashboard should be displayed.
+
+2. **User Story:**
+   - **As an IT Administrator**
+   - **I want to navigate to the Software Update Deployment section**
+   - **So that I can initiate software updates**
+   - **Acceptance Criteria:**
+     - The navigation menu should contain a ""Software Update Deployment"" option.
+     - Upon selection, the IT Administrator should be redirected to the Software Update Deployment page.
+
+3. **User Story:**
+   - **As an IT Administrator**
+   - **I want to view available software updates**
+   - **So that I can select the update to deploy**
+   - **Acceptance Criteria:**
+     - The Software Update Deployment page should list all available updates with relevant details (e.g., version number, release date).
+     - The IT Administrator should be able to filter updates based on their status (e.g., new, pending, completed).
+
+4. **User Story:**
+   - **As an IT Administrator**
+   - **I want to verify the compatibility of a software update with the existing infrastructure**
+   - **So that I can ensure a smooth deployment process and minimize system downtime**
+   - **Acceptance Criteria:**
+     - Upon selecting a software update, the system should initiate a compatibility check.
+     - If the selected update is compatible, the system should display a message confirming its compatibility.
+     - If the selected update is incompatible, the system should provide guidance on resolving the issue and recommend alternative updates if available.
+
+5. **User Story:**
+   - **As an IT Administrator**
+   - **I want to confirm the deployment of a software update**
+   - **So that I can initiate the deployment process**
+   - **Acceptance Criteria:**
+     - The system should allow the IT Administrator to confirm the deployment once compatibility has been verified.
+     - Upon confirmation, the system should display a message stating that the deployment is in progress.
+
+6. **User Story:**
+   - **As an IT Administrator**
+   - **I want real-time updates on the status of the software update deployment**
+   - **So that I can monitor the process and address any issues promptly**
+   - **Acceptance Criteria:**
+     - The system should display the progress of the deployment (e.g., updating, installing, configuring).
+     - If any issues occur during the deployment, the system should provide an error message with relevant details for troubleshooting.
+
+7. **User Story:**
+   - **As an IT Administrator**
+   - **I want to receive a notification once the software update deployment is completed successfully**
+   - **So that I can ensure all devices and applications are up-to-date**
+   - **Acceptance Criteria:**
+     - Upon successful completion of the deployment, the system should notify the IT Administrator via email or in-app message.
+     - The system should update the status of the deployment to ""completed"" in the Software Update Deployment page.
+
+8. **User Story:**
+   - **As an IT Administrator**
+   - **I want the system to notify me if it experiences downtime or is unavailable during the deployment process**
+   - **So that I can take appropriate action to minimize disruptions**
+   - **Acceptance Criteria:**
+     - In case of system downtime or unavailability, the IT Administrator should be promptly notified via email or in-app message.
+     - The system should log these events for further investigation and troubleshooting.
+
+9. **User Story:**
+   - **As an IT Administrator**
+   - **I want to view deployment logs**
+   - **So that I can track the history of software updates and troubleshoot any issues**
+   - **Acceptance Criteria:**
+     - The system should maintain a log of all successful and failed deployments.
+     - The IT Administrator should be able to access these logs for viewing, filtering, and exporting as needed."
+Consumer Products | New Data Solutions,Purchase Data Analysis,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf," 1. **User Story:**
+   - **As a Data Analyst**
+   - **I want to log into the data analysis tool**
+   - **So that I can access the Customer Segmentation Analysis feature**
+   - **Acceptance Criteria:**
+     - The system must require authentication with valid credentials.
+     - Upon successful login, the user should be redirected to the Customer Segmentation Analysis page.
+
+2. **User Story:**
+   - **As a Data Analyst**
+   - **I want to navigate to the Customer Segmentation Analysis page**
+   - **So that I can initiate the analysis process**
+   - **Acceptance Criteria:**
+     - The system should provide a clear navigation path to the Customer Segmentation Analysis page.
+     - Upon navigating, the user should be presented with the necessary tools and options for selecting segmentation criteria.
+
+3. **User Story:**
+   - **As a Data Analyst**
+   - **I want to select criteria for customer segmentation based on purchase data**
+   - **So that I can create meaningful segments for analysis**
+   - **Acceptance Criteria:**
+     - The system should offer various predefined and customizable segmentation criteria options.
+     - Users must be able to select multiple criteria, including product categories, purchasing frequency, total spend, etc.
+
+4. **User Story:**
+   - **As a Data Analyst**
+   - **I want the system to process the data and generate customer segments**
+   - **So that I can focus on interpreting and understanding the results**
+   - **Acceptance Criteria:**
+     - The system should be able to handle large datasets efficiently.
+     - Upon processing, the system must display a notification indicating that segmented groups are ready for review.
+
+5. **User Story:**
+   - **As a Data Analyst**
+   - **I want to review the segmented customer groups**
+   - **So that I can ensure the accuracy of the segments and understand their characteristics**
+   - **Acceptance Criteria:**
+     - The system should present the user with an easy-to-read and organized list of customer segments.
+     - Each segment must display relevant details, such as the number of customers, total spending, average purchase frequency, etc.
+
+6. **User Story:**
+   - **As a Data Analyst**
+   - **I want to identify patterns and trends within each customer segment**
+   - **So that I can gain insights into different customer groups and their behavior**
+   - **Acceptance Criteria:**
+     - The system should offer various tools for data visualization, such as charts and graphs.
+     - Users must be able to filter the data for a more detailed analysis of specific segments.
+
+7. **User Story:**
+   - **As a Data Analyst**
+   - **I want the system to display the Customer Segmentation Analysis results**
+   - **So that I can easily access and share my findings**
+   - **Acceptance Criteria:**
+     - The system should provide an option for users to download or export the analysis results in various formats.
+     - Users must be able to save their work, return to it later, and make updates as needed.
+
+8. **User Story:**
+   - **As a Data Analyst**
+   - **I want troubleshooting steps if I encounter any issues with data processing**
+   - **So that I can resolve the problems quickly and continue my analysis**
+   - **Acceptance Criteria:**
+     - The system should provide clear error messages when issues occur.
+     - The error messages should offer helpful suggestions for resolving common problems, such as incorrect criteria selections or data connectivity issues.
+
+9. **User Story:**
+   - **As a Data Analyst**
+   - **I want to refine the segmentation criteria if needed and re-run the analysis**
+   - **So that I can fine-tune my analysis and obtain more accurate results**
+   - **Acceptance Criteria:**
+     - Users must be able to easily adjust their chosen segmentation criteria.
+     - Upon making changes, users should have the option to re-run the analysis with the updated criteria.
+
+10. **User Story:**
+    - **As a Data Analyst**
+    - **I want to be notified and prompted to try again if there are any errors or issues during data processing**
+    - **So that I can address the problems and ensure the accuracy of my analysis**
+    - **Acceptance Criteria:**
+        - The system should send notifications when issues arise.
+        - Upon encountering an error, users should be given a clear explanation of the problem and guided through the necessary steps for resolving it."
+Cyber Security,Security Audit,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf," ### User Stories for Security Incident Response Use Case:
+
+1. **As a Security Incident Responder**
+   - **I want to receive notifications about security incidents**
+   - **So that I can promptly respond to potential threats**
+   - **Acceptance Criteria:**
+     - System must send notifications for detected security incidents
+     - Notifications should include relevant incident details (e.g., timestamp, source, and type of incident)
+
+2. **As a Security Incident Responder**
+   - **I want to access the incident response dashboard**
+   - **So that I can manage security incidents effectively**
+   - **Acceptance Criteria:**
+     - User must be able to navigate to the incident response dashboard from any system page
+     - Dashboard must display an overview of current and past incidents
+
+3. **As a Security Incident Responder**
+   - **I want to review details of the security incident**
+   - **So that I can understand the nature and scope of the incident**
+   - **Acceptance Criteria:**
+     - User must be able to view detailed information about each incident, including relevant logs, system alerts, and data involved
+     - System should provide a timeline of events related to the incident
+
+4. **As a Security Incident Responder**
+   - **I want to take necessary actions to contain and mitigate the security incident**
+   - **So that I can minimize damage and prevent further issues**
+   - **Acceptance Criteria:**
+     - User must be able to implement containment measures, such as blocking affected systems or isolating compromised data
+     - User should have access to resources for mitigation, such as patching vulnerable software or changing passwords
+
+5. **As a Security Incident Responder**
+   - **I want the system to log all actions taken during incident response**
+   - **So that I can maintain an audit trail and review the steps taken in case of future issues**
+   - **Acceptance Criteria:**
+     - System must record all actions taken by the responder, including containment and mitigation measures
+     - Logs should be securely stored and easily accessible for review
+
+6. **As a Security Incident Responder**
+   - **I want the system to generate a report on the incident response process**
+   - **So that I can document the steps taken, identify areas for improvement, and share lessons learned with other responders**
+   - **Acceptance Criteria:**
+     - System must automatically create an incident response report upon completion of the incident
+     - Report should include details about the incident, actions taken, and outcomes achieved
+
+7. **As a Security Incident Responder**
+   - **I want to request additional information if I require it**
+   - **So that I can make informed decisions during the incident response process**
+   - **Acceptance Criteria:**
+     - User must be able to submit requests for additional information to relevant teams or sources
+     - System should provide a mechanism for tracking and managing these requests, ensuring timely responses
+
+8. **As a Security Incident Responder**
+   - **I want to escalate the response to higher authorities if the incident is critical**
+   - **So that I can ensure appropriate resources are allocated and decisions are made at the appropriate level**
+   - **Acceptance Criteria:**
+     - User must be able to initiate an escalation process for critical incidents, including notifying managers or external parties as necessary
+     - System should provide guidance on when and how to escalate incidents based on their severity and impact"
+Test & Quality Management,Quality Assurance Test,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf," 1. **User Story:**
+   - **As a QA Engineer**
+   - **I want to log into the Quality Assurance system**
+   - **So that I can access test cases and execute quality assurance tests**
+   - **Acceptance Criteria:**
+     - User must enter valid login credentials
+     - System should display error messages for incorrect login attempts
+
+2. **User Story:**
+   - **As a QA Engineer**
+   - **I want to select test cases or test suites for execution**
+   - **So that I can execute relevant tests on the software build**
+   - **Acceptance Criteria:**
+     - User must be able to browse available test suites and select desired tests
+     - System should display a list of selected test cases with relevant details
+
+3. **User Story:**
+   - **As a QA Engineer**
+   - **I want to run the selected test cases on the designated test environment**
+   - **So that I can assess the functionality and quality of the software build**
+   - **Acceptance Criteria:**
+     - User must be able to initiate test case execution on the specified test environment
+     - System should execute the tests according to their defined steps, recording results along the way
+
+4. **User Story:**
+   - **As a QA Engineer**
+   - **I want to review test results and log any identified issues**
+   - **So that I can assess the quality of the software build and address any defects found**
+   - **Acceptance Criteria:**
+     - User must be able to view detailed test execution results, including pass/fail status and logs
+     - System should allow users to create new issues or link existing ones based on test results
+
+5. **User Story:**
+   - **As a QA Engineer**
+   - **I want to mark the test execution as complete when all tests pass**
+   - **So that stakeholders can be informed of successful test completion**
+   - **Acceptance Criteria:**
+     - User must be able to mark individual test cases or the entire test suite as complete
+     - System should update the status accordingly and notify relevant stakeholders
+
+6. **User Story:**
+   - **As a QA Engineer**
+   - **I want to escalate critical defects to project managers for prioritization and resolution**
+   - **So that critical issues can be addressed as soon as possible**
+   - **Acceptance Criteria:**
+     - User must be able to categorize defects based on severity
+     - System should allow users to assign critical defects to the project manager, who will then prioritize and assign them to the development team for resolution
+
+7. **User Story:**
+   - **As a QA Engineer**
+   - **I want to provide a test execution summary report to stakeholders**
+   - **So that they have an overview of the testing results, including any identified issues**
+   - **Acceptance Criteria:**
+     - User must be able to generate a report summarizing the test execution results, including pass/fail rates and any critical defects found
+     - System should allow users to customize and export the report in various formats (e.g., PDF, Excel)"
+Life Science & Chemicals,Lab Experiment Recording,RichardErkhov/mistralai_-_Mistral-7B-Instruct-v0.3-gguf/Mistral-7B-Instruct-v0.3.Q6_K.gguf," 1. **User Story:**
+   - **As a Lab Manager**
+   - **I want to log into the Lab Inventory Management system**
+   - **So that I can access the module for managing lab inventory**
+   - **Acceptance Criteria:**
+     - The Lab Manager must enter their valid login credentials.
+     - The system must display an error message for incorrect login attempts.
+
+2. **User Story:**
+   - **As a Lab Manager**
+   - **I want to navigate to the Lab Inventory Management module**
+   - **So that I can view and manage lab inventory**
+   - **Acceptance Criteria:**
+     - The Lab Manager must be able to find and access the Lab Inventory Management module.
+     - The system should display the current inventory levels upon entering the module.
+
+3. **User Story:**
+   - **As a Lab Manager**
+   - **I want to view current inventory levels**
+   - **So that I can identify items that need reordering**
+   - **Acceptance Criteria:**
+     - The Lab Manager should be able to check the inventory levels of each chemical and supply.
+     - The system must display accurate inventory levels.
+
+4. **User Story:**
+   - **As a Lab Manager**
+   - **I want to place orders for chemicals and supplies**
+   - **So that I can ensure sufficient inventory**
+   - **Acceptance Criteria:**
+     - The Lab Manager should be able to select the items to reorder and specify their quantities.
+     - The system must send a confirmation of the order and update the inventory levels accordingly.
+
+5. **User Story:**
+   - **As a Lab Manager**
+   - **I want to mark expired or damaged items for disposal**
+   - **So that I can prevent their use and update the inventory**
+   - **Acceptance Criteria:**
+     - The Lab Manager should be able to identify and mark expired or damaged items.
+     - The system must update the inventory levels to reflect the removal of these items.
+
+6. **User Story:**
+   - **As a Lab Manager**
+   - **I want to investigate and reconcile inventory discrepancies**
+   - **So that I can maintain accurate records**
+   - **Acceptance Criteria:**
+     - The Lab Manager must be able to identify any inconsistencies in the inventory levels.
+     - The system should provide tools for investigating and resolving these discrepancies.
+
+7. **User Story:**
+   - **As a Lab Manager**
+   - **I want to receive notifications about technical issues**
+   - **So that I can take alternative measures if necessary**
+   - **Acceptance Criteria:**
+     - The system must send notifications to the Lab Manager when it experiences technical issues.
+     - The Lab Manager should be provided with instructions on alternate inventory management procedures during technical difficulties."
+Industry,Title,Model,User Stories
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"**User Story 1:**
+As a registered user
+I want to log into the mobile banking app
+So that I can securely access my banking features
+
+**Acceptance Criteria:**
+- User must enter a valid username and password
+- System must display an error message for invalid login attempts
+
+**User Story 2:**
+As a registered user
+I want to check my account balance
+So that I know how much money I have available
+
+**Acceptance Criteria:**
+- User must be able to select an account to view the balance
+- System must display the current balance accurately
+
+**User Story 3:**
+As a registered user
+I want to transfer money to another account
+So that I can pay bills or send money to others
+
+**Acceptance Criteria:**
+- User must enter recipient account details and transfer amount
+- System must confirm the transfer and update the balance accordingly
+
+**User Story 4:**
+As a registered user
+I want to view my transaction history
+So that I can track my spending and verify transactions
+
+**Acceptance Criteria:**
+- User must be able to select a date range for viewing transactions
+- System must display a list of transactions within the selected date range"
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"**User Story 1:**
+As a restaurant manager, I want to log into the inventory management system, so that I can securely access and manage my inventory.
+Acceptance Criteria:
+- User must enter a valid username and password
+- System must display an error message for invalid login attempts
+
+**User Story 2:**
+As a restaurant manager, I want to check my account balance, so that I can keep track of my available funds for ordering and purchases.
+Acceptance Criteria:
+- User must be able to select an account to view the balance
+- System must display the current balance accurately
+
+**User Story 3:**
+As a restaurant manager, I want to transfer money to another account, so that I can pay bills or send money to my suppliers.
+Acceptance Criteria:
+- User must enter recipient account details and transfer amount
+- System must confirm the transfer and update the balance accordingly
+
+**User Story 4:**
+As a restaurant manager, I want to view my transaction history, so that I can track my spending and verify transactions.
+Acceptance Criteria:
+- User must be able to select a date range for viewing transactions
+- System must display a list of transactions within the selected date range"
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"Sure, here are the user stories based on the provided use case:
+
+**As a registered user**
+- I want to log into the mobile banking app securely.
+- So that I can access my banking features.
+
+**As a registered user**
+- I want to check my account balance.
+- So that I know how much money I have available.
+
+**As a registered user**
+- I want to transfer money to another account.
+- So that I can pay bills or send money to others.
+
+**As a registered user**
+- I want to view my transaction history.
+- So that I can track my spending and verify transactions."
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"**As a policyholder**
+I want to log into the insurance company's portal
+So that I can securely access my banking features
+
+**As a registered user**
+I want to check my account balance
+So that I know how much money I have available
+
+**As a registered user**
+I want to transfer money to another account
+So that I can pay bills or send money to others
+
+**As a registered user**
+I want to view my transaction history
+So that I can track my spending and verify transactions"
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"**User Story 1:**
+As a registered user
+I want to log into the mobile banking app securely
+So that I can access my banking features
+
+**Acceptance Criteria:**
+- User must enter a valid username and password
+- System must display an error message for invalid login attempts
+
+**User Story 2:**
+As a registered user
+I want to check my account balance
+So that I know how much money I have available
+
+**Acceptance Criteria:**
+- User must be able to select an account to view the balance
+- System must display the current balance accurately
+
+**User Story 3:**
+As a registered user
+I want to transfer money to another account
+So that I can pay bills or send money to others
+
+**Acceptance Criteria:**
+- User must enter recipient account details and transfer amount
+- System must confirm the transfer and update the balance accordingly
+
+**User Story 4:**
+As a registered user
+I want to view my transaction history
+So that I can track my spending and verify transactions
+
+**Acceptance Criteria:**
+- User must be able to select a date range for viewing transactions
+- System must display a list of transactions within the selected date range"
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"Sure, here are the user stories based on the provided use case:
+
+**As a registered user**
+- I want to log into the mobile banking app securely using my username and password.
+- So that I can access my banking features without any unauthorized access.
+
+**As a registered user**
+- I want to check my account balance and ensure it matches the displayed amount in the app.
+- So that I have complete transparency about my financial situation.
+
+**As a registered user**
+- I want to transfer money to another registered user.
+- So that I can pay bills or send money to other individuals.
+
+**As a registered user**
+- I want to view my transaction history and track my spending trends.
+- So that I can identify areas for improvement and make informed financial decisions."
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"**User Story 1:**
+As a registered user
+I want to log into the mobile banking app
+So that I can securely access my banking features
+
+**Acceptance Criteria:**
+- User must enter a valid username and password
+- System must display an error message for invalid login attempts
+
+**User Story 2:**
+As a registered user
+I want to check my account balance
+So that I know how much money I have available
+
+**Acceptance Criteria:**
+- User must be able to select an account to view the balance
+- System must display the current balance accurately
+
+**User Story 3:**
+As a registered user
+I want to transfer money to another account
+So that I can pay bills or send money to others
+
+**Acceptance Criteria:**
+- User must enter recipient account details and transfer amount
+- System must confirm the transfer and update the balance accordingly"
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"**User Story 1:**
+- **As a registered user**
+- **I want to log into the mobile banking app**
+- **So that I can securely access my banking features**
+
+**Acceptance Criteria:**
+- User must enter a valid username and password
+- System must display an error message for invalid login attempts
+
+**User Story 2:**
+- **As a registered user**
+- **I want to check my account balance**
+- **So that I can know how much money I have available**
+
+**Acceptance Criteria:**
+- User must be able to select an account to view the balance
+- System must display the current balance accurately
+
+**User Story 3:**
+- **As a registered user**
+- **I want to transfer money to another account**
+- **So that I can pay bills or send money to others**
+
+**Acceptance Criteria:**
+- User must enter recipient account details and transfer amount
+- System must confirm the transfer and update the balance accordingly
+
+**User Story 4:**
+- **As a registered user**
+- **I want to view my transaction history**
+- **So that I can track my spending and verify transactions**
+
+**Acceptance Criteria:**
+- User must be able to select a date range for viewing transactions
+- System must display a list of transactions within the selected date range"
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"Sure, here's the complete set of user stories based on the use case you provided:
+
+**As a system administrator**
+- I want to log into the system using my credentials
+- So that I can securely access and manage the system
+
+**As a registered user**
+- I want to check my account balance
+- So that I can see how much money I have available
+
+**As a registered user**
+- I want to transfer money to another account
+- So that I can pay bills or send money to others
+
+**As a registered user**
+- I want to view my transaction history
+- So that I can track my spending and verify transactions"
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"**User Stories:**
+
+1. As a registered user, I want to log into the mobile banking app securely and access my banking features.
+2. As a registered user, I want to check my account balance and view the current amount.
+3. As a registered user, I want to transfer money to another account, specifying recipient account details and transaction amount.
+4. As a registered user, I want to view my complete transaction history and track my spending patterns.
+5. As a registered user, I want to filter and sort my transaction history based on date or amount."
+Cyber Security,Security Audit,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"Sure, here's the complete set of user stories based on the use case:
+
+**User Story 1:**
+As a registered user
+I want to log into the mobile banking app securely
+So that I can access my banking features
+
+**Acceptance Criteria:**
+- User must enter a valid username and password
+- System must display an error message for invalid login attempts
+
+**User Story 2:**
+As a registered user
+I want to check my account balance
+So that I know how much money I have available
+
+**Acceptance Criteria:**
+- User must be able to select an account to view the balance
+- System must display the current balance accurately
+
+**User Story 3:**
+As a registered user
+I want to transfer money to another account
+So that I can pay bills or send money to others
+
+**Acceptance Criteria:**
+- User must enter recipient account details and transfer amount
+- System must confirm the transfer and update the balance accordingly
+
+**User Story 4:**
+As a registered user
+I want to view my transaction history
+So that I can track my spending and verify transactions
+
+**Acceptance Criteria:**
+- User must be able to select a date range for viewing transactions
+- System must display a list of transactions within the selected date range"
+Test & Quality Management,Quality Assurance Test,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"Sure, here are the user stories based on the given use case:
+
+**User Story 1:**
+As a registered user
+I want to log into the mobile banking app securely
+So that I can access my banking features
+
+**Acceptance Criteria:**
+- User must enter a valid username and password
+- System must display an error message for invalid login attempts
+
+**User Story 2:**
+As a registered user
+I want to check my account balance
+So that I know how much money I have available
+
+**Acceptance Criteria:**
+- User must be able to select an account to view the balance
+- System must display the current balance accurately
+
+**User Story 3:**
+As a registered user
+I want to transfer money to another account
+So that I can pay bills or send money to others
+
+**Acceptance Criteria:**
+- User must enter recipient account details and transfer amount
+- System must confirm the transfer and update the balance accordingly
+
+**User Story 4:**
+As a registered user
+I want to view my transaction history
+So that I can track my spending and verify transactions
+
+**Acceptance Criteria:**
+- User must be able to select a date range for viewing transactions
+- System must display a list of transactions within the selected date range"
+Life Science & Chemicals,Lab Experiment Recording,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"Sure, here are the user stories based on the given use case:
+
+**User Story 1:**
+As a registered user
+I want to log into the mobile banking app securely
+So that I can access my banking features
+
+**Acceptance Criteria:**
+- User must enter a valid username and password
+- System must display an error message for invalid login attempts
+
+**User Story 2:**
+As a registered user
+I want to check my account balance
+So that I know how much money I have available
+
+**Acceptance Criteria:**
+- User must be able to select an account to view the balance
+- System must display the current balance accurately
+
+**User Story 3:**
+As a registered user
+I want to transfer money to another account
+So that I can pay bills or send money to others
+
+**Acceptance Criteria:**
+- User must enter recipient account details and transfer amount
+- System must confirm the transfer and update the balance accordingly
+
+**User Story 4:**
+As a registered user
+I want to view my transaction history
+So that I can track my spending and verify transactions
+
+**Acceptance Criteria:**
+- User must be able to select a date range for viewing transactions
+- System must display a list of transactions within the selected date range"
+Industry,Title,Model,User Stories
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," **Use Case:** Parts Inventory Optimization
+
+Actor: Inventory Manager
+
+Description: Optimize parts inventory to reduce costs and improve efficiency in the automotive industry.
+
+1. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to log into the system securely**
+   - **So that I can access essential features for optimizing inventory levels efficiently**
+   - **Acceptance Criteria:**
+     - User must provide valid login credentials.
+     - System should authenticate user successfully and display appropriate dashboard or interface.
+
+2. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to navigate to the Parts Inventory Optimization module**
+   - **So that I can analyze inventory levels and demand forecasts effectively**
+   - **Acceptance Criteria:**
+     - Navigation to the module should be intuitive.
+     - The module must display current inventory levels and upcoming demand trends.
+
+3. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to review current inventory levels and demand forecasts**
+   - **So that I can identify parts requiring restocking or reduction in quantity**
+   - **Acceptance Criteria:**
+     - The system must provide a comprehensive view of inventory across different categories.
+     - Demand forecast data should be accurate, up-to-date, and reflective of market trends.
+
+4. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to adjust inventory levels based on analysis and optimization algorithms**
+   - **So that I can ensure optimal stock quantities without overstocking or understocking parts**
+   - **Acceptance Criteria:**
+     - The system must provide actionable insights, such as suggested reorder points.
+     - Inventory level adjustments should be saved and reflected accurately in the inventory database.
+
+5. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to receive purchase orders for restocking identified parts**
+   - **So that I can efficiently maintain inventory levels without manual intervention**
+   - **Acceptance Criteria:**
+     - The system should generate and send electronic purchase order requests.
+     - Purchase orders must be linked to the appropriate supplier accounts and approved by authorized personnel.
+
+6. **User Story:**
+   - **As an Inventory Manager**
+   - **I want the system to provide recommendations for optimizing inventory levels**
+   - **So that I can continually refine my strategy based on data-driven insights**
+   - **Acceptance Criteria:**
+     - Recommendations should be derived from historical sales trends, seasonality, and lead times.
+     - The system must present these recommendations in an easy-to-understand format for decision-making.
+
+7. **User Story (Alternative Flow):**
+   - **As an Inventory Manager**
+   - **I want to reconcile discrepanitations in inventory data before proceeding with optimization**
+   - **So that I can ensure the accuracy of my analysis and decisions**
+   - **Acceptance Criteria:**
+     - The system should prompt for manual verification when inconsistencies are detected.
+     - Discrepancies must be resolved, or adjustments to data made prior to optimization actions.
+
+8. **User Story (Alternative Flow):**
+   - **As an Inventory Manager**
+   - **I want the system to account for long lead times when optimizing inventory levels of certain parts**
+   - **So that I can prevent stockouts and ensure continuous supply for critical components**
+   - **Acceptance Criteria:**
+     - The system should adjust reorder points based on individual part's lead time.
+     - Notification mechanisms must alert the manager when approaching critical lead times for high-demand items."
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," **Use Case:** Inventory Management System for an Restaurant or Food Service Establishment
+
+1. **User Story:**
+   - **As a restaurant inventory manager**
+   - **I want to log into the inventory management system securely**
+   - **So that I can access and manage food inventory efficiently**
+   - **Acceptance Criteria:**
+     - The login page must display fields for username and password.
+     - System should allow users to reset forgotten passwords.
+
+2. **User Story:**
+   - **As a restaurant inventory manager**
+   - **I want to navigate to the Inventory Management page easily**
+   - **So that I can keep track of current food inventory levels and upcoming orders**
+   - **Acceptance Criteria:**
+     - The Inventory Management page should have clear labeling for different sections (current stock, upcoming orders, etc.).
+     - System must display real-time data accurately.
+
+3. Written by AI language model"
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," **User Story 1:**
+   - **As an online bank customer**
+   - **I want to log into my online banking account securely**
+   - **So that I can manage my accounts and transactions effectively**
+   - **Acceptance Criteria:**
+     - User must be redirected to the login page after clicking the login button.
+     - System should verify user credentials (username, password) against stored data.
+     - If credentials are incorrect, system displays an error message indicating invalid username or password.
+
+**User Story 2:**
+   - **As an online bank customer**
+   - **I want to navigate through the account management section in my online banking portal**
+   - **So that I can view and manage my account details easily**
+   - **Acceptance Criteria:**
+     - Upon successful login, user should be redirected to the Account Management page.
+     - The Account Management page shows options like 'View Balance', 'Recent Transactions' and 'Edit Details'.
+
+**User Story 3:**
+   - **As an online bank customer**
+   - **I want to view my current account balance, recent transactions and other details in the account management section**
+   - **So that I can stay updated about my financial status**
+   - **Acceptance Criteria:**
+     - User should see a clear display of their account balance.
+     - Recent transactions are listed with date, type, amount, and recipient/payee name(s).
+     - Other details like transaction history, pending payments, due bills etc., are visible to the user.
+
+**User Story 4:**
+   - **As an online bank customer**
+   - **I want to initiate a fund transfer from my account to another**
+   - **So that I can send money for various purposes like bill payments, gifts etc.**
+   - **Acceptance Criteria:**
+     - User must enter recipient's details including name and account number or IBAN/BIC as applicable.
+     - User then inputs the amount to be transferred in the fund transfer form.
+
+**User Story 5:**
+   - **As an online bank customer**
+   - **I want the system to prompt me for recipient details and transfer amount upon initiating a fund transfer**
+   - **So that I can ensure accuracy of my transaction before confirming it**
+   - **Acceptance Criteria:**
+     - System displays a form with fields for 'Recipient Name', 'Account Number' or 'IBAN/BIC'.
+     - A second field should be displayed to enter the desired transfer amount.
+
+**User Story 6:**
+   - **As an online bank customer**
+   - **I want to confirm and complete a fund transfer after entering recipient details and transfer amount**
+   - **So that my intended transaction is executed accurately**
+   - **Acceptance Criteria:**
+     - User confirms the transaction. 
+     - System processes the transfer, deducts the specified amount from source account balance and adds it to destination account.
+     
+**User Story 7:**
+   - **As an online bank customer**
+   - **I want a confirmation message once my fund transfer has been successfully processed**
+   - **So that I am aware of successful completion of the transaction**
+   - **Acceptance Criteria:**
+     - System displays a confirmation message with details like 'Transaction Successful', 'Amount Transferred' and recipient name. 
+
+**Alternative Flow (1a):**
+   - **As an online bank customer**
+   - **I want to initiate a fund transfer even if I input incorrect recipient details**
+   - **So that I am not blocked from making transactions due to minor errors in entering information**
+   - **Acceptance Criteria:** 
+     - System displays a validation error message indicating the specific issue with entered recipient' Written by user: AI Language Model
+
+### User Stories:
+
+**User Story 1: Initiating Login for Online Banking Services**
+- As an online bank customer,
+- I want to initiate login into my online banking services securely so that I can manage my accounts and transactions effectively.
+- Acceptance Criteria:
+  - Upon successful redirection to the login page, user credentials (username/password) are verified against stored data.
+  - If incorrect credentials are entered, an error message should be displayed indicating invalid username or password.
+
+**User Story 2: Navigating Account Management Section**
+- As an online bank customer,
+- I want to navigate through the account management section in my online banking portal so that I can view and manage my account details easily.
+- Acceptance Criteria:
+  - After successful login, user is redirected to the Account Management page showing options like 'View Balance', 'Recent Transactions' and 'Edit Details'.
+
+**User Story 3: Viewing Account Information**
+- As an online bank customer,
+- I want to view my current account balance, recent transactions and other details in the account management section so that I can stay updated about my financial status.
+- Acceptance Criteria:
+  - User sees a clear display of their account balance.
+  - Recent transactions are listed with date, type, amount, and recipient/payee name(s).
+  - Additional details like transaction history, pending payments, due bills etc., are visible to the user.
+
+**User Story 4: Initiating Fund Transfer**
+- As an online bank customer,
+- I want to initiate a fund transfer from my account to another so that I can send money for various purposes like bill payments or gifts.
+- Acceptance Criteria:
+  - User enters recipient details including name and account number/IBAN/BIC.
+  - User then inputs the desired transfer amount in the fund transfer form.
+
+**User Story 5: Confirming Fund Transfer**
+- As an online bank customer,
+- I want to confirm and complete a fund transfer after entering recipient details and transfer amount so that my intended transaction is executed accurately.
+- Acceptance Criteria:
+  - User confirms the transaction by clicking on 'Confirm Transaction' or similar button.
+  - System processes the transfer, deducts the specified amount from source account balance, and adds it to destination account.
+
+**Alternative Flow (1a): Handling Incorrect Recipient Details**
+- As an online bank customer,
+- I want to initiate a fund transfer even if I input incorrect recipient details so that minor errors in entering information do not block my transactions.
+- Acceptance Criteria:
+  - System displays validation error message specifying the issue with entered recipient information (e.g., invalid account number format).
+- The customer should be allowed to correct the recipient's details and retry initiating fund transfer."
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," **User Story Set for Policy Renewal Use Case**
+
+1. **User Story:**
+   - **As a policyholder**
+   - **I want to receive a renewal notification when my insurance policy is nearing expiration**
+   - **So that I can stay informed and take action before the current coverage ends**
+   - **Acceptance Criteria:**
+     - System must send an automatic email or in-app notification alerting the policyholder about upcoming renewal.
+
+2. **User Story:**
+   - **As a policyholder**
+   - **I want to log into my insurance company's portal securely**
+   - **So that I can access and manage my policies, coverage options, and other services**
+   - **Acceptance Criteria:**
+     - User must provide valid login credentials (username/password).
+     - System must encrypt data during transmission to ensure security.
+
+3. Written in the provided format but not a user story itself:
+
+4. **User Story:**
+   - **As a policyholder**
+   - **I want to navigate to the Policy Renewal section**
+   - **So that I can review my current insurance policy and renew it if needed**
+   - **Acceptance Criteria:**
+     - The system must provide clear navigation options leading to the Policy Renewal section.
+     - The user should see their existing policy details upon accessing the page.
+
+5. **User Story:**
+   - **As a policyholder**
+   - **I want to review my policy's coverage and premium options**
+   - **So that I can make an informed decision on how much insurance coverage is best for me**
+   - **Acceptance Criteria:**
+     - System must display various coverage plans, including renewal options.
+     - Premium costs should be clearly displayed for each option.
+
+6. **User Story:**
+   - **As a policyholder**
+   - **I want to select my desired renewal options and view the premium cost**
+   - **So that I can choose an appropriate insurance coverage at a reasonable price**
+   - **Acceptance Criteria:**
+     - The system must clearly indicate selected policy details.
+     - Premium calculation should reflect the chosen coverage accurately.
+
+7. **User Story:**
+   - **As a policyholder**
+   - **I want to confirm my renewal and make the payment securely**
+   - **So that my insurance is successfully updated, and I retain continuous coverage**
+   - **Acceptance Criteria:**
+     - System should prompt the user for payment information.
+     - Payment process must handle transaction validation and updates policy status accordingly.
+
+8. **User Story:**
+   - **As a policyholder**
+   - **I want to receive confirmation of my renewed insurance policy**
+   - **So that I can have proof of the successful renewal for records or verification purposes**
+   - **Acceptance Criteria:**
+     - The system must send an email or in-app notification summarizing the renewal details.
+     - Confirmation message should include a unique renewal code/reference number.
+
+Alternative Flows:
+9. **User Story:**
+   - **As a policyholder**
+   - **I want to contact customer support for assistance if I have questions or need help with my policy renewal**
+   - **So that I can get personalized help and ensure my renewal is processed accurately**
+   - **Acceptance Criteria:**
+     - The system must provide a clear way (phone number, email address) to contact customer support.
+     - Customer support should be able to assist with policy details or alternative payment methods if needed.
+
+10. **User Story:**
+    - **As a policyholder**
+    - **I want the option to decline renewal and explore other policy options**
+    - **So that I can make different insurance choices according to my needs and circumstances**
+    - **Acceptance Criteria:**
+      - The system must display alternative policies or recommendations for purchasing new coverage.
+      - Any changes made by the user should be reflected in their policy status."
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," **User Stories for Patient Diagnosis and Treatment Plan Use Case**
+
+1. **User Story:**
+   - **As a Healthcare Provider (Doctor)**
+   - **I want to log into the patient management system securely**
+   - **So that I can access and review patient's medical records, symptoms, and diagnostic data efficiently**
+   - **Acceptance Criteria:**
+     - The doctor must provide valid credentials for login.
+     - Upon successful login, the system should display relevant patient information without any delay or errors.
+
+2. **User Story:**
+   - **As a Healthcare Provider (Doctor)**
+   - **I want to access and review my patients' medical records and symptoms**
+   - **So that I can gather necessary information for diagnosis and treatment planning**
+   - **Acceptance Criteria:**
+     - The doctor must select the patient from a list of active cases.
+     - The system should display accurate medical records and current symptoms in an organized manner.
+
+3. Written by User
+4. **User Story:**
+   - **As a Healthcare Provider (Doctor)**
+   - **I want to conduct a physical examination of the patient**
+   - **So that I can collect firsthand clinical observations and further inform diagnosis and treatment plan**
+   - **Acceptance Criteria:**
+     - The system should allow doctors to enter their findings directly.
+     - Doctors must be able to access common examination tools (e.g., blood pressure gauge, stethoscope).
+
+5. **User Story:**
+   - **As a Healthcare Provider (Doctor)**
+   - **I want to order diagnostic tests for my patients when necessary**
+   - **So that I can obtain additional data and evidence for an accurate diagnosis**
+   - **Acceptance Criteria:**
+     - The doctor should be able to select relevant tests from a predefined list.
+     - The system must send test orders to the appropriate laboratory services, notify patients of appointment schedules, and track results upon completion.
+
+6. **User Story:**
+   - **As a Healthcare Provider (Doctor)**
+   - **I want to formulate a diagnosis based on collected patient data and findings**
+   - **So that I can identify the most appropriate treatment plan for my patients**
+   - **Acceptance Criteria:**
+     - Doctors should have access to decision support tools (e.g., symptom checker, medical knowledge base).
+     - The diagnosis must be accurately recorded in the system and linked to relevant patient data.
+
+7. **User Story:**
+   - **As a Healthcare Provider (Doctor)**
+   - **I want to create a personalized treatment plan for my patients, including medications, procedures, and follow-up care**
+   - **So that I can ensure the best possible outcomes for my patients' health**
+   - **Acceptance Criteria:**
+     - Doctors should be able to add multiple components (medications, procedures) to a treatment plan.
+     - The system must store the diagnosis and treatment plan in the patient's electronic health record with appropriate timestamps.
+
+8. **User Story:**
+   - **As a Healthcare Provider (Doctor)**
+   - **I want the patient management system to alert me when medication orders are needed for patients**
+   - **So that I can ensure continuous treatment adherence and avoid delays in care delivery**
+   - **Acceptance Criteria:**
+     - The system should generate automatic reminders based on prescribed medications.
+     - Doctors must receive notifications via their preferred communication channel (e.g., email, phone).
+
+9. **User Story:**
+   - **As a Healthcare Provider (Doctor)**
+   - **I want the patient management system to notify me when patients are due for follow-up appointments**
+   - **So that I can maintain ongoing care and monitor patient progress over time**
+   - **Acceptance Criteria:**
+     - The system should track appointment schedules based on treatment plans.
+     - Doctors must receive timely notifications with relevant details (patient name, date, purpose of follow-up).
+
+10. **User Story:**
+    - **As a Healthcare Provider (Doctor)**
+    - **I want to manage exceptions and alternative treatment paths when patients' conditions change or unexpected issues arise**
+    - **So that I can adapt treatment plans in response to evolving patient needs while ensuring continuity of care**
+    - **Acceptance Criteria:**
+      - The system should allow doctors to modify existing diagnoses, update treatment plans, and document changes.
+      - Doctors must receive notifications or prompts when reviewing patients' records for potential adjustments."
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," 1. **User Story:**
+   - **As a citizen**
+   - **I want to access the government feedback submission portal**
+   - **So that I can provide my valuable feedback on services, policies, or infrastructure**
+   - **Acceptance Criteria:**
+     - Citizen must navigate to the feedback submission page using an official link.
+     - System should display a user-friendly interface with clear instructions for submitting feedback.
+
+2. **User Story:**
+   - **As a citizen**
+   - **I want to select an appropriate category for my feedback**
+   - **So that the government can categorize and prioritize my input effectively**
+   - **Acceptance Criteria:**
+     - User must be presented with a list of categories (e.g., services, policies, infrastructure) upon accessing the portal.
+     - System should confirm the selection of category before proceeding to the next step.
+
+3. **User Story:**
+   - **As a citizen**
+   - **I want to provide detailed feedback in the text box**
+   - **So that I can express my thoughts, experiences, and suggestions clearly**
+   - **Acceptance Criteria:**
+     - User must be able to enter their feedback text without any limitations on character count.
+     - System should not truncate or ignore user input if it exceeds the maximum length.
+
+4. **User Story:**
+   - **As a citizen**
+   - **I want to attach relevant documents/images to my feedback submission**
+   - **So that I can provide additional context and evidence to support my comments**
+   - **Acceptance Criteria:**
+     - User must be able to upload files (e.g., PDFs, images) if needed.
+     - System should validate file types and sizes before accepting the submission.
+
+5. **User Story:**
+   - **As a citizen**
+   - **I want to submit my feedback successfully**
+   - **So that I can contribute to government decision-making processes**
+   - **Acceptance Criteria:**
+     - System must acknowledge the successful submission of feedback.
+     - A confirmation message or receipt should be sent to the user's email address (if provided).
+
+6. **User Story:**
+   - **As a citizen**
+   - **I want alternative flows when I encounter incomplete fields or technical issues during submission**
+   - **So that I can still submit my feedback without getting frustrated**
+   - **Acceptance Criteria:**
+     - If required fields are missing, the system should prompt me to fill them before submitting.
+     - In case of technical issues, the system should allow me to save a draft and resubmit later or exit gracefully.
+
+7. **User Story:**
+   - **As a citizen**
+   - **I want clear post-submission notifications about my feedback being reviewed**
+   - **So that I can understand the status of my input and track any updates from the government**
+   - **Acceptance Criteria:**
+     - System should provide periodic (e.g., weekly) email or notification updates regarding the status of submitted feedback.
+     - The system must respect user privacy by not sharing their feedback with unauthorized parties.
+
+8. **User Story:**
+   - **As a citizen**
+   - **I want to be informed about any unavailability or maintenance of the submission portal**
+   - **So that I am aware when my next opportunity to provide feedback arises**
+   - **Acceptance Criteria:**
+     - System should display an informative message and estimated time until service resumption during downtimes.
+     - Users must have access to alternative means of providing their feedback (e.g., a dedicated phone line) if possible."
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," **User Stories for Shipment Tracking**
+
+1. **As a Logistics Coordinator**
+   - I want to log into the shipment tracking system using my credentials so that I can access the information needed to monitor the progress of shipments efficiently.
+   - Acceptance Criteria: 
+     - The system allows only authenticated users with valid credentials to login.
+     - Upon successful authentication, the user is redirected to the Shipment Tracking section within the system.
+
+2. **As a Logistics Coordinator**
+   - I want to navigate to the Shipment Tracking section in order to access and manage shipment data conveniently.
+   - Acceptance Criteria:
+     - The navigation menu contains a distinct link or button labeled ""Shipment Tracking"".
+     - Accessing the Shipment Tracking section does not result in any error messages or disruptive behavior.
+
+3. Sitz **As a Logistics Coordinator**
+   - I want to enter the necessary details (e.g., tracking number) of specific shipments so that I can track their real-time status and location effectively.
+   - Acceptance Criteria:
+     - The system requires key identifiers such as tracking numbers or reference IDs from users for accurate shipment tracking.
+     - Upon input, the system promptly retrieves and displays the relevant shipment details including its current status, location, estimated delivery time, and any potential delays.
+
+4. **As a Logistics Coordinator**
+   - I want to review and analyze the tracking information of my shipments so that I can take timely actions based on their statuses (e.g., arrange for additional support in case of delays).
+   - Acceptance Criteria: 
+     - The system provides comprehensive, up-to-date information about each tracked shipment's location and progress.
+     - Different sections or visual representations are available to help the coordinator understand their shipments’ statuses at a glance (e.g., maps displaying real-time locations).
+
+5. **As a Logistics Coordinator**
+   - I want the system to validate my input details, ensuring that there are no errors or inconsistencies before allowing me to access the tracking information.
+   - Acceptance Criteria: 
+     - The system checks for required fields (e.g., tracking numbers) and their valid formats.
+     - Any invalid inputs result in appropriate error messages guiding users on how to correct them.
+
+6. **As a Logistics Coordinator**
+   - I want the Shipment Tracking system to handle technical issues gracefully by notifying me of any unavailability, so that I can seek alternative solutions or contact support without significant disruptions in my work processes.
+   - Acceptance Criteria:
+     - The system informs users when it is temporarily unavailable due to high load or maintenance activities.
+     - Users receive clear instructions on how to proceed during periods of system downtimes, such as checking back later for updates or contacting support if necessary."
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," **User Story Set for Service Ticket Resolution Use Case**
+
+1. **User Story:**
+   - **As a Customer Service Agent**
+   - **I want to log into the system securely**
+   - **So that I can access and resolve customer service tickets efficiently**
+   - **Acceptance Criteria:**
+     - System must require login credentials for access.
+     - System should display an error message if incorrect login details are entered.
+
+2. **User Story:**
+   - **As a Customer Service Agent**
+   - **I want to navigate to the Service Ticket Resolution page**
+   - **So that I can find and resolve submitted customer service tickets**
+   - **Acceptance Criteria:**
+     - System must have a dedicated ""Service Ticket Resolution"" navigation option.
+     - Page should display an overview of all open customer service tickets.
+
+3. Written in the instruction is a scenario involving system unavailability, but it does not explicitly mention a user story related to this exceptional flow. However, we can infer a necessary user story based on the provided information:
+   - **User Story:**
+     - **As a Customer Service Agent**
+     - **I want the system to notify me and prompt me when unavailable**
+     - **So that I am aware of system downtime and know when to retry resolving tickets later**
+     - **Acceptance Criteria:**
+       - System should display a notification message indicating downtime.
+       - Notification must contain the reason for unavailability, if available.
+       - Customer Service Agent must receive an option to reattempt ticket resolution once system is back online."
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," **User Stories for Software Update Deployment Use Case**
+
+1. **User Story:**
+   - **As an IT Administrator**
+   - **I want to log into the system using my credentials**
+   - **So that I can access the software update deployment features securely and efficiently**
+   - **Acceptance Criteria:**
+     - User must enter valid login information (username and password).
+     - System should grant immediate access after a successful authentication.
+
+2. **User Story:**
+   - **As an IT Administrator**
+   - **I want to navigate to the Software Update Deployment section within the IT management platform**
+   - **So that I can initiate and manage software update deployments**
+   - **Acceptance Criteria:**
+     - The IT Management Platform should have a clear, accessible ""Software Updates"" or ""Deployment"" section.
+
+3. **User Story:**
+   - **As an IT Administrator**
+   - **I want to select the new software update for deployment**
+   - **So that I can ensure our systems are updated with the latest version of the software**
+   - **Acceptance Criteria:**
+     - System should list available updates in a user-friendly manner.
+     - User should be able to select and review details of each update before deployment.
+
+4. **User Story:**
+   - **As an IT Administrator**
+   - **I want the system to verify the compatibility of the selected software update with existing infrastructure**
+   - **So that I can avoid deploying incompatible updates which may disrupt operations**
+   - **Acceptance Criteria:**
+     - System should analyze and report any potential conflicts or issues.
+     - The verification process must be automated to minimize errors.
+
+5. **User Story:**
+   - **As an IT Administrator**
+   - **I want to confirm the deployment of the software update**
+   - **So that I can track and verify successful updates across systems**
+   - **Acceptance Criteria:**
+     - System should provide a summary report post-deployment.
+     - The system must notify me immediately upon completion.
+
+6. **User Story:**
+   - **As an IT Administrator**
+   - **I want the system to initiate the deployment process**
+   - **So that updates can be propagated across the corporate IT systems promptly and reliably**
+   - **Acceptance Criteria:**
+     - The deployment must start as expected without any manual intervention.
+
+7. **User Story:**
+   - **As an IT Administrator**
+   - **I want the system to update the status of the deployment in real-time**
+   - **So that I can monitor progress and respond quickly if needed**
+   - **Acceptance Criteria:**
+     - Real-time updates should be reflected within a few minutes post-deployment.
+
+8. **User Story:**
+   - **As an IT Administrator**
+   - **I want to receive a notification upon successful update deployment across the corporate IT systems**
+   - **So that I can confirm completion and verify system integrity**
+   - **Acceptance Criteria:**
+     - System must send notifications via email or messaging platform.
+     - The message should clearly state the status of the software update deployment."
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," **User Story Set for Customer Segmentation Analysis**
+
+1. **As an experienced Data Analyst**
+   - I want to log into the data analysis tool
+   - So that I can access all available customer purchase data for segmentation analysis
+   - Acceptance Criteria:
+     - User must successfully authenticate with their credentials
+     - System redirects user to the Customer Segmentation Analysis page upon successful login
+
+2. **As an experienced Data Analyst**
+   - I want to navigate to the Customer Segmentation Analysis page
+   - So that I can access and review customer segmentation results based on purchase behavior
+   - Acceptance Criteria:
+     - System displays the Customer Segmentation Analysis page upon navigating from the main dashboard or menu
+
+3. Market Research Analyst
+   - I want to select criteria for segmenting customers based on their buying behavior (e.g., frequency of purchases, average transaction value)
+   - So that I can identify specific groups within our customer base and analyze patterns in their purchase behavior
+   - Acceptance Criteria:
+     - System provides a list of available data attributes to select as segmentation criteria
+     - Selected criteria are properly recorded for the upcoming analysis
+
+5. **As an experienced Data Analyst**
+   - I want the system to process and generate customer segments based on selected criteria
+   - So that I can visualize distinct groups within our customer base with similar purchasing behaviors
+   - Acceptance Criteria:
+     - The system successfully generates segmented data, showing clear distinctions between different customer groups
+     - System displays a summary of the created customer segments along with their key characteristics
+
+6. **As an experienced Data Analyst**
+   - I want to review the segmented customer groups and identify patterns or trends within each group
+   - So that I can gain insights into specific customer behaviors, preferences, and potential opportunities for targeted marketing strategies
+   - Acceptance Criteria:
+     - System displays a comprehensive overview of each customer segment's characteristics, including size and key behavior patterns
+     - Data Analyst is able to filter, sort, or apply additional filters to explore the data in more depth
+
+7. **As an experienced Data Analyst**
+   - I want the system to display the Customer Segmentation Analysis results
+   - So that stakeholders and decision-makers can review our findings and use them for strategic business decisions
+   - Acceptance Criteria:
+     - System generates a clear and concise report of customer segmentation analysis, highlighting key insights and trends
+     - Report is easily exportable to common file formats (e.g., PDF, Excel) or integrated directly into presentation slides for stakeholder presentations
+
+**Alternative Flow: Handling Issues During Segmentation Analysis**
+
+1a. **As an experienced Data Analyst**
+   - I want the system to provide troubleshooting steps when encountering data processing issues during customer segmentation analysis
+   - So that I can quickly resolve any errors and ensure accurate results without significant delays in completing my tasks
+   - Acceptance Criteria:
+     - System identifies specific error messages or exceptions encountered during the process
+     - Clear instructions are provided, either directly within the interface or as part of a detailed log file, to guide Data Analysts on how to fix the issue"
+Cyber Security,Security Audit,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," **User Stories for Security Incident Response Use Case**
+
+1. **User Story:**
+   - **As a security incident responder**
+   - **I want to receive notifications about security incidents in real-time**
+   - **So that I can respond quickly and efficiently to potential threats**
+   - **Acceptance Criteria:**
+     - System must trigger an alert when a new incident is detected.
+     - Notification should be sent via the preferred communication method (e.g., email or dashboard notification).
+
+2. **User Story:**
+   - **As a security incident responder**
+   - **I want to access the incident response dashboard easily and efficiently**
+   - **So that I can have quick access to all relevant information related to an incident**
+   - **Acceptance Criteria:**
+     - System must provide a login portal for accessing the incident response dashboard.
+     - Dashboard should display current incidents, historical data, and tools necessary for incident management.
+
+3. **User Story:**
+   - **As a security incident responder**
+   - **I want to review details of a security incident comprehensively**
+   - **So that I can understand the context, scope, impact, and potential risks associated with an incident**
+   - **Acceptance Criteria:**
+     - System must provide detailed information on the detected incident.
+     - Incident summary should include details such as type of incident, affected systems/users, time of detection, etc.
+
+4. **User Story:**
+   - **As a security incident responder**
+   - **I want to take necessary actions to contain and mitigate the security incident**
+   - **So that I can prevent further damage or compromise of data/systems**
+   - **Acceptance Criteria:**
+     - System must provide tools for isolating affected systems, revoking access credentials, applying patches/updates, etc.
+     - Successful implementation of actions should be logged and audited in the system.
+
+5. **User Story:**
+   - **As a security incident responder**
+   - **I want to log all actions taken by me during the incident response process**
+   - **So that there is an accurate record of the steps performed, decisions made, and resources used in handling the incident**
+   - **Acceptance Criteria:**
+     - System must maintain a detailed log of responder activities.
+     - Logs should include timestamps, actions taken, outcomes, and any relevant notes/comments.
+
+6. **User Story:**
+   - **As a security incident responder**
+   - **I want to receive a comprehensive report on the incident response process after resolving an incident**
+   - **So that I can evaluate the effectiveness of my actions and identify areas for improvement in future incidents**
+   - **Acceptance Criteria:**
+     - System should generate an incident report summarizing details about the security incident, responder actions, outcomes, lessons learned, etc.
+     - The report should be easily accessible and exportable to preferred formats (e.g., PDF or CSV).
+
+7. **User Story:**
+   - **As a security incident responder**
+   - **I want the system to alert me if I encounter technical issues during an incident response**
+   - **So that I can continue responding effectively even in unforeseen circumstances**
+   - **Acceptance Criteria:**
+     - System must have built-in redundancy and failover mechanisms.
+     - If the primary system fails, secondary communication channels (e.g., phone call or SMS) should be activated to ensure continuous incident response capabilities.
+
+8. **User Story:**
+   - **As a security incident responder**
+   - **I want detailed instructions on manual incident response procedures if the automated system fails**
+   - **So that I can handle critical incidents effectively, even without access to automated tools/systems**
+   - **Acceptance Criteria:**
+     - System should provide a comprehensive and easily understandable set of guidelines for manual incident response.
+     - This information must be readily available in the incident response dashboard or accessible through an emergency channel (e.g., phone line)."
+Test & Quality Management,Quality Assurance Test,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," 1. **User Story:**
+   - **As a QA Engineer**
+   - **I want to log into the Quality Assurance system**
+   - **So that I can securely access test cases and track software quality**
+   - **Acceptance Criteria:**
+     - User must enter valid credentials (username, password).
+     - System should not allow unaut AuthorizationException for incorrect login details.
+
+2. **User Story:**
+   - **As a QA Engineer**
+   - **I want to select the test suite or individual test cases for execution**
+   - **So that I can ensure comprehensive testing of the new software build**
+   - **Acceptance Criteria:**
+     - The system should display available test suites and test cases.
+     - QA Engineer must be able to select a single suite or specific test cases for execution.
+
+3. **User Story:**
+   - **As a QA Engineer**
+   - **I want to run the selected test cases on the designated test environment**
+   - **So that I can validate software functionality and performance under various scenarios**
+   - **Acceptance Criteria:**
+     - The system should initiate the execution of selected test cases.
+     - Test results, including pass/fail statuses and any exceptions or errors, are recorded accurately.
+
+4. **User Story:**
+   - **As a QA Engineer**
+   - **I want to review the test results and log defects found during testing**
+   - **So that I can ensure software quality by identifying and communicating issues**
+   - **Acceptance Criteria:**
+     - The system should provide an easy-to-read summary of all executed tests.
+     - QA Engineer must have the ability to log defects with relevant details like description, severity, and associated test case reference.
+
+5. **User Story:**
+   - **As a QA Engineer**
+   - **I want to mark the test execution as complete when all test cases pass successfully**
+   - **So that it signals the end of testing phase for the current software build**
+   - **Acceptance Criteria:**
+     - The system should confirm successful completion after all selected tests have passed.
+     - QA Engineer has finalized the quality assurance check without any pending test cases or defects.
+
+6. **Alternative User Story (for failed test case scenarios):**
+   - **As a QA Engineer**
+   - **I want to investigate, log, and escalate defects found during test execution**
+   - **So that I can ensure timely resolution of issues impacting software quality**
+   - **Acceptance Criteria:**
+     - On detecting a failed test case, QA Engineer must follow an investigation protocol to identify root causes.
+     - Defects are accurately logged in the defect tracking system with clear descriptions and related test cases/suites.
+     - Critical defects found during testing should be escalated according to predefined criteria (e.g., severity level, impact on other features).
+
+7. **User Story:**
+   - **As a QA Engineer**
+   - **I want to report the test execution summary to stakeholders**
+   - **So that I can communicate software quality status and any critical issues found during testing**
+   - **Acceptance Criteria:**
+     - Test execution results, including passed/failed tests, defects logged, and their impact on overall build stability, should be compiled in a comprehensive report.
+     - QA Engineer must distribute the summary to relevant stakeholders for decision-making regarding further development or release."
+Life Science & Chemicals,Lab Experiment Recording,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," **User Story Set for Lab Inventory Management**
+
+1. **User Story:**
+   - **As a lab manager**
+   - **I want to log into the system securely so that I can efficiently manage inventory**
+   - **Acceptance Criteria:**
+     - User must enter valid login credentials and be granted access upon successful authentication
+     - System should display an error message for invalid or forgotten passwords, guiding the user through password recovery if needed
+
+2. **User Story:**
+   - **As a lab manager**
+   - **I want to navigate to the Lab Inventory Management module so that I can monitor chemical and supply inventory levels**
+   - **Acceptance Criteria:**
+     - The system must allow navigation through standard menu options or search functionality to reach the Lab Inventory Management module
+     - Upon reaching the module, the lab manager should be able to view an overview of all items in stock with their respective quantities and locations
+
+3. __User Story:__
+   - **As a lab manager**
+   - **I want to identify items that need reordering based on predefined inventory thresholds so that the laboratory can maintain adequate supply levels without overstocking or shortages**
+   - **Acceptance Criteria:**
+     - System must flag low-level items and display a list of all items with their current stock quantities and reorder thresholds
+     - The system should prioritize items based on criticality to laboratory operations (e.g., rare or essential chemicals)
+
+4. **User Story:**
+   - **As a lab manager**
+   - **I want to place orders for required chemicals and supplies so that the inventory remains well-stocked without causing delays in research activities**
+   - **Acceptance Criteria:**
+     - User must be able to select items from the list of low-level items, add quantities as needed, choose delivery options (e.g., standard shipping or expedited), and submit orders
+     - System should provide order confirmation details such as estimated arrival time, order number, and a summary of ordered items for record keeping
+
+5. **User Story:**
+   - **As a lab manager**
+   - **I want the system to update inventory levels after placing an order so that I have accurate data for future planning**
+   - **Acceptance Criteria:**
+     - Inventory levels should reflect reduced quantities post-order placement and indicate expected replenishment dates based on shipping times
+     - System must provide real-time notifications or alerts when inventory reaches the critical threshold again, triggering a new round of order processing if necessary
+
+6. **User Story:**
+   - **As a lab manager**
+   - **I want to mark expired or damaged items for disposal and update inventory accordingly so that ineffective supplies do not impede experiments or endanger safety**
+    - **Acceptance Criteria:**
+      - The system should allow users to identify such items during regular inventory checks, select them for disposal, and remove them from the active inventory list
+      - System must generate a disposal report with details of disposed items that can be saved or archived for record-keeping purposes
+
+7. **User Story:**
+   - **As a lab manager**
+   - **I want to reconcile any inventory discrepanzymeinventory levels and update the system accordingly so that accurate information is maintained for decision making**
+    - **Acceptance Criteria:**
+      - If a mismatch between physical stock count and recorded quantities in the system is detected, lab manager should be able to investigate and reconcile the differences through additional steps (e.g., checking shelf-stocked items, reviewing order history)
+      - The system must provide an easy way for lab managers to update inventory levels after resolving discrepancies and ensure that all changes are reflected accurately in future checks"
+Industry,Title,Model,User Stories
+Automotive,Parts Supplier Management,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,"
+Here is an example set of 15 user stories for the given Parts Inventory Optimization use case:
+```vbnet
+1. **User Story:**
+   - **As a inventory manager**
+   - **I want to log into the system**
+   - **So that I can access and manage my inventory data**
+   - **Acceptance Criteria:**
+     - User must enter a valid username and password
+     - System must display the dashboard page with inventory data
+2. **User Story:**
+   - **As a inventory manager**
+   - **I want to navigate to the Parts Inventory Optimization module**
+   - **So that I can optimize my parts inventory levels**
+   - **Acceptance Criteria:**
+     - User must select the ""Parts Inventory Optimization"" option from the available modules
+     - System must redirect user to the Parts Inventory Optimization page with relevant data
+3. **User Story:**
+   - **As a inventory manager**
+   - **I want to view current inventory levels and demand forecasts**
+   - **So that I can identify parts that need to be restocked or reduced**
+   - **Acceptance Criteria:**
+     - System must display a graphical representation of current inventory levels and forecasted demand
+     - Data is accurate and up-to-date
+4. **User Story:**
+   - **As a inventory manager**
+   - **I want to identify parts that need to be restocked or reduced**
+   - **So that I can adjust inventory levels and optimize inventory management**
+   - **Acceptance Criteria:**
+     - User must hover over low stock levels on the graphical representation of current inventory levels
+     - System displays pop-up with details about the specific part, quantity, and expected reorder point
+5. **User Story:**
+   - **As a inventory manager**
+   - **I want to adjust inventory levels based on analysis and optimization algorithms**
+   - **So that I can optimize my parts inventory levels efficiently and reduce excess stock**
+   - **Acceptance Criteria:**
+     - User must select a specific part from the list of low stock items
+     - System displays an optimization algorithm with recommendations for adjusting inventory levels
+6. The system updates inventory records and generates purchase orders for restocking.
+7. The system provides recommendations for optimizing inventory levels.
+```"
+Food,Production Line Monitoring,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,"
+1. **User Story:**
+   - **As a registered user**
+   - **I want to log into the mobile banking app**
+   - **So that I can securely access my banking features**
+   - **Acceptance Criteria:**
+     - User must enter a valid username and password
+     - System must display an error message for invalid login attempts
+2. **User Story:**"
+Banking,Loan Processing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,"
+1. **User Story:**
+   - **As a registered bank customer**
+   - **I want to log into my online banking account**
+   - **So that I can access my accounts and perform transactions**
+   - **Acceptance Criteria:**
+     - User must enter valid login credentials
+     - System must display the account dashboard if login is successful
+2. **User Story:**"
+Insurance,Claim Filing,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,"
+1. **User Story:**
+   - **As a registered user**
+   - **I want to log into the mobile banking app**
+   - **So that I can securely access my banking features**
+   - **Acceptance Criteria:**
+     - User must enter a valid username and password
+       - System must display an error message for invalid login attempts
+2. **User Story:**"
+Healthcare,Patient Appointment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,"```vbnet
+1. **User Story:**
+   - **As a doctor**
+   - **I want to access the patient management system**
+   - **So that I can diagnose and treat patients**
+   - **Acceptance Criteria:**
+     - User must log into the system with valid credentials
+     - System must display a dashboard with relevant patient information and options for diagnosis, treatment, and follow-up care
+2. **User Story:**
+   - **As a doctor**
+   - **I want to access a patient's medical records and symptoms**
+   - **So that I can conduct an accurate diagnosis**
+   - **Acceptance Criteria:**
+     - User must have access permissions for the selected patient
+     - System must display the patient's medical history, medications, allergies, and current symptoms in a structured format
+3. **User Story:**
+   - **As a doctor**
+   - **I want to conduct a physical examination and diagnostic tests**
+   - **So that I can gather additional information for diagnosis**
+   - **Acceptance Criteria:**
+     - User must select the necessary examination or test from a list of available options
+     - System must schedule the selected examination or test with a relevant healthcare provider (e.g., lab, imaging center) and communicate the results to the doctor's dashboard
+4. **User Story:**
+   - **As a doctor**
+   - **I want to formulate a diagnosis based on findings**
+   - **So that I can create an effective treatment plan**
+   - **Acceptance Criteria:**
+     - User must review and analyze the results of all examinations, tests, and medical history
+     - System must provide a list of possible diagnoses based on the information gathered
+5. **User Story:**
+   - **As a doctor**
+   - **I want to create a treatment plan including medications, procedures, and follow-up care**
+   - **So that I can prescribe an effective course of action for each patient**
+   - **Acceptance Criteria:**
+     - User must select the appropriate treatments from a list of available options (e.g., medication, surgery)
+     - System must provide a detailed plan with instructions and expected outcomes, including any necessary follow-up appointments or procedures
+6. **User Story:**
+   - **As a patient**
+   - **I want to receive treatment for my symptoms**
+   - **So that I can recover from my condition**
+   - **Acceptance Criteria:**
+     - System must generate and present an appropriate treatment plan based on the doctor's diagnosis
+     - User must follow the instructions and complete any necessary appointments or procedures as scheduled
+7. **User Story:**
+   - **As a patient**
+   - **I want to be notified of any additional tests required**
+   - **So that I can participate in my own care**
+   - **Acceptance Criteria:**
+     - System must send an alert to the patient's phone or email regarding the necessary examinations or tests
+     - Patient must schedule and complete the additional examination or test as instructed by the healthcare provider
+8. **User Story:**
+   - **As a doctor**
+   - **I want to escalate a case for immediate attention**
+   - **So that I can ensure timely and appropriate care for patients in critical situations**
+   - **Acceptance Criteria:**
+     - System must prompt the doctor to indicate if a patient's condition requires urgent attention
+     - The system must escalate the case to an emergency contact or provide instructions on how to proceed with immediate care
+```
+Please note that these user stories are meant to serve as a starting point for further development and testing. Additional details, such as error handling, security protocols, and accessibility features, should be added during implementation."
+Public Sector,Voter Registration,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,"```vbnet
+1. **User Story:**
+   - **As a registered user**
+   - **I want to log into the mobile banking app**
+   - **So that I can securely access my banking features**
+   - **Acceptance Criteria:**
+     - User must enter a valid username and password
+     - System must display an error message for invalid login attempts
+2. **User Story:**
+   - **As a registered user**
+   - **I want to check my account balance**
+   - **So that I know how much money I have available**
+   - **Acceptance Criteria:**
+     - User must be able to select an account to view the balance
+     - System must display the current balance accurately
+3. **User Story:**
+   - **As a registered user**
+   - **I want to transfer money to another account**
+   - **So that I can pay bills or send money to others**
+   - **Acceptance Criteria:**
+     - User must enter recipient account details and transfer amount
+     - System must confirm the transfer and update the balance accordingly
+4. **User Story:**
+   - **As a registered user**
+   - **I want to view my transaction history**
+   - **So that I can track my spending and verify transactions**
+   - **Acceptance Criteria:**
+     - User must be able to select a date range for viewing transactions
+     - System must display a list of transactions within the selected date range
+```"
+Travel & Logistics,Shipment Tracking,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,"
+**User Story 1: As a registered user, I want to log into the mobile banking app**
+* **As a registered user**
+* **I want to securely access my banking features**
+* **So that I can perform various transactions and manage my account**
+Acceptance Criteria:
+	+ User must select their username and password to authenticate themselves.
+	+ If the login details are incorrect, the system should display an error message indicating the invalid login credentials."
+Telecommunications,Service Ticket Resolution,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,"
+**User Story:**
+
+1. **As a Customer Service Agent**
+2. I want to resolve a customer service ticket submitted by a customer
+3. So that I can assist the customer with their inquiry or issue
+4. Acceptance Criteria:"
+Corporate IT,Software Update Deployment,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,"
+**User Story 1:**
+```vbnet
+As a registered user
+I want to log into the mobile banking app
+So that I can securely access my banking features
+Acceptance Criteria:
+    - User must enter a valid username and password
+    - System must display an error message for invalid login attempts
+```
+**User Story 2:**
+```vbnet
+As a registered user
+I want to check my account balance
+So that I know how much money I have available
+Acceptance Criteria:
+    - User must be able to select an account to view the balance
+    - System must display the current balance accurately
+```
+**User Story 3:**
+```vbnet
+As a registered user
+I want to transfer money to another account
+So that I can pay bills or send money to others
+Acceptance Criteria:
+    - User must enter recipient account details and transfer amount
+    - System must confirm the transfer and update the balance accordingly
+```
+**User Story 4:**
+```vbnet
+As a registered user
+I want to view my transaction history
+So that I can track my spending and verify transactions
+Acceptance Criteria:
+    - User must be able to select a date range for viewing transactions
+    - System must display a list of transactions within the selected date range
+```"
+Consumer Products | New Data Solutions,Purchase Data Analysis,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,"```vbnet
+1. User Story: As a Data Analyst
+   - I want to access customer purchase data for analysis
+   - So that I can segment customers based on their buying behavior
+   - Acceptance Criteria:
+      - Data Analyst is logged into the system
+      - Data Analyst has permission to view customer purchase data
+      - Customer purchase data is available and accessible
+2. User Story: As a Data Analyst
+   - I want to select criteria for segmenting customers based on purchase data
+   - So that I can identify patterns and trends within each customer segment
+   - Acceptance Criteria:
+      - Data Analyst has access to the relevant filters or parameters for segmentation
+      - Data Analyst can adjust the selected criteria without encountering errors or issues
+3. User Story: As a Data Analyst
+   - I want to view the customer segmentation analysis results
+   - So that I can review the insights gained from analyzing purchase data
+   - Acceptance Criteria:
+      - The system processes the customer purchase data and generates customer segments
+      - Each customer segment is displayed accurately with relevant data
+7. User Story: As a Data Analyst
+   - I want to refine the criteria for segmentation if necessary
+   - So that I can improve the accuracy of customer segmentation analysis
+   - Acceptance Criteria:
+      - Data Analyst can adjust the selected criteria without affecting the integrity or validity of existing data
+8. User Story: As a Data Analyst
+   - I want to troubleshoot any issues encountered while running the customer segmentation analysis
+   - So that I can resolve problems and continue with the analysis process
+   - Acceptance Criteria:
+      - The system provides clear instructions or guidance on how to address and resolve issues
+9. User Story: As a Data Analyst
+   - I want to confirm if the customer segmentation analysis is complete
+   - So that I can verify the results and move on to the next step in the process
+   - Acceptance Criteria:
+      - The system displays a notification indicating when the customer segmentation analysis is complete
+10. User Story: As a Data Analyst
+   - I want to receive notifications if there are any issues with running the customer segmentation analysis
+   - So that I can address these problems and prevent delays or inaccuracies in the analysis process
+   - Acceptance Criteria:
+      - If the system experiences downtime or data connectivity issues, Data Analyst is notified promptly for action.
+```"
+Cyber Security,Security Audit,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,"```vbnet
+1. User Story:
+   - As a registered user
+   - I want to log into the mobile banking app
+   - So that I can securely access my banking features
+   - Acceptance Criteria:
+       - User must enter a valid username and password
+       - System must display an error message for invalid login attempts
+2. User Story:
+   - As a registered user
+   - I want to check my account balance
+   - So that I know how much money I have available
+   - Acceptance Criteria:
+       - User must be able to select an account to view the balance
+       - System must display the current balance accurately
+3. User Story:
+   - As a registered user
+   - I want to transfer money to another account
+   - So that I can pay bills or send money to others
+   - Acceptance Criteria:
+       - User must enter recipient account details and transfer amount
+       - System must confirm the transfer and update the balance accordingly
+4. User Story:
+   - As a registered user
+   - I want to view my transaction history
+   - So that I can track my spending and verify transactions
+   - Acceptance Criteria:
+       - User must be able to select a date range for viewing transactions
+       - System must display a list of transactions within the selected date range```"
+Test & Quality Management,Quality Assurance Test,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,"```vbnet
+1. **User Story:**
+   - **As a registered user**
+   - **I want to log into the mobile banking app**
+   - **So that I can securely access my banking features**
+   - **Acceptance Criteria:**
+     - User must enter a valid username and password
+     - System must display an error message for invalid login attempts
+2. **User Story:**
+   - **As a registered user**
+   - **I want to check my account balance**
+   - **So that I know how much money I have available**
+   - **Acceptance Criteria:**
+     - User must be able to select an account to view the balance
+     - System must display the current balance accurately
+3. **User Story:**
+   - **As a registered user**
+   - **I want to transfer money to another account**
+   - **So that I can pay bills or send money to others**
+   - **Acceptance Criteria:**
+     - User must enter recipient account details and transfer amount
+     - System must confirm the transfer and update the balance accordingly
+4. **User Story:**
+   - **As a registered user**
+   - **I want to view my transaction history**
+   - **So that I can track my spending and verify transactions**
+   - **Acceptance Criteria:**
+     - User must be able to select a date range for viewing transactions
+     - System must display a list of transactions within the selected date range
+```"
+Life Science & Chemicals,Lab Experiment Recording,TheBloke/Vicuna-7B-CoT-GGUF/vicuna-7b-cot.Q6_K.gguf,"```vbnet
+1. **User Story:**
+   - **As a Lab Manager**
+   - **I want to view current inventory levels for chemicals and supplies**
+   - **So that I can identify items that need to be reordered**
+   - **Acceptance Criteria:**
+     - System must display all available inventory items with their respective quantities
+     - User can filter search results by item type (e.g., chemicals, lab equipment) and order by quantity or name
+2. **User Story:**
+   - **As a Lab Manager**
+   - **I want to mark expired or damaged items for disposal**
+   - **So that I can maintain the quality and safety of our lab samples**
+   - **Acceptance Criteria:**
+     - User can flag an inventory item as expired or damaged
+     - System must update inventory levels accordingly and display confirmation message
+3. **User Story:**
+   - **As a Lab Manager**
+   - **I want to investigate discrepancies in inventory levels**
+   - **So that I can ensure accurate record-keeping and prevent errors in reordering**
+   - **Acceptance Criteria:**
+     - User must identify any unusual or unexpected changes in inventory levels
+     - System must provide an interface to investigate discrepancies, including a history of recent transactions and any relevant notes
+4. **User Story:**
+   - **As a Lab Manager**
+   - **I want to reconcile expired items and adjust inventory levels accordingly**
+   - **So that I can maintain accurate records and reduce waste**
+   - **Acceptance Criteria:**
+     - System must allow users to select items that have been flagged as expired or damaged
+     - User must confirm the disposition of each item (e.g., discard, transfer to another lab)
+     - System must update inventory levels and display a summary of the changes made
+```"
