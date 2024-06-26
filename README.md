@@ -2,7 +2,7 @@
 
 ## Projektbeschreibung
 
-Dieses Projekt generiert Use Cases und User Stories für verschiedene Branchen unter Verwendung von Sprachmodellen (LLMs) und LM Studio. Zudem werden die generierten User Stories evaluiert und ein Leaderboard erstellt, das die Leistung der verschiedenen Modelle vergleicht.
+Dieses Projekt generiert Use Cases und User Stories für verschiedene Branchen unter Verwendung von Sprachmodellen (LLMs) und LM Studio. Zudem werden die generierten User Stories auf 13 Qualitätskriterien von Lucassen et al., 2015 evaluiert und ein Leaderboard erstellt, das die Leistung der verschiedenen Modelle vergleicht.
 
 ## Installation
 
@@ -88,10 +88,10 @@ Um die Branche zu ändern oder neue Branchen hinzuzufügen, kannst du die Liste 
 
 ```python
 industries = [
-    {"industry": "Automotive", "title": "Vehicle Maintenance", "description": "track vehicle maintenance schedules", "actor": "Mechanic", "preconditions": "Mechanic is logged into the system", "trigger": "Mechanic selects a vehicle"},
-    {"industry": "Banking", "title": "Loan Processing", "description": "process a loan application", "actor": "Bank Officer", "preconditions": "Bank Officer is logged into the loan processing system", "trigger": "Customer submits a loan application"},
-    # Neue Branche hinzufügen
-    {"industry": "E-Commerce", "title": "Order Processing", "description": "process an order", "actor": "Sales Agent", "preconditions": "Sales Agent is logged into the order system", "trigger": "Customer places an order"}
+   {"industry": "Automotive", "title": "Vehicle Maintenance", "description": "track vehicle maintenance schedules", "actor": "Mechanic", "preconditions": "Mechanic is logged into the system", "trigger": "Mechanic selects a vehicle"},
+   {"industry": "Banking", "title": "Loan Processing", "description": "process a loan application", "actor": "Bank Officer", "preconditions": "Bank Officer is logged into the loan processing system", "trigger": "Customer submits a loan application"},
+   # Neue Branche hinzufügen
+   {"industry": "E-Commerce", "title": "Order Processing", "description": "process an order", "actor": "Sales Agent", "preconditions": "Sales Agent is logged into the order system", "trigger": "Customer places an order"}
 ]
 ```
 
@@ -181,10 +181,10 @@ Um die Modelle zu ändern, die für die Generierung der User Stories verwendet w
 
 ```javascript
 const models = [
-    "lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct-Q4_K_M.gguf",
-    "Qwen/Qwen2-7B-Instruct-GGUF/qwen2-7b-instruct-q5_0.gguf",
-    // Neues Modell hinzufügen
-    "lmstudio-community/New-Model-Name"
+   "lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct-Q4_K_M.gguf",
+   "Qwen/Qwen2-7B-Instruct-GGUF/qwen2-7b-instruct-q5_0.gguf",
+   // Neues Modell hinzufügen
+   "lmstudio-community/New-Model-Name"
 ];
 ```
 
@@ -198,7 +198,7 @@ Die generierten User Stories werden in der Datei `data/generated/generated_user_
    python scripts/evaluators/GPTEvaluatorUserStories.py
    ```
 
-   Diese Datei liest die `data/generated/generated_user_stories.csv`, evaluiert die User Stories mithilfe des ausgewählten Modells und speichert die Ergebnisse in der Datei `data/evaluated/evaluated_by_GPT-3.5-Turbo_user_stories.csv`.
+   Diese Datei liest die `data/generated/generated_user_stories.csv`, evaluiert die User Stories auf 13 Qualitätskriterien von Lucassen et al., 2015 mithilfe des ausgewählten Modells und speichert die Ergebnisse in der Datei `data/evaluated/evaluated_by_GPT-3.5-Turbo_user_stories.csv`.
 
 ### Ergebnisse analysieren und ein Leaderboard erstellen
 
@@ -216,6 +216,6 @@ Das Skript `LeaderboardGenerator.py` analysiert die Evaluationsergebnisse und er
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert. Siehe die [LICENSE.txt](LICENSE.txt) Datei für weitere Details.
 
-## Autoren
+## Autor
 
 - [JojoL94](https://github.com/JojoL94)
