@@ -4,40 +4,15 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../.
 import pandas as pd
 import re
 
-# Liste der bekannten Kriterien und ihre Erklärungen
-criteria = [
-    "Atomic: A user story expresses a requirement for exactly one feature.",
-    "Minimal: A user story contains nothing more than role, means and ends",
-    "Well-formed: A user story includes at least a role and a means.",
-    "Conflict-free: A user story should not be inconsistent with any other user story.",
-    "Conceptually sound: The means expresses a feature and the ends expresses a rationale, not something else.",
-    "Problem-oriented: A user story only specifies the problem, not the solution to it.",
-    "Unambiguous: A user story avoids terms or abstractions that may lead to multiple interpretations.",
-    "Complete: Implementing a set of user stories creates a feature-complete application, no steps are missing.",
-    "Explicit dependencies: Link all unavoidable, non-obvious dependencies on user stories.",
-    "Full sentence: A user story is a well-formed full sentence.",
-    "Independent: The user story is self-contained, avoiding inherent dependencies on other user stories.",
-    "Scalable: User stories do not denote too coarse-grained requirements that are difficult to plan and prioritize.",
-    "Uniform: All user stories follow roughly the same template.",
-    "Unique: Every user story is unique, duplicates are avoided."
-]
-
-# Funktion zum Bereinigen der Kriterien-Namen und zur Zuordnung zu den bekannten Kriterien
+# Funktion zum Bereinigen der Kriterien-Namen
 def clean_criterion_name(name):
     match = re.match(r"([A-Za-z\s-]+):?.*", name)
     if match:
-        cleaned_name = match.group(1).strip()
-    else:
-        cleaned_name = name.strip()
-
-    for criterion in criteria:
-        if cleaned_name in criterion or criterion.startswith(cleaned_name):
-            return criterion.split(":")[0]
-
-    return cleaned_name
+        return match.group(1).strip()
+    return name.strip()
 
 # Funktion zum Parsen der Evaluation
-def parse_evaluation(evaluation):
+def parse_evaluation_overall(evaluation):
     criteria_results = {}
     lines = evaluation.split('\n')
     current_criterion = None
@@ -58,11 +33,10 @@ def parse_evaluation(evaluation):
             current_criterion_raw = line.split("Criterion:")[1].strip()
             current_criterion = clean_criterion_name(current_criterion_raw)
             criteria_results[current_criterion] = {'Yes': 0, 'No': 0}
-        elif line.startswith("User Story"):
-            result = line.split(":")[1].strip().split(' ')[0]  # Extrahiere "Yes" oder "No"
+        elif line.startswith("Overall Result:"):
+            result = line.split(":")[1].strip()  # Extrahiere "Yes" oder "No"
             if result in ['Yes', 'No']:
                 criteria_results[current_criterion][result] += 1
-                continue  # Überspringe den Rest der Zeile nach dem ersten "Yes" oder "No"
 
     return criteria_results
 
@@ -85,7 +59,7 @@ for index, row in gpt_3_5_evaluations.iterrows():
     user_stories = row['User Stories']
     evaluation = row['Evaluation']
 
-    parsed_evaluation = parse_evaluation(evaluation)
+    parsed_evaluation = parse_evaluation_overall(evaluation)
 
     for criterion, results in parsed_evaluation.items():
         total_yes = results['Yes']
@@ -104,7 +78,7 @@ results_df = pd.DataFrame(all_results)
 print(results_df.head())
 
 # Speichern der Ergebnisse in einer neuen CSV-Datei
-parsed_evaluations_output_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../data/parsed/gpt_3_5_parsed_evaluations.csv'))
+parsed_evaluations_output_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../data/parsed/gpt_3_5_parsed_evaluations_overall.csv'))
 results_df.to_csv(parsed_evaluations_output_path, index=False)
 
 # Aggregieren der Ergebnisse nach Modell und Kriterium
@@ -118,7 +92,7 @@ aggregated_results = results_df.groupby(['Model', 'Criterion']).agg({
 aggregated_results['Quality Index'] = aggregated_results['Yes'] / aggregated_results['Total']
 
 # Speichern der aggregierten Ergebnisse in einer neuen CSV-Datei
-aggregated_results_output_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../data/aggregated/aggregated_results.csv'))
+aggregated_results_output_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../data/aggregated/aggregated_results_overall.csv'))
 aggregated_results.to_csv(aggregated_results_output_path, index=False)
 
 # Erstellen eines Leaderboards
@@ -126,7 +100,7 @@ leaderboard = aggregated_results.groupby('Model')['Quality Index'].mean().reset_
 leaderboard = leaderboard.sort_values(by='Quality Index', ascending=False)
 
 # Speichern des Leaderboards in einer neuen CSV-Datei
-leaderboard_output_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../data/leaderboard/leaderboard.csv'))
+leaderboard_output_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../data/leaderboard/leaderboard_overall.csv'))
 leaderboard.to_csv(leaderboard_output_path, index=False)
 
 print("Leaderboard erstellt und Ergebnisse gespeichert.")

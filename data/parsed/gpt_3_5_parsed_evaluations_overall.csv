@@ -1,0 +1,697 @@
+Industry,Title,Model,Criterion,Yes,No,Total
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,1,0,1
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,1,0,1
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,1,0,1
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,1,0,1
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,1,0,1
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,1,0,1
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,1,0,1
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,1,0,1
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,1,0,1
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,A user story is a well-formed full sentence,1,0,1
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,1,0,1
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,1,0,1
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,1,0,1
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,1,0,1
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,1,0,1
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,0,1,1
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,1,0,1
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,1,0,1
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,1,0,1
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,1,0,1
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,1,0,1
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,1,0,1
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,1,0,1
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,A user story is a well-formed full sentence,1,0,1
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,1,0,1
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,1,0,1
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,1,0,1
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,1,0,1
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,1,0,1
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,0,1,1
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,0,1,1
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,1,0,1
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,1,0,1
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,1,0,1
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,1,0,1
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,1,0,1
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,1,0,1
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,A user story is a well-formed full sentence,1,0,1
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,1,0,1
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,1,0,1
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,1,0,1
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,1,0,1
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,1,0,1
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,0,1,1
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,1,0,1
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,1,0,1
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,1,0,1
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,1,0,1
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,1,0,1
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,1,0,1
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,1,0,1
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,A user story is a well-formed full sentence,1,0,1
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,1,0,1
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,1,0,1
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,1,0,1
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,1,0,1
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,1,0,1
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,0,1,1
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,1,0,1
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,1,0,1
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,1,0,1
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,1,0,1
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,0,1,1
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,0,1,1
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,0,1,1
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,A user story is a well-formed full sentence,1,0,1
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,1,0,1
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,1,0,1
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,1,0,1
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,1,0,1
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,1,0,1
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,0,0,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,1,0,1
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,1,0,1
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,0,0,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,0,0,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,1,0,1
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,1,0,1
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,0,0,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,A user story is a well-formed full sentence,1,0,1
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,1,0,1
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,1,0,1
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,1,0,1
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,0,0,0
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,1,0,1
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,1,0,1
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,1,0,1
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,1,0,1
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,1,0,1
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,1,0,1
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,1,0,1
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,1,0,1
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,0,1,1
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,A user story is a well-formed full sentence,1,0,1
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,1,0,1
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,1,0,1
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,1,0,1
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,1,0,1
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,1,0,1
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,0,1,1
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,1,0,1
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,1,0,1
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,1,0,1
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,1,0,1
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,1,0,1
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,1,0,1
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,1,0,1
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,A user story is a well-formed full sentence,1,0,1
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,1,0,1
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,1,0,1
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,1,0,1
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,1,0,1
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,1,0,1
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,0,1,1
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,1,0,1
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,1,0,1
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,1,0,1
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,1,0,1
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,1,0,1
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,1,0,1
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,1,0,1
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,A user story is a well-formed full sentence,1,0,1
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,1,0,1
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,1,0,1
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,1,0,1
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,A user story is a well-formed full sentence,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,1,0,1
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,1,0,1
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,1,0,1
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,1,0,1
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,1,0,1
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,1,0,1
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,1,0,1
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,1,0,1
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,1,0,1
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,1,0,1
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,A user story is a well-formed full sentence,1,0,1
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,1,0,1
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,1,0,1
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,1,0,1
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,1,0,1
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,0,1,1
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,1,1
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,1,0,1
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,1,0,1
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,1,0,1
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,1,0,1
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,1,0,1
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,1,0,1
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,1,0,1
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,A user story is a well-formed full sentence,0,1,1
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,1,0,1
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,1,0,1
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,0,1,1
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,1,0,1
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,1,0,1
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,1,1
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,1,0,1
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,1,0,1
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,1,0,1
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,1,0,1
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,1,0,1
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,1,0,1
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,1,0,1
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,A user story is a well-formed full sentence,1,0,1
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,1,0,1
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,1,0,1
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,1,0,1
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,1,0,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,1,0,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,1,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,1,0,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,1,0,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,1,0,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,1,0,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,0,0,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,1,0,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,1,0,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,A user story is a well-formed full sentence,1,0,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,1,0,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,0,1,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,1,0,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,1,0,1
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,1,0,1
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,1,1
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,1,0,1
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,1,0,1
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,1,0,1
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,1,0,1
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,0,1,1
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,0,1,1
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,1,0,1
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,A user story is a well-formed full sentence,1,0,1
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,1,0,1
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,1,0,1
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,1,0,1
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,1,0,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,1,0,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,1,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,1,0,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,1,0,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,1,0,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,1,0,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,1,0,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,1,0,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,1,0,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,A user story is a well-formed full sentence,1,0,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,1,0,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,1,0,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,1,0,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,1,0,1
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,1,0,1
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,1,1
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,1,0,1
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,1,0,1
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,1,0,1
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,1,0,1
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,1,0,1
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,1,0,1
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,1,0,1
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,A user story is a well-formed full sentence,1,0,1
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,1,0,1
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,1,0,1
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,1,0,1
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,1,0,1
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,1,0,1
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,1,1
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,0,0,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,1,0,1
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,1,0,1
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,1,0,1
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,1,0,1
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,0,1,1
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,1,0,1
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,A user story is a well-formed full sentence,1,0,1
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,1,0,1
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,1,0,1
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,1,0,1
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,1,0,1
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,1,0,1
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,1,1
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,1,0,1
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,1,0,1
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,1,0,1
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,1,0,1
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,1,0,1
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,1,0,1
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,1,0,1
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,A user story is a well-formed full sentence,1,0,1
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,1,0,1
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,1,0,1
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,1,0,1
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,A user story is a well-formed full sentence,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,0,0,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,1,0,1
+Automotive,Parts Supplier Management,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Atomic,0,1,1
+Automotive,Parts Supplier Management,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Minimal,0,1,1
+Automotive,Parts Supplier Management,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Well-formed,1,0,1
+Automotive,Parts Supplier Management,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conflict-free,1,0,1
+Automotive,Parts Supplier Management,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conceptually sound,1,0,1
+Automotive,Parts Supplier Management,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Problem-oriented,1,0,1
+Automotive,Parts Supplier Management,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unambiguous,0,1,1
+Automotive,Parts Supplier Management,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Complete,0,1,1
+Automotive,Parts Supplier Management,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Explicit dependencies,0,1,1
+Automotive,Parts Supplier Management,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,A user story is a well-formed full sentence,1,0,1
+Automotive,Parts Supplier Management,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Independent,1,0,1
+Automotive,Parts Supplier Management,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Scalable,0,1,1
+Automotive,Parts Supplier Management,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Uniform,1,0,1
+Automotive,Parts Supplier Management,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unique,1,0,1
+Food,Production Line Monitoring,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Atomic,0,1,1
+Food,Production Line Monitoring,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Minimal,0,0,0
+Food,Production Line Monitoring,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Well-formed,0,1,1
+Food,Production Line Monitoring,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conflict-free,1,0,1
+Food,Production Line Monitoring,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conceptually sound,0,1,1
+Food,Production Line Monitoring,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Problem-oriented,1,0,1
+Food,Production Line Monitoring,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unambiguous,0,0,0
+Food,Production Line Monitoring,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Complete,0,1,1
+Food,Production Line Monitoring,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Explicit dependencies,0,1,1
+Food,Production Line Monitoring,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Full sentence,0,0,0
+Food,Production Line Monitoring,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Independent,1,0,1
+Food,Production Line Monitoring,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Scalable,0,1,1
+Food,Production Line Monitoring,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Uniform,0,0,0
+Food,Production Line Monitoring,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unique,0,0,0
+Banking,Loan Processing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Atomic,0,1,1
+Banking,Loan Processing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Minimal,0,1,1
+Banking,Loan Processing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Well-formed,0,2,2
+Banking,Loan Processing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conceptually sound,0,2,2
+Banking,Loan Processing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Complete,0,1,1
+Banking,Loan Processing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Explicit dependencies,0,1,1
+Banking,Loan Processing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,A user story is a well-formed full sentence,0,2,2
+Banking,Loan Processing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Scalable,0,1,1
+Banking,Loan Processing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Uniformity,0,1,1
+Banking,Loan Processing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unique,0,1,1
+Insurance,Claim Filing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Atomic,0,1,1
+Insurance,Claim Filing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Minimal,0,1,1
+Insurance,Claim Filing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Well-formed,0,1,1
+Insurance,Claim Filing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conflict-free,0,1,1
+Insurance,Claim Filing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conceptually sound,0,1,1
+Insurance,Claim Filing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Problem-oriented,0,1,1
+Insurance,Claim Filing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unambiguous,0,1,1
+Insurance,Claim Filing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Complete,0,1,1
+Insurance,Claim Filing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Explicit dependencies,0,1,1
+Insurance,Claim Filing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,A user story is a well-formed full sentence,0,1,1
+Insurance,Claim Filing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Independent,0,1,1
+Insurance,Claim Filing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Scalable,0,1,1
+Insurance,Claim Filing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Uniform,0,1,1
+Insurance,Claim Filing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unique,0,1,1
+Healthcare,Patient Appointment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Atomic,1,0,1
+Healthcare,Patient Appointment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Minimal,0,1,1
+Healthcare,Patient Appointment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Well-formed,1,0,1
+Healthcare,Patient Appointment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conflict-free,1,0,1
+Healthcare,Patient Appointment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conceptually sound,1,0,1
+Healthcare,Patient Appointment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Problem-oriented,1,0,1
+Healthcare,Patient Appointment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unambiguous,0,1,1
+Healthcare,Patient Appointment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Complete,0,1,1
+Healthcare,Patient Appointment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Explicit dependencies,1,0,1
+Healthcare,Patient Appointment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,A user story is a well-formed full sentence,1,0,1
+Healthcare,Patient Appointment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Independent,1,0,1
+Healthcare,Patient Appointment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Scalable,0,1,1
+Healthcare,Patient Appointment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Uniform,1,0,1
+Healthcare,Patient Appointment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unique,1,0,1
+Public Sector,Voter Registration,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Atomic,1,0,1
+Public Sector,Voter Registration,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Minimal,0,1,1
+Public Sector,Voter Registration,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Well-formed,1,0,1
+Public Sector,Voter Registration,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conflict-free,0,0,0
+Public Sector,Voter Registration,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conceptually sound,1,0,1
+Public Sector,Voter Registration,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Problem-oriented,0,1,1
+Public Sector,Voter Registration,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unambiguous,0,1,1
+Public Sector,Voter Registration,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Complete,0,1,1
+Public Sector,Voter Registration,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Explicit dependencies,0,1,1
+Public Sector,Voter Registration,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,A user story is a well-formed full sentence,1,0,1
+Public Sector,Voter Registration,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Independent,1,0,1
+Public Sector,Voter Registration,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Scalable,1,0,1
+Public Sector,Voter Registration,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Uniform,0,1,1
+Public Sector,Voter Registration,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unique,1,0,1
+Travel & Logistics,Shipment Tracking,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Atomic,1,0,1
+Travel & Logistics,Shipment Tracking,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Minimal,1,0,1
+Travel & Logistics,Shipment Tracking,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Well-formed,0,0,0
+Travel & Logistics,Shipment Tracking,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conflict-free,1,0,1
+Travel & Logistics,Shipment Tracking,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conceptually sound,1,0,1
+Travel & Logistics,Shipment Tracking,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Problem-oriented,1,0,1
+Travel & Logistics,Shipment Tracking,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unambiguous,1,0,1
+Travel & Logistics,Shipment Tracking,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Complete,1,0,1
+Travel & Logistics,Shipment Tracking,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Explicit dependencies,1,0,1
+Travel & Logistics,Shipment Tracking,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,A user story is a well-formed full sentence,1,0,1
+Travel & Logistics,Shipment Tracking,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Independent,1,0,1
+Travel & Logistics,Shipment Tracking,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Scalable,1,0,1
+Travel & Logistics,Shipment Tracking,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Uniform,0,0,0
+Travel & Logistics,Shipment Tracking,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unique,1,0,1
+Telecommunications,Service Ticket Resolution,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Atomic,1,0,1
+Telecommunications,Service Ticket Resolution,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Minimal,0,1,1
+Telecommunications,Service Ticket Resolution,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Well-formed,1,0,1
+Telecommunications,Service Ticket Resolution,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conflict-free,1,0,1
+Telecommunications,Service Ticket Resolution,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conceptually sound,0,1,1
+Telecommunications,Service Ticket Resolution,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Problem-oriented,1,0,1
+Telecommunications,Service Ticket Resolution,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unambiguous,0,1,1
+Telecommunications,Service Ticket Resolution,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Complete,0,1,1
+Telecommunications,Service Ticket Resolution,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Explicit dependencies,0,1,1
+Telecommunications,Service Ticket Resolution,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,A user story is a well-formed full sentence,1,0,1
+Telecommunications,Service Ticket Resolution,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Independent,1,0,1
+Telecommunications,Service Ticket Resolution,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Scalable,0,1,1
+Telecommunications,Service Ticket Resolution,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Uniform,0,1,1
+Telecommunications,Service Ticket Resolution,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unique,1,0,1
+Corporate IT,Software Update Deployment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Atomic,0,0,0
+Corporate IT,Software Update Deployment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Minimal,0,1,1
+Corporate IT,Software Update Deployment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Well-formed,0,1,1
+Corporate IT,Software Update Deployment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conflict-free,1,0,1
+Corporate IT,Software Update Deployment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conceptually sound,0,1,1
+Corporate IT,Software Update Deployment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Problem-oriented,1,0,1
+Corporate IT,Software Update Deployment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unambiguous,0,0,0
+Corporate IT,Software Update Deployment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Complete,0,1,1
+Corporate IT,Software Update Deployment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Explicit dependencies,0,1,1
+Corporate IT,Software Update Deployment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,A user story is a well-formed full sentence,0,1,1
+Corporate IT,Software Update Deployment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Independent,1,0,1
+Corporate IT,Software Update Deployment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Scalable,0,1,1
+Corporate IT,Software Update Deployment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Uniform,0,1,1
+Corporate IT,Software Update Deployment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unique,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Atomic,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Minimal,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Well-formed,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conflict-free,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conceptually sound,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Problem-oriented,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unambiguous,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Complete,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Explicit dependencies,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,A user story is a well-formed full sentence,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Independent,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Scalable,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Uniform,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unique,1,0,1
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,1,0,1
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,1,0,1
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,1,0,1
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,1,0,1
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,1,0,1
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,1,0,1
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,1,0,1
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,1,0,1
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,1,0,1
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,A user story is a well-formed full sentence,1,0,1
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,1,0,1
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,1,0,1
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,1,0,1
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,1,0,1
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,1,0,1
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,1,0,1
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,1,0,1
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,1,0,1
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,1,0,1
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,1,0,1
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,1,0,1
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,1,0,1
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,1,0,1
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,A user story is a well-formed full sentence,1,0,1
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,1,0,1
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,1,0,1
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,1,0,1
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,1,0,1
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,1,0,1
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,1,0,1
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,1,0,1
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,1,0,1
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,1,0,1
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,1,0,1
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,1,0,1
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,1,0,1
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,1,0,1
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,A user story is a well-formed full sentence,1,0,1
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,1,0,1
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,1,0,1
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,1,0,1
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,1,0,1
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,1,0,1
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,0,1,1
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,1,0,1
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,1,0,1
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,1,0,1
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,1,0,1
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,1,0,1
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,1,0,1
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,1,0,1
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,A user story is a well-formed full sentence,1,0,1
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,1,0,1
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,0,1,1
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,1,0,1
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,1,0,1
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,1,0,1
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,0,1,1
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,1,0,1
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,1,0,1
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,1,0,1
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,1,0,1
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,1,0,1
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,1,0,1
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,1,0,1
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,A user story is a well-formed full sentence,1,0,1
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,1,0,1
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,1,0,1
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,1,0,1
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,1,0,1
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,1,0,1
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,1,0,1
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,1,0,1
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,1,0,1
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,1,0,1
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,1,0,1
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,1,0,1
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,1,0,1
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,1,0,1
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,A user story is a well-formed full sentence,1,0,1
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,1,0,1
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,1,0,1
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,1,0,1
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,1,0,1
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,1,0,1
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,0,1,1
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,1,0,1
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,1,0,1
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,1,0,1
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,1,0,1
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,1,0,1
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,1,0,1
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,0,1,1
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,A user story is a well-formed full sentence,1,0,1
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,1,0,1
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,1,0,1
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,1,0,1
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,1,0,1
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,1,0,1
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,1,0,1
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,1,0,1
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,1,0,1
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,1,0,1
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,1,0,1
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,1,0,1
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,1,0,1
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,1,0,1
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,A user story is a well-formed full sentence,1,0,1
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,1,0,1
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,1,0,1
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,1,0,1
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,1,0,1
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,1,0,1
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,1,0,1
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,1,0,1
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,1,0,1
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,1,0,1
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,1,0,1
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,1,0,1
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,1,0,1
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,1,0,1
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,A user story is a well-formed full sentence,1,0,1
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,1,0,1
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,1,0,1
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,1,0,1
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,A user story is a well-formed full sentence,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,1,0,1
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,1,0,1
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,0,1,1
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,1,0,1
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,1,0,1
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,1,0,1
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,1,0,1
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,1,0,1
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,1,0,1
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,1,0,1
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,A user story is a well-formed full sentence,1,0,1
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,1,0,1
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,1,0,1
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,1,0,1
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,1,0,1
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,1,0,1
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,1,0,1
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,1,0,1
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,1,0,1
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,1,0,1
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,1,0,1
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,1,0,1
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,1,0,1
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,1,0,1
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,A user story is a well-formed full sentence,1,0,1
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,1,0,1
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,1,0,1
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,1,0,1
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,1,0,1
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,1,0,1
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,0,1,1
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,1,0,1
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,1,0,1
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,1,0,1
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,1,0,1
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,0,1,1
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,0,1,1
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,0,1,1
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,A user story is a well-formed full sentence,1,0,1
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,1,0,1
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,1,0,1
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,1,0,1
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,1,0,1
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,1,0,1
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,1,0,1
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,1,0,1
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,1,0,1
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,0,1,1
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,1,0,1
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,1,0,1
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,0,1,1
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,0,1,1
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,A user story is a well-formed full sentence,1,0,1
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,1,0,1
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,1,0,1
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,1,0,1
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,1,0,1
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,1,0,1
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,0,1,1
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,1,0,1
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,1,0,1
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,1,0,1
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,1,0,1
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,1,0,1
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,1,0,1
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,1,0,1
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,1,0,1
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,1,0,1
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,1,0,1
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,1,0,1
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,1,0,1
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,0,1,1
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,1,0,1
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,1,0,1
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,1,0,1
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,1,0,1
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,1,0,1
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,1,0,1
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,1,0,1
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,1,0,1
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,A user story is a well-formed full sentence,1,0,1
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,1,0,1
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,1,0,1
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,1,0,1
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,1,0,1
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,1,0,1
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,1,0,1
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,1,0,1
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,1,0,1
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,1,0,1
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,1,0,1
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,1,0,1
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,1,0,1
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,1,0,1
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,A user story is a well-formed full sentence,1,0,1
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,1,0,1
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,1,0,1
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,1,0,1
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,1,0,1
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,1,0,1
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,1,0,1
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,1,0,1
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,1,0,1
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,1,0,1
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,1,0,1
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,1,0,1
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,0,1,1
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,0,0,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,A user story is a well-formed full sentence,1,0,1
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,1,0,1
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,1,0,1
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,1,0,1
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,1,0,1
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,1,0,1
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,0,1,1
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,1,0,1
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,1,0,1
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,1,0,1
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,1,0,1
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,0,1,1
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,0,1,1
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,1,0,1
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,A user story is a well-formed full sentence,1,0,1
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,1,0,1
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,0,1,1
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,0,1,1
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,A user story is a well-formed full sentence,1,0,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,0,1,1
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,1,0,1
