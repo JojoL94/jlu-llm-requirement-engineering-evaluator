@@ -1,0 +1,275 @@
+Industry,Title,Description,Actor,Preconditions,Trigger,Use Case
+Automotive,Parts Supplier Management,manage parts supply for automotive manufacturers,Supply Chain Manager,Supply Chain Manager is logged into the supplier management system,New parts order is placed by the manufacturer,"Title: Vehicle Maintenance Scheduling
+
+Actor: Service Manager
+
+Description: Schedule and manage vehicle maintenance appointments for customers
+
+Preconditions: Service Manager is logged into the vehicle maintenance scheduling system
+
+Trigger: Customer requests a vehicle maintenance appointment
+
+Main Flow:
+1. Service Manager logs into the system.
+2. Service Manager navigates to the Vehicle Maintenance Scheduling page.
+3. Service Manager selects the customer requesting a maintenance appointment.
+4. Service Manager schedules the appointment date and time.
+5. The system validates the appointment details.
+6. The system confirms the appointment and sends a notification to the customer.
+
+Alternative Flows:
+1a. If the selected appointment slot is unavailable, the system prompts the Service Manager to choose another time.
+1b. If the customer has special requests or additional services, the Service Manager can add them to the appointment.
+
+Postconditions: The vehicle maintenance appointment is successfully scheduled for the customer.
+
+Exceptions: If the system experiences technical issues, the Service Manager is alerted and advised to reschedule the appointment manually."
+Food,Production Line Monitoring,monitor and manage production lines in a food manufacturing facility,Production Supervisor,Production Supervisor is logged into the production monitoring system,Production line status update or alert,"Title: Inventory Management System
+
+Actor: Inventory Manager
+
+Description: The Inventory Manager oversees the tracking and management of food inventory in a warehouse or distribution center.
+
+Preconditions: Inventory Manager is logged into the inventory management system.
+
+Trigger: Inventory levels fall below a specified threshold or a new shipment of food products arrives.
+
+Main Flow:
+1. Inventory Manager logs into the system.
+2. Inventory Manager navigates to the Inventory Management Dashboard.
+3. Inventory Manager reviews current inventory levels and upcoming shipments.
+4. Inventory Manager updates inventory records based on received shipments or sales.
+5. The system automatically adjusts inventory levels and generates reports.
+6. Inventory Manager verifies the accuracy of inventory data.
+7. The system sends notifications for low inventory levels or upcoming expirations.
+
+Alternative Flows:
+1a. If there are discrepancies in inventory records, Inventory Manager initiates a manual recount and updates the system accordingly.
+1b. If a shipment is delayed or canceled, Inventory Manager adjusts inventory forecasts and notifies relevant stakeholders.
+
+Postconditions: The inventory records are up-to-date, and the Inventory Manager has successfully managed food inventory to ensure efficient operations.
+
+Exceptions: If the system experiences technical issues, Inventory Manager switches to manual inventory tracking and reports the issue to the IT department for resolution."
+Banking,Loan Processing,process a loan application,Bank Officer,Bank Officer is logged into the loan processing system,Customer submits a loan application,"Title: ATM Withdrawal
+
+Actor: Bank Customer
+
+Description: Withdraw cash from an ATM
+
+Preconditions: Bank Customer has a valid ATM card and PIN
+
+Trigger: Bank Customer inserts their ATM card and enters their PIN
+
+Main Flow:
+1. Bank Customer inserts their ATM card into the machine.
+2. Bank Customer enters their PIN.
+3. Bank Customer selects the ""Withdrawal"" option.
+4. Bank Customer enters the amount to withdraw.
+5. The system verifies the transaction details.
+6. The system dispenses the requested amount of cash.
+7. Bank Customer takes the cash and receipt.
+8. Bank Customer removes their ATM card.
+
+Alternative Flows:
+1a. If the entered PIN is incorrect, the system prompts the Bank Customer to re-enter the correct PIN.
+1b. If the ATM card is invalid or damaged, the system prompts the Bank Customer to contact the bank.
+
+Postconditions: The Bank Customer successfully withdraws cash from the ATM.
+
+Exceptions: If the ATM is out of service or unable to dispense cash, the Bank Customer is notified to contact customer service."
+Insurance,Claim Filing,file an insurance claim,Insurance Agent,Insurance Agent is on the claims page,Customer reports an incident,"Title: Policy Renewal
+
+Actor: Policyholder
+
+Description: Renew an existing insurance policy
+
+Preconditions: Policyholder is logged into their insurance account
+
+Trigger: Policy expiration date is approaching
+
+Main Flow:
+1. Policyholder accesses their insurance account.
+2. Policyholder navigates to the Policy Renewal section.
+3. Policyholder selects the policy they wish to renew.
+4. Policyholder reviews the policy details and coverage options.
+5. Policyholder confirms the renewal and selects the payment method.
+6. The system processes the payment.
+7. The system updates the policy status to renewed.
+8. The system sends a confirmation email to the Policyholder.
+
+Alternative Flows:
+1a. If Policyholder decides not to renew the policy, they can choose to cancel the renewal process.
+1b. If there are any changes to the policy details, Policyholder can update the information before confirming the renewal.
+
+Postconditions: The selected insurance policy is successfully renewed, and the Policyholder receives a confirmation email.
+
+Exceptions: If the payment processing fails, the Policyholder is prompted to try again or contact customer support."
+Healthcare,Patient Appointment,schedule a patient appointment,Receptionist,Receptionist is logged into the appointment system,Patient requests an appointment,"```plaintext
+Title: Patient Appointment
+Actor: Receptionist
+Description: Schedule a patient appointment in the healthcare system
+Preconditions: 
+1. Receptionist is logged into the appointment system.
+2. Patient information is available in the system.
+Trigger: Patient requests an appointment.
+
+Main Flow:
+1. Receptionist logs into the healthcare system.
+2. Receptionist navigates to the Patient Appointment section.
+3. Receptionist selects the patient for whom the appointment needs to be scheduled.
+4. Receptionist chooses the date and time for the appointment.
+5. Receptionist confirms the appointment booking.
+6. The system validates the appointment details.
+7. The system updates the appointment schedule.
+8. The system sends a confirmation notification to the patient.
+
+Alternative Flows:
+3a. If the patient is a new patient, Receptionist adds the patient's information to the system before scheduling the appointment.
+4a. If the selected date and time are not available, Receptionist selects an alternative slot.
+6a. If the appointment details are incomplete or invalid, the system prompts the Receptionist to correct them.
+
+Postconditions: 
+- The patient appointment is successfully scheduled in the system.
+- The patient receives a confirmation of the appointment details.
+Exceptions: 
+- If the system is unavailable, Receptionist is notified to try again later.
+```"
+Public Sector,Voter Registration,register a new voter,Government Official,Official is on the voter registration page,Citizen requests to register as a voter,"Title: Public Health Monitoring
+
+Actor: Public Health Officer
+
+Description: Monitor and track the spread of infectious diseases within the community
+
+Preconditions: Public Health Officer has access to the public health monitoring system
+
+Trigger: Increase in reported cases of a specific infectious disease
+
+Main Flow:
+1. Public Health Officer logs into the public health monitoring system.
+2. Public Health Officer navigates to the Infectious Disease Tracking section.
+3. Public Health Officer selects the specific infectious disease to monitor.
+4. Public Health Officer views the current data on reported cases and trends.
+5. Public Health Officer updates the system with any new reported cases.
+6. The system analyzes the data and generates reports on the spread of the infectious disease.
+7. Public Health Officer takes necessary actions based on the data and trends.
+
+Alternative Flows:
+1a. If there is a sudden spike in reported cases, the system sends an alert to the Public Health Officer for immediate action.
+1b. If there are discrepancies in the reported data, Public Health Officer investigates and corrects the information in the system.
+
+Postconditions: The Public Health Officer successfully monitors and tracks the spread of the infectious disease within the community.
+
+Exceptions: If the system experiences technical issues, Public Health Officer reports the problem to the IT department for resolution."
+Travel & Logistics,Shipment Tracking,track a shipment,Logistics Coordinator,Coordinator is logged into the tracking system,Shipment status is updated,"Title: Shipment Tracking
+Actor: Logistics Coordinator
+Description: Track a shipment in the system
+Preconditions: Logistics Coordinator is authenticated and authorized to access the tracking system
+Trigger: Shipment status is updated in the system
+
+Main Flow:
+1. Logistics Coordinator logs into the system using valid credentials.
+2. The system authenticates the user and presents the main dashboard.
+3. Logistics Coordinator navigates to the Shipment Tracking section.
+4. Logistics Coordinator enters the tracking number or shipment details.
+5. The system validates the input for accuracy and completeness.
+6. The system retrieves the shipment information and displays the current status and location.
+7. Logistics Coordinator reviews the tracking details and any relevant updates.
+8. Logistics Coordinator takes necessary actions based on the shipment status.
+
+Alternative Flows:
+1a. If the tracking number or details provided are invalid, the system prompts the Logistics Coordinator to re-enter the correct information.
+1b. If the system encounters an error while retrieving the shipment details, an error message is displayed, and the Coordinator is advised to try again later.
+
+Postconditions: The Logistics Coordinator successfully tracks the shipment and obtains the latest status and location information.
+Exceptions: If the system is unavailable or experiences technical difficulties, the Logistics Coordinator is notified with an appropriate message and advised to contact technical support for assistance."
+Telecommunications,Service Ticket Resolution,resolve a customer service ticket,Customer Service Agent,Agent is on the support ticket page,Customer submits a service ticket,"Title: Service Ticket Resolution
+
+Actor: Customer Service Agent
+
+Description: Resolve a customer service ticket to address customer inquiries and issues efficiently.
+
+Preconditions: Customer Service Agent is logged into the system and has access to the service ticket management module.
+
+Trigger: A new service ticket is submitted by a customer.
+
+Main Flow:
+1. Customer Service Agent logs into the system using their credentials.
+2. Customer Service Agent navigates to the Service Ticket Resolution module.
+3. Customer Service Agent selects the newly submitted service ticket to resolve.
+4. Customer Service Agent reviews the details of the service ticket and identifies the issue reported by the customer.
+5. Customer Service Agent takes necessary actions to resolve the issue, which may include troubleshooting, providing information, or escalating the ticket to a higher level of support.
+6. The system updates the status of the service ticket as ""In Progress"" during the resolution process.
+7. Once the issue is resolved, Customer Service Agent updates the ticket with the resolution details.
+8. The system validates the information provided by the Customer Service Agent.
+9. The system updates the status of the service ticket to ""Resolved"" and notifies the customer via email or notification within the system.
+10. The system records the resolution details for future reference and analysis.
+
+Alternative Flows:
+1a. If the Customer Service Agent encounters difficulties in resolving the ticket, they may escalate the ticket to a senior support representative for further assistance.
+1b. If the service ticket requires input from another department or team, the Customer Service Agent collaborates with the relevant team to resolve the issue.
+
+Postconditions: The service ticket is successfully resolved, and the customer is informed of the resolution. The ticket is closed in the system, and the customer's issue is considered resolved.
+
+Exceptions:
+- If the system is unavailable, Customer Service Agent receives a notification and is advised to try again later.
+- If the service ticket is found to be a duplicate or irrelevant, Customer Service Agent closes the ticket with appropriate justification."
+Corporate IT,Software Update Deployment,deploy a new software update,IT Administrator,Administrator is on the update deployment page,Update is ready for deployment,"Title: Software Update Deployment
+
+Actor: IT Administrator
+
+Description: The IT Administrator deploys a new software update to the corporate network.
+
+Preconditions: 
+1. The IT Administrator has the necessary permissions to deploy software updates.
+2. The new software update has been tested and approved for deployment.
+3. The target devices are connected to the corporate network.
+
+Trigger: The IT Administrator initiates the deployment process for the new software update.
+
+Main Flow:
+1. The IT Administrator logs into the software update deployment system.
+2. The IT Administrator selects the new software update package to deploy.
+3. The IT Administrator specifies the target devices or groups for the deployment.
+4. The system verifies the compatibility of the software update with the target devices.
+5. The system schedules the deployment based on predefined maintenance windows or immediate deployment.
+6. The system initiates the deployment process to the target devices.
+7. The system monitors the deployment progress and provides real-time status updates.
+8. Once the deployment is completed, the system notifies the IT Administrator of the successful deployment.
+
+Alternative Flows:
+1a. If the system detects any compatibility issues with the target devices, the IT Administrator is alerted to take corrective actions.
+1b. If the deployment process encounters errors or failures, the system provides detailed error logs for troubleshooting.
+
+Postconditions: 
+1. The new software update is successfully deployed to the target devices.
+2. The IT Administrator can track the deployment status and view deployment reports.
+
+Exceptions:
+1. If the software update deployment system is unavailable, the IT Administrator receives a notification and escalates the issue to the appropriate support team.
+2. If the deployment process is interrupted due to network issues or device unavailability, the system automatically retries the deployment or alerts the IT Administrator for manual intervention."
+Consumer Products | New Data Solutions,Purchase Data Analysis,analyze consumer purchase data,Data Analyst,Analyst is logged into the data analysis tool,New purchase data is available,"Title: Inventory Management Optimization
+
+Actor: Supply Chain Manager
+
+Description: Optimize inventory management through data analysis
+
+Preconditions: Supply Chain Manager is logged into the inventory management system
+
+Trigger: New inventory data is available
+
+Main Flow:
+1. Supply Chain Manager logs into the system.
+2. Supply Chain Manager navigates to the Inventory Management Optimization page.
+3. Supply Chain Manager selects the option to analyze inventory data.
+4. The system validates the input.
+5. The system processes the data and generates optimization recommendations.
+6. Supply Chain Manager reviews the optimization recommendations.
+7. Supply Chain Manager implements the recommended inventory management changes.
+8. The system updates the inventory records with the changes made.
+
+Alternative Flows:
+1a. If the system encounters errors during data processing, the system alerts the Supply Chain Manager and provides guidance on resolving the issue.
+
+Postconditions: The inventory management system is updated with optimized inventory levels based on data analysis.
+
+Exceptions: If the system experiences downtime, the Supply Chain Manager is notified and provided with an estimated time for system restoration."

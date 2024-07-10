@@ -62,7 +62,7 @@ Der `run_all.py`-Skript steuert den gesamten Prozess vom Generieren der Use Case
    - Generiert Use Cases (`UseCaseGenerator.py`)
    - Generiert Prompts (`PromptGenerator.py`)
    - Startet den LM Studio-Server
-   - Generiert User Stories (`UserStoryGenerator.js`)
+   - Generiert User Stories (`userStoryGenerator.js`)
    - Evaluiert die User Stories (`GPTEvaluatorUserStories.py`)
    - Erstellt ein Leaderboard (`LeaderboardGenerator.py`)
 
@@ -77,7 +77,7 @@ Der `UseCaseGenerator.py` erstellt eine Reihe von Use Cases für verschiedene Br
 1. **Use Cases generieren**:
 
    ```sh
-   python scripts/generators/UseCaseGenerator.py
+   python scripts/generators/useCaseGenerator.py
    ```
 
    Diese Datei liest die Brancheninformationen und generiert die entsprechenden Use Cases, die in der Datei `data/generated/generated_use_cases.csv` gespeichert werden.
@@ -102,7 +102,7 @@ Der `PromptGenerator.py` erstellt Prompts basierend auf den generierten Use Case
 1. **Prompts generieren**:
 
    ```sh
-   python scripts/generators/PromptGenerator.py
+   python scripts/generators/promptGenerator.py
    ```
 
    Diese Datei liest die `data/generated/generated_use_cases.csv` und erstellt die entsprechenden Prompts, die in der Datei `data/generated/generated_prompts.csv` gespeichert werden.
@@ -170,14 +170,14 @@ Bevor die User Stories generiert werden können, muss der LM Studio-Server gesta
 2. **User Stories generieren**:
 
    ```sh
-   node scripts/generators/UserStoryGenerator.js
+   node scripts/generators/userStoryGenerator.js
    ```
 
    Diese Datei liest die `data/generated/generated_prompts.csv`, generiert die User Stories mithilfe von verschiedenen Modellen und speichert sie in der Datei `data/generated/generated_user_stories.csv`.
 
-#### Änderung der LLMs im `UserStoryGenerator.js`
+#### Änderung der LLMs im `userStoryGenerator.js`
 
-Um die Modelle zu ändern, die für die Generierung der User Stories verwendet werden, kannst du die `models`-Liste im `UserStoryGenerator.js` bearbeiten. Hier ist ein Beispiel:
+Um die Modelle zu ändern, die für die Generierung der User Stories verwendet werden, kannst du die `models`-Liste im `userStoryGenerator.js` bearbeiten. Hier ist ein Beispiel:
 
 ```javascript
 const models = [
@@ -195,7 +195,7 @@ Die generierten User Stories werden in der Datei `data/generated/generated_user_
 1. **Evaluation der User Stories durchführen**:
 
    ```sh
-   python scripts/evaluators/GPTEvaluatorUserStories.py
+   python scripts/evaluators/gPTEvaluateUserStories.py
    ```
 
    Diese Datei liest die `data/generated/generated_user_stories.csv`, evaluiert die User Stories auf 13 Qualitätskriterien von Lucassen et al., 2015 mithilfe des ausgewählten Modells und speichert die Ergebnisse in der Datei `data/evaluated/evaluated_by_GPT-3.5-Turbo_user_stories.csv`.
@@ -207,7 +207,7 @@ Das Skript `LeaderboardGenerator.py` analysiert die Evaluationsergebnisse und er
 1. **Ergebnisse analysieren und ein Leaderboard erstellen**:
 
    ```sh
-   python scripts/analytics/LeaderboardGenerator.py
+   python scripts/analytics/leaderboardGenerator.py
    ```
 
    Diese Datei liest die `data/evaluated/evaluated_by_GPT-3.5-Turbo_user_stories.csv`, analysiert die Ergebnisse und erstellt ein Leaderboard, das in der Datei `data/leaderboard/leaderboard.csv` gespeichert wird.

@@ -1,0 +1,5 @@
+Model,Quality Index
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,1.0
+MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,0.9694656488549618
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,0.9635036496350365
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,0.9576271186440678

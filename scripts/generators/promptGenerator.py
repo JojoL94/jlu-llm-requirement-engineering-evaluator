@@ -52,46 +52,11 @@ Your task is to generate user stories based on the following use case:
    - **Acceptance Criteria:**
      - [Criterion 1]
      - [Criterion 2]
-
-### Finished Example (based on a hypothetical use case):
-
-**Use Case:** A mobile banking app that allows users to check their account balance, transfer money, and view transaction history.
-
-1. **User Story:**
-   - **As a registered user**
-   - **I want to log into the mobile banking app**
-   - **So that I can securely access my banking features**
-   - **Acceptance Criteria:**
-     - User must enter a valid username and password
-     - System must display an error message for invalid login attempts
-
-2. **User Story:**
-   - **As a registered user**
-   - **I want to check my account balance**
-   - **So that I know how much money I have available**
-   - **Acceptance Criteria:**
-     - User must be able to select an account to view the balance
-     - System must display the current balance accurately
-
-3. **User Story:**
-   - **As a registered user**
-   - **I want to transfer money to another account**
-   - **So that I can pay bills or send money to others**
-   - **Acceptance Criteria:**
-     - User must enter recipient account details and transfer amount
-     - System must confirm the transfer and update the balance accordingly
-
-4. **User Story:**
-   - **As a registered user**
-   - **I want to view my transaction history**
-   - **So that I can track my spending and verify transactions**
-   - **Acceptance Criteria:**
-     - User must be able to select a date range for viewing transactions
-     - System must display a list of transactions within the selected date range
-
+     
+(... Rest of User Stories)
 ### Task:
 
-Now, using the provided use case, generate a complete set of user stories following the outlined format. Ensure each user story includes clear goals, reasons, and acceptance criteria.
+Now, using the provided use case, generate a complete set of user stories following the outlined format. Ensure each user story includes clear goals, reasons, and acceptance criteria (if necessary). I only need the set of user stories. No explanation or other information about the set of user stories is required.
 """
     return prompt_template
 

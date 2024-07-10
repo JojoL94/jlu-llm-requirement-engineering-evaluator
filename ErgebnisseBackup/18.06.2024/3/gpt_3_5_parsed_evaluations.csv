@@ -1,0 +1,41 @@
+Industry,Title,Model,Yes,No
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,14,0
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,14,0
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,14,0
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,14,0
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,14,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,14,0
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,14,0
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,7,0
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,8,4
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,14,0
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,14,0
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,14,0
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,14,0
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,14,0
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,14,0
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,14,0
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,14,0
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,14,0
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,14,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,14,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,12,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,14,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,12,1
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,12,2
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,14,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,14,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,14,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,14,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,14,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,12,2
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,5,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,14,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,14,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,7,4
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,14,0
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,11,1
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,14,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,7,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,13,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,14,0

@@ -1,0 +1,567 @@
+Industry,Title,Model,Criterion,Yes,No
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,9,0
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,9,0
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,9,0
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,9,0
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,9,0
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,9,0
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,9,0
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,9,0
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,9,0
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Full sentence,9,0
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,9,0
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,9,0
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,9,0
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,9,0
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,10,0
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,0,10
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,10,0
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,10,0
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,10,0
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,10,0
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,10,0
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,10,0
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,0,10
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Full sentence,10,0
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,10,0
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,10,0
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,10,0
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,10,0
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,12,0
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,0,12
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,12,0
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,12,0
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,12,0
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,12,0
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,12,0
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,12,0
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,12,0
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed full sentence,12,0
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,12,0
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,12,0
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,12,0
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,12,0
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,[Name of Criterion],0,0
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,14,0
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,0,14
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,14,0
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,14,0
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,14,0
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,14,0
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,14,0
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,14,0
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,14,0
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Full sentence,14,0
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,14,0
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,14,0
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,14,0
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,14,0
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,10,0
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,0,10
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,9,1
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,10,0
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,10,0
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,10,0
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,10,0
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,10,0
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,10,0
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Full sentence,10,0
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,10,0
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,10,0
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,10,0
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,10,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,[Name of Criterion],0,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,14,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,14,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,14,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,14,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,14,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,14,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,14,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,14,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,14,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed full sentence,14,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,14,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,14,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,14,0
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,14,0
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,[Name of Criterion],0,0
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,9,0
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,0,9
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,9,0
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,9,0
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,9,0
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,9,0
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,9,0
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,9,0
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,9,0
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed full sentence,9,0
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,9,0
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,9,0
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,9,0
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,9,0
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,10,0
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,10,0
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,10,0
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,10,0
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,10,0
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,6,0
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,6,0
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,10,0
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,2,4
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Full sentence,10,0
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,10,0
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,6,0
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,14,0
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,14,0
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,8,0
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,0,8
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,8,0
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,8,0
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,8,0
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,8,0
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,8,0
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,8,0
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,8,0
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Full sentence,8,0
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,8,0
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,8,0
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,8,0
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,9,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,9,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,9,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,9,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,9,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,9,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,9,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,9,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,9,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Full sentence,9,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,9,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,9,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,9,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,9,0
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,9,0
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,0,9
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,9,0
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,9,0
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,9,0
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,9,0
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,9,0
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,9,0
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,9,0
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Full sentence,9,0
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,9,0
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,9,0
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,9,0
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,9,0
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,10,0
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,10,0
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,10,0
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,10,0
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,10,0
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,10,0
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,10,0
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,10,0
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,10,0
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Full sentence,10,0
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,10,0
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,10,0
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,10,0
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,10,0
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,11,0
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,11,0
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,11,0
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,11,0
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,11,0
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,11,0
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,11,0
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,11,0
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,11,0
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Full sentence,11,0
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,11,0
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,11,0
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,11,0
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,11,0
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,10,0
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,10,0
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,10,0
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,10,0
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,10,0
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,10,0
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,10,0
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,10,0
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,10,0
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Full sentence,10,0
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,10,0
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,10,0
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,10,0
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,10,0
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,[Name of Criterion],0,0
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,13,0
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,13,0
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,13,0
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,13,0
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,13,0
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,13,0
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,13,0
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,13,0
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,13,0
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Full sentence,13,0
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,13,0
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,13,0
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,13,0
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,13,0
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,9,0
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,9,0
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,9,0
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,9,0
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,9,0
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,9,0
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,9,0
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,9,0
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,9,0
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Full sentence,9,0
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,9,0
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,9,0
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,9,0
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,9,0
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,14,0
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,0,14
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,14,0
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,14,0
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,14,0
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,14,0
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,14,0
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,14,0
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,14,0
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Full sentence,14,0
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,14,0
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,14,0
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,14,0
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,14,0
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,[Name of Criterion],0,0
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,13,0
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,0,13
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,13,0
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,13,0
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,13,0
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,13,0
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,13,0
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,13,0
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,13,0
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed full sentence,13,0
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,13,0
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,13,0
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,13,0
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,13,0
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,11,0
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,11,0
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,11,0
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,11,0
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,11,0
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,11,0
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,11,0
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,11,0
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,11,0
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed full sentence,11,0
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,11,0
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,11,0
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,11,0
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,11,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,10,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,10,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,10,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,10,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,10,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,10,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,10,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,10,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,10,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed full sentence,10,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,10,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,10,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,10,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,10,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,4,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,0,4
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,4,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,4,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,4,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,4,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,4,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,4,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,0,4
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,4,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,4,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,4,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,4,0
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,4,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,8,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,8,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,8,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,8,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,8,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,8,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,8,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,8,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,8,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed full sentence,8,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,8,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,8,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,8,0
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,8,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,8,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,8,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,8,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,8,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,8,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,8,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,8,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,8,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,8,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed full sentence,8,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,8,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,8,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,8,0
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,8,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,7,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,7,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,7,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,7,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,7,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,7,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,7,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,7,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,7,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,7,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,7,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,7,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,7,0
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,7,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,[Name of Criterion],0,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,8,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,8,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,8,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,8,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,8,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,8,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,8,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,8,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,8,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,8,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,8,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,8,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,8,0
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,8,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,8,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,8,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,8,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,8,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,8,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,8,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,8,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,8,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,8,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,8,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,8,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,8,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,8,0
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,8,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,6,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,6,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,6,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,6,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,6,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,6,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,6,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,6,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,6,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,6,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,6,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,6,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,6,0
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,6,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,9,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,9,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,9,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,9,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,9,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,9,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,9,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,9,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,9,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,9,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,9,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,9,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,9,0
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,9,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,6,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,6,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,6,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,6,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,6,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,6,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,6,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,6,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,6,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,6,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,6,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,6,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,6,0
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,6,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,5,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,5,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,5,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,5,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,5,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,5,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,5,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,5,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,3,2
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed full sentence,5,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,5,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,5,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,5,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,5,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,2,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,2
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,2,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,2,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,2,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,2,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,2,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,0,2
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,0,2
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Full sentence,2,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,2,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,2,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,2,0
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,2,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed full sentence,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,8,0
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,8,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,10,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,10,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,10,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,10,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,10,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,10,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,10,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,10,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,10,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed full sentence,10,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,10,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,10,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,10,0
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,10,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,3,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,1,2
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,2,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,3,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,2,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,3,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,2,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,0,3
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,0,3
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed full sentence,2,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,3,0
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,2,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,2,1
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,3,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,8,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,8,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,8,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,8,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,8,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,8,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,8,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,8,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,8,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Full sentence,8,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,8,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,8,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,8,0
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,8,0
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,3,0
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,1,2
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,2,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,3,0
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,2,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,3,0
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,3,0
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,2,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,0,3
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,A user story is a well-formed full sentence,2,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,3,0
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,1,2
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,2,1
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,3,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,10,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,10,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,10,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,10,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,10,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,10,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,10,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,10,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,10,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Full sentence,10,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,10,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,10,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,10,0
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,10,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,3,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,1,2
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,3,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,3,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,2,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,3,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,1,2
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,0,2
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,2,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed full sentence,3,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,2,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,0,2
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,3,0
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,3,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,3,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,0,2
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,2,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,2,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,2,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,2,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,2,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,2,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,2,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed full sentence,2,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,2,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,2,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,2,0
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,2,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed full sentence,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,8,0
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,8,0

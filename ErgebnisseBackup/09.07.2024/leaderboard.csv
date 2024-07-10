@@ -1,0 +1,5 @@
+Model,Quality Index
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,0.9903381642512077
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,0.9781818181818182
+MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,0.9501241552726701
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,0.9330184376382131

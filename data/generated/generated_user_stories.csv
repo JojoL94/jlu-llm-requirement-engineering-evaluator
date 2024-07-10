@@ -1,0 +1,3009 @@
+Industry,Title,Model,User Stories
+Automotive,Parts Supplier Management,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,"Here are the user stories generated based on the given use case:
+
+1. **As a Service Manager**
+- **I want to log into the vehicle maintenance scheduling system**
+- **So that I can access and manage vehicle maintenance appointments for customers**
+- **Acceptance Criteria:**
+  - The system requires valid login credentials
+  - The user is redirected to the Vehicle Maintenance Scheduling page after successful login
+
+2. **As a Service Manager**
+- **I want to navigate to the Vehicle Maintenance Scheduling page**
+- **So that I can find and schedule vehicle maintenance appointments for customers**
+- **Acceptance Criteria:**
+  - The system displays the scheduling page with available appointment slots
+  - The system allows me to select the customer from a list
+
+3. **As a Service Manager**
+- **I want to select a customer requesting a maintenance appointment**
+- **So that I can schedule the appointment for the correct vehicle**
+- **Acceptance Criteria:**
+  - The system displays the selected customer's information
+  - The system offers available appointment slots for the chosen customer
+
+4. **As a Service Manager**
+- **I want to schedule an appointment date and time**
+- **So that I can confirm the appointment details with the customer**
+- **Acceptance Criteria:**
+  - The system validates the selected date and time
+  - The system allows me to choose another available slot if unavailable
+
+5. **As a Service Manager**
+- **I want to add special requests or additional services (if necessary)**
+- **So that I can accommodate customer needs**
+- **Acceptance Criteria:**
+  - The system allows me to enter custom requests
+  - The system saves the added requests and displays them in the appointment details
+
+6. **As a Service Manager**
+- **I want the system to validate appointment details**
+- **So that I know the appointment is correct before confirmation**
+- **Acceptance Criteria:**
+  - The system checks for availability of selected time slot
+  - The system verifies customer information
+
+7. **As a Service Manager**
+- **I want the system to confirm and notify the customer**
+- **So that the customer receives timely updates on their scheduled appointment**
+- **Acceptance Criteria:**
+  - The system sends a confirmation notification to the customer's registered email
+  - The system displays a confirmation message for me
+
+8. **As a Service Manager**
+- **I want to handle unavailable appointment slots**
+- **So that I can find an alternative time slot**
+- **Acceptance Criteria:**
+  - The system prompts me to choose another available time slot
+  - The system displays the selected customer's information with updated availability
+
+9. **As a Service Manager**
+- **I want to be alerted for technical issues during scheduling**
+- **So that I can reschedule appointments manually**
+- **Acceptance Criteria:**
+  - The system displays an error message when experiencing technical issues
+  - The system provides alternative manual scheduling options
+
+10. **As a Service Manager**
+- **I want to view scheduled appointments and their details**
+- **So that I can monitor customer appointments efficiently**
+- **Acceptance Criteria:**
+  - The system displays all scheduled appointments for me
+  - The system shows appointment details, including special requests and additional services
+
+Please provide the set of user stories following the given format. (10)"
+Food,Production Line Monitoring,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,"```
+1. **As an Inventory Manager**
+- **I want to log in to the inventory management system**
+- **So that I can access my account and start managing inventory**
+- **Acceptance Criteria:**
+  - The login process uses a secure authentication mechanism
+  - The system redirects me to the dashboard after successful login
+
+2. **As an Inventory Manager**
+- **I want to view the current inventory levels and upcoming shipments on the dashboard**
+- **So that I can monitor stock levels and plan for future deliveries**
+- **Acceptance Criteria:**
+  - The dashboard displays accurate real-time data
+  - The system shows a clear graphical representation of inventory levels
+
+3. **As an Inventory Manager**
+- **I want to update inventory records based on received shipments or sales**
+- **So that I can keep track of changing stock levels and make informed decisions**
+- **Acceptance Criteria:**
+  - The system allows for manual updates via input form
+  - All changes are reflected in the dashboard immediately
+
+4. **As an Inventory Manager**
+- **I want to verify the accuracy of inventory data**
+- **So that I can ensure data integrity and correct reporting**
+- **Acceptance Criteria:**
+  - A report shows discrepancies or errors in inventory records
+  - The system highlights areas requiring attention
+
+5. **As an Inventory Manager**
+- **I want to receive notifications for low inventory levels or upcoming expirations**
+- **So that I can take timely action and prevent stockouts or waste**
+- **Acceptance Criteria:**
+  - Notifications are sent in a timely manner (e.g., via email or SMS)
+  - The system provides an option to adjust notification thresholds
+
+6. **As an Inventory Manager**
+- **I want to initiate a manual recount if inventory records have discrepancies**
+- **So that I can resolve any inaccuracies and maintain trust in the system**
+- **Acceptance Criteria:**
+  - A separate interface for manual updates is available
+  - The system allows me to track changes made during the recount
+
+7. **As an Inventory Manager**
+- **I want to adjust inventory forecasts if a shipment is delayed or canceled**
+- **So that I can adapt to changing circumstances and notify relevant stakeholders**
+- **Acceptance Criteria:**
+  - A notification is sent to designated team members
+  - The system updates the forecast accordingly
+
+8. **As an Inventory Manager**
+- **I want to report technical issues with inventory tracking**
+- **So that IT support can resolve problems quickly and efficiently**
+- **Acceptance Criteria:**
+  - An error message appears on screen when experiencing technical difficulties
+  - A support ticket is generated for the issue
+
+```
+Please provide the complete set of user stories as instructed. No additional information or explanations are required."
+Banking,Loan Processing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,"Here is your response:
+
+1. **As a Bank Customer**
+- **I want to insert my ATM card into the machine**
+- **So that I can initiate a withdrawal transaction**
+- **Acceptance Criteria:**
+	- The system recognizes and accepts my valid ATM card.
+	- Error message displayed if invalid or damaged card is inserted.
+
+2. **As a Bank Customer**
+- **I want to enter my PIN correctly on the first attempt**
+- **So that I can proceed with the withdrawal process securely**
+- **Acceptance Criteria:**
+	- The system verifies correct PIN and proceeds with the transaction.
+	- Incorrect PIN prompts for re-entry.
+
+3. **As a Bank Customer**
+- **I want to select the ""Withdrawal"" option**
+- **So that I can specify my cash needs**
+- **Acceptance Criteria:**
+	- Option to withdraw is displayed.
+	- System validates selection and proceeds with amount entry.
+
+4. **As a Bank Customer**
+- **I want to enter the withdrawal amount correctly**
+- **So that I can receive the requested funds**
+- **Acceptance Criteria:**
+	- Amount is validated for sufficient balance and daily limit.
+	- Error message displayed if invalid or out-of-range input.
+
+5. **As a System**
+- **I want to verify transaction details**
+- **So that I can ensure accuracy and security**
+- **Acceptance Criteria:**
+	- Validate PIN, card information, and amount entered.
+	- Confirm transaction with Bank Customer before proceeding.
+
+6. **As a Bank Customer**
+- **I want to receive my withdrawn cash and receipt**
+- **So that I have proof of the transaction**
+- **Acceptance Criteria:**
+	- Cash dispensed within valid limits (e.g., daily limit).
+	- Receipt displayed on screen for confirmation.
+
+7. **As a Bank Customer**
+- **I want to remove my ATM card from the machine**
+- **So that I can continue with my day safely**
+- **Acceptance Criteria:**
+	- System confirms withdrawal completion.
+	- Card ejected or removed securely.
+
+8. **As a Bank Customer (Alternative Flow)**
+- **I want to re-enter my PIN correctly after an incorrect attempt**
+- **So that I can complete the transaction successfully**
+- **Acceptance Criteria:**
+	- Incorrect PIN prompts for re-entry (up to 3 times).
+	- Maximum attempts exceeded, card locked and contact bank notified.
+
+9. **As a Bank Customer (Alternative Flow)**
+- **I want to be informed about ATM issues**
+- **So that I can seek assistance**
+- **Acceptance Criteria:**
+	- System displays ""ATM out of service"" or similar message.
+	- Contact customer service information provided.
+
+10. **As a Bank Customer (Postcondition)**
+- **I want my successful withdrawal confirmation**
+- **So that I am aware of the transaction status**
+- **Acceptance Criteria:**
+	- Confirmation displayed on screen and receipt printed.
+	- Transaction recorded in account history.
+
+11. **As a System (Exception)**
+- **I want to notify customers about ATM issues**
+- **So that they can seek assistance**
+- **Acceptance Criteria:**
+	- ""ATM out of service"" or similar message is displayed.
+	- Contact customer service information provided.
+
+Please let me know if you need any adjustments or have further questions. I'm ready for your feedback!"
+Insurance,Claim Filing,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,"```markdown
+**User Story 1**
+- As a Policyholder
+- I want to access my insurance account
+- So that I can renew an existing policy
+- Acceptance Criteria:
+    - The system displays the Policyholder's login credentials prompt.
+    - The Policyholder successfully logs in to their account.
+
+**User Story 2**
+- As a Policyholder
+- I want to navigate to the Policy Renewal section
+- So that I can start the renewal process for my policy
+- Acceptance Criteria:
+    - The system displays the Policy Renewal page with the option to select a policy.
+    - The selected policy is displayed in the Policy Renewal page.
+
+**User Story 3**
+- As a Policyholder
+- I want to select the policy I wish to renew
+- So that I can proceed with the renewal process
+- Acceptance Criteria:
+    - The system displays the list of available policies.
+    - The selected policy is updated in the Policy Renewal page.
+
+**User Story 4**
+- As a Policyholder
+- I want to review the policy details and coverage options
+- So that I can ensure the correct information before renewal
+- Acceptance Criteria:
+    - The system displays the policy's current details, including coverage options.
+    - The Policyholder can review and update policy information if necessary.
+
+**User Story 5**
+- As a Policyholder
+- I want to confirm the policy renewal and select the payment method
+- So that my policy is renewed successfully
+- Acceptance Criteria:
+    - The system prompts for confirmation before processing the renewal.
+    - The payment method options are displayed and selectable.
+
+**User Story 6**
+- As a Policyholder
+- I want the system to process my payment
+- So that my policy is updated in the system
+- Acceptance Criteria:
+    - Payment processing occurs without errors.
+    - The system updates the policy status to renewed.
+
+**User Story 7**
+- As a Policyholder
+- I want the system to send a confirmation email for renewal
+- So that I receive a record of the renewal
+- Acceptance Criteria:
+    - A confirmation email is sent with the updated policy details.
+    - The email contains the payment method information.
+
+**User Story 8**
+- As a Policyholder
+- I want to cancel the renewal process if needed
+- So that I can change my mind about renewing the policy
+- Acceptance Criteria:
+    - The system allows cancellation of the renewal process.
+    - A confirmation message is displayed when cancelling.
+
+**User Story 9**
+- As a Policyholder
+- I want to update policy details before confirming renewal
+- So that I ensure correct information
+- Acceptance Criteria:
+    - The system updates policy information if necessary.
+    - The updated information is reflected in the Policy Renewal page.
+
+**User Story 10**
+- As a Policyholder
+- I want the system to handle failed payment processing
+- So that I can retry or contact support
+- Acceptance Criteria:
+    - A failure message is displayed for payment processing errors.
+    - The option to retry or contact customer support is provided.
+```
+
+
+Here are your user stories based on the provided use case."
+Healthcare,Patient Appointment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,"Here are the generated user stories:
+
+1.
+- As a Receptionist
+- I want to log in to the appointment system
+- So that I can access patient scheduling functionality
+- Acceptance Criteria: 
+  - The system redirects me to the login page when not logged in
+
+2.
+- As a Receptionist
+- I want to navigate to the Patient Appointment section
+- So that I can schedule appointments efficiently
+- Acceptance Criteria:
+  - The system displays the Patient Appointment tab after successful login
+  - The tab is easily accessible from the main menu
+
+3.
+- As a Receptionist
+- I want to select a patient for whom the appointment needs to be scheduled
+- So that I can book an appointment accurately
+- Acceptance Criteria: 
+  - The system lists all patients in the database
+  - The selected patient's information is displayed
+
+4.
+- As a Receptionist
+- I want to choose a date and time for the appointment
+- So that I can ensure timely and convenient appointments
+- Acceptance Criteria:
+  - The system displays available dates and times
+  - The chosen slot is updated in real-time
+
+5.
+- As a Receptionist
+- I want to confirm the appointment booking
+- So that I can verify the scheduling process
+- Acceptance Criteria: 
+  - The system prompts for confirmation of the selected date and time
+  - Appointment details are saved upon confirmation
+
+6.
+- As a Receptionist
+- I want the system to validate appointment details
+- So that I can ensure accurate scheduling
+- Acceptance Criteria:
+  - The system checks for invalid or incomplete information
+  - The system provides feedback on any errors
+
+7.
+- As a Receptionist
+- I want the system to update the appointment schedule
+- So that patient schedules are up-to-date and accurate
+- Acceptance Criteria: 
+  - The system updates the patient's schedule in real-time
+  - Appointment details are reflected in the schedule
+
+8.
+- As a Receptionist
+- I want the system to send a confirmation notification to the patient
+- So that patients receive timely notifications
+- Acceptance Criteria:
+  - The patient receives a notification with appointment details
+  - The system stores the notification for future reference
+
+9.
+- As a Receptionist
+- I want to add new patient information if necessary
+- So that all patient data is accurate and complete
+- Acceptance Criteria: 
+  - The system allows adding new patient information
+  - New patient information is validated before appointment scheduling
+
+10.
+- As a Receptionist
+- I want to select an alternative date or time if the original one is not available
+- So that patients can still schedule appointments
+- Acceptance Criteria:
+  - The system suggests alternative dates and times
+  - The selected alternative slot is updated in real-time
+
+11.
+- As a Receptionist
+- I want to correct incomplete or invalid appointment details
+- So that scheduling errors are minimized
+- Acceptance Criteria: 
+  - The system prompts for corrections
+  - Appointment details are validated upon correction
+
+12.
+- As a Receptionist
+- I want to be notified if the system is unavailable
+- So that I can attempt scheduling later
+- Acceptance Criteria:
+  - The system displays an error message for system downtime
+  - The system provides instructions for retrying the operation
+
+Please let me know if this meets your expectations. If you require further adjustments, feel free to request changes!"
+Public Sector,Voter Registration,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,"1.
+- **As a Public Health Officer**
+- **I want to log into the public health monitoring system**
+- **So that I can access essential tools and data for tracking infectious diseases**
+- **Acceptance Criteria:**
+  - The system allows me to enter my credentials correctly
+  - The system authenticates and logs me in successfully
+- **User Story:**
+
+
+[Insert more user stories here]
+
+Please provide the complete set of user stories based on the use case."
+Travel & Logistics,Shipment Tracking,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,"```
+1.
+- As a Logistics Coordinator
+- I want to log in to the system using my valid credentials
+- So that I can access shipment tracking features
+- Acceptance Criteria: 
+  - The system accepts my login credentials and presents the main dashboard
+
+2. 
+- As a Logistics Coordinator
+- I want to navigate to the Shipment Tracking section of the system
+- So that I can track shipments efficiently
+- Acceptance Criteria: 
+  - The system displays the Shipment Tracking section on the main dashboard
+
+3. 
+- As a Logistics Coordinator
+- I want to enter a valid tracking number or shipment details
+- So that I can quickly locate the shipment information
+- Acceptance Criteria: 
+  - The system validates the input for accuracy and completeness
+  - The system retrieves the shipment information if the input is correct
+
+4.
+- As a Logistics Coordinator
+- I want to retrieve the current status and location of my tracked shipments
+- So that I have real-time updates on my shipments' whereabouts
+- Acceptance Criteria: 
+  - The system displays the latest shipment status and location
+  - Shipment details are accurate and up-to-date
+
+5.
+- As a Logistics Coordinator
+- I want to review the tracking details and any relevant updates for my shipment
+- So that I can take informed decisions on shipment handling
+- Acceptance Criteria: 
+  - The system displays all relevant information about the shipment, including status and location
+  - Shipment updates are displayed in real-time
+
+6a.
+- As a Logistics Coordinator
+- I want to be prompted to re-enter correct tracking number or details if provided incorrectly
+- So that I can avoid errors while tracking shipments
+- Acceptance Criteria: 
+  - The system displays an error message for incorrect input
+  - The Coordinator is advised to retry with the correct information
+
+6b.
+- As a Logistics Coordinator
+- I want to receive an error message and support contact details if the system encounters issues
+- So that I can troubleshoot or seek assistance when needed
+- Acceptance Criteria: 
+  - An error message is displayed for system errors
+  - The system provides technical support contact information
+
+7.
+- As a Logistics Coordinator
+- I want to take necessary actions based on my shipment status and location
+- So that I can manage shipments effectively
+- Acceptance Criteria: 
+  - The system allows me to initiate actions based on the shipment's current state
+  - Actions are relevant to the shipment status
+
+8.
+- As a Logistics Coordinator
+- I want the system to be available and functioning properly at all times
+- So that I can track shipments without interruptions
+- Acceptance Criteria: 
+  - The system is accessible and responds promptly to requests
+  - No errors occur during tracking operations
+```
+
+
+Thank you for your prompt response."
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,"```markdown
+- **As a Customer Service Agent**
+- **I want to log into the system using my credentials**
+- **So that I can access the service ticket management module and resolve customer issues efficiently**
+- **Acceptance Criteria:**
+  - The system displays the login page for authentication
+  - The system validates correct credentials and grants access to the service ticket management module
+
+- **As a Customer Service Agent**
+- **I want to navigate to the Service Ticket Resolution module**
+- **So that I can quickly find and resolve newly submitted service tickets**
+- **Acceptance Criteria:**
+  - The system provides a dashboard with an option to select the new service tickets
+  - The selected ticket displays the customer's inquiry and details
+
+- **As a Customer Service Agent**
+- **I want to review the details of a newly submitted service ticket**
+- **So that I can understand the issue reported by the customer and take necessary actions**
+- **Acceptance Criteria:**
+  - The system displays the complete ticket information, including customer data and inquiry
+  - The agent can view the ticket history for context
+
+- **As a Customer Service Agent**
+- **I want to update the status of a service ticket to ""In Progress"" during resolution**
+- **So that I can track progress and notify stakeholders**
+- **Acceptance Criteria:**
+  - The system updates the ticket status to ""In Progress""
+  - The agent receives a confirmation message for the updated status
+
+- **As a Customer Service Agent**
+- **I want to take necessary actions to resolve the issue**
+- **So that I can efficiently address customer inquiries and concerns**
+- **Acceptance Criteria:**
+  - The system allows the agent to troubleshoot, provide information, or escalate the ticket
+  - The system records the resolution steps for future reference
+
+- **As a Customer Service Agent**
+- **I want to update the ticket with the resolution details**
+- **So that I can document the issue's resolution and notify the customer**
+- **Acceptance Criteria:**
+  - The agent can input resolution information
+  - The system validates the provided information
+
+- **As a Customer Service Agent**
+- **I want the system to validate my updates**
+- **So that I can ensure accurate data and maintain transparency**
+- **Acceptance Criteria:**
+  - The system checks for correct ticket status, customer details, and resolution information
+  - The agent receives an error message if any field is missing or invalid
+
+- **As a Customer Service Agent**
+- **I want to notify the customer of the resolved service ticket**
+- **So that I can keep them informed about the issue's resolution**
+- **Acceptance Criteria:**
+  - The system sends an email or in-system notification upon resolution
+  - The agent receives confirmation of successful notification
+
+- **As a Customer Service Agent**
+- **I want to escalate the ticket if necessary**
+- **So that I can seek senior support or collaborate with other teams for complex issues**
+- **Acceptance Criteria:**
+  - The system allows agents to escalate tickets to seniors or other departments
+  - The system records the escalation reason and updates the status
+
+- **As a Customer Service Agent**
+- **I want to close a service ticket if it's a duplicate or irrelevant**
+- **So that I can free up resources and maintain accuracy**
+- **Acceptance Criteria:**
+  - The agent can justify and close the duplicate/irrelevant ticket
+  - The system updates the status and marks the ticket as closed
+
+- **As a Customer Service Agent**
+- **I want to receive notifications in case of system unavailability**
+- **So that I can troubleshoot and resolve issues effectively**
+- **Acceptance Criteria:**
+  - The system sends a notification about the unavailable status
+  - The agent is advised to try again later
+
+- **As a Customer Service Agent**
+- **I want to view ticket history for future reference and analysis**
+- **So that I can track resolution patterns and improve processes**
+- **Acceptance Criteria:**
+  - The system displays resolved tickets with details and timestamps
+  - The agent can filter and search the ticket history
+```
+Please note that you have generated a set of user stories based on the provided use case. These user stories should cover all aspects of the given use case, addressing various functionalities, user interactions, and system responses. Each user story includes clear goals, reasons, and acceptance criteria for completeness.
+
+Thank you!"
+Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,"```markdown
+**User Story 1**
+As an IT Administrator
+I want to log into the software update deployment system
+So that I can initiate the deployment process
+Acceptance Criteria:
+- The login credentials are validated
+- The correct dashboard is displayed
+
+**User Story 2**
+As an IT Administrator
+I want to select a new software update package for deployment
+So that I can deploy approved updates to target devices
+Acceptance Criteria:
+- A list of available software updates is displayed
+- The selected package is correctly highlighted and marked as deployed
+
+**User Story 3**
+As an IT Administrator
+I want to specify the target devices or groups for deployment
+So that I can control which devices receive the update
+Acceptance Criteria:
+- Devices are listed in a user-friendly interface
+- The selection of target devices or groups is confirmed
+
+**User Story 4**
+As an IT Administrator
+I want the system to verify compatibility with target devices
+So that updates are deployed correctly and efficiently
+Acceptance Criteria:
+- Compatibility checks are performed for each device
+- Incompatible devices are flagged for action
+
+**User Story 5**
+As an IT Administrator
+I want the system to schedule deployment based on predefined maintenance windows or immediate deployment
+So that updates are deployed at optimal times
+Acceptance Criteria:
+- Maintenance windows are configurable
+- Immediate deployment is available as an option
+
+**User Story 6**
+As an IT Administrator
+I want the system to initiate and monitor the deployment process
+So that updates are successfully applied to devices
+Acceptance Criteria:
+- Deployment progress is tracked in real-time
+- Completion status is accurately reported
+
+**User Story 7**
+As an IT Administrator
+I want to receive notifications for successful deployment completion
+So that I am informed of update deployment results
+Acceptance Criteria:
+- Notifications are sent via email or other preferred method
+- Notification content includes deployment details
+
+**User Story 8a**
+As an IT Administrator
+I want the system to alert me to compatibility issues with target devices
+So that I can take corrective actions
+Acceptance Criteria:
+- Compatibility errors are detected and reported
+- Corrective actions are provided as suggestions
+
+**User Story 8b**
+As an IT Administrator
+I want detailed error logs for deployment failures
+So that I can troubleshoot the issue
+Acceptance Criteria:
+- Error logs include relevant information
+- Logs are accessible via the dashboard or report
+
+**User Story 9**
+As an IT Administrator
+I want to track deployment status and view reports
+So that I can monitor update rollout and identify issues
+Acceptance Criteria:
+- Deployment history is available for review
+- Reports display deployment statistics
+
+**User Story 10**
+As an IT Administrator
+I want the system to retry deployments in case of network issues or device unavailability
+So that updates are applied despite connectivity problems
+Acceptance Criteria:
+- Retries occur after a defined timeout period
+- Manual intervention is optional for complex cases
+
+**User Story 11**
+As an IT Administrator
+I want notifications for software update deployment system unavailability
+So that I can escalate issues to support
+Acceptance Criteria:
+- System downtime notifications are sent
+- Escalation procedures are outlined
+
+**User Story 12**
+As an IT Administrator
+I want to view detailed error logs for troubleshooting
+So that I can resolve deployment failures quickly
+Acceptance Criteria:
+- Error logs include technical details
+- Logs are accessible via the dashboard or report
+```"
+Consumer Products | New Data Solutions,Purchase Data Analysis,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,"```
+1. As a Supply Chain Manager
+I want to log in to the inventory management system
+So that I can access optimization features
+- Acceptance Criteria: 
+  - The system redirects me to the login page with a valid username and password field
+  - Upon successful login, I am presented with the Inventory Management Optimization page
+
+2. As a Supply Chain Manager
+I want to navigate to the Inventory Management Optimization page
+So that I can start analyzing inventory data for optimization
+- Acceptance Criteria: 
+  - The system displays the option to select the analysis type (e.g., product, location, etc.)
+  - Upon selecting an option, the system shows relevant data
+
+3. As a Supply Chain Manager
+I want to analyze my inventory data
+So that I can identify areas for optimization
+- Acceptance Criteria: 
+  - The system validates input data and displays any errors
+  - The system provides detailed analysis results with recommendations
+
+4. As a Supply Chain Manager
+I want the system to process my data and generate optimization recommendations
+So that I can implement optimized inventory management strategies
+- Acceptance Criteria:
+  - The system processes data correctly without errors
+  - The system generates actionable recommendations for inventory optimization
+
+5. As a Supply Chain Manager
+I want to review optimization recommendations
+So that I can make informed decisions on inventory management changes
+- Acceptance Criteria: 
+  - The system displays the recommended optimization changes with clear explanations
+  - The system provides an option to view detailed data analysis supporting the recommendations
+
+6. As a Supply Chain Manager
+I want to implement recommended inventory management changes
+So that my inventory is optimized
+- Acceptance Criteria:
+  - The system allows me to update inventory records with the implemented changes
+  - Inventory levels are updated correctly
+
+7. As a Supply Chain Manager
+I want errors during data processing to be handled gracefully
+So that I can resolve issues and continue optimization
+- Acceptance Criteria: 
+  - The system alerts me with error messages
+  - The system provides guidance on resolving the issue
+  - System performance is maintained, even during errors
+
+8. As a Supply Chain Manager
+I want to receive notifications for system downtime
+So that I can plan accordingly and continue work when the system is available again
+- Acceptance Criteria:
+  - The system sends an alert with estimated time for restoration
+  - Notifications are sent in real-time or near-real-time
+```
+Please provide only the set of user stories as requested. No explanations, comments, or other information about them. Thank you!"
+Automotive,Parts Supplier Management,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," 1. **User Story:**
+   - **As a Service Manager**
+   - **I want to be able to log into the vehicle maintenance scheduling system securely and efficiently so that I can manage customer appointments effectively.**
+   - **Acceptance Criteria:**
+     - The login process should require valid credentials for authentication.
+     - Upon successful login, an appropriate welcome message or dashboard view is displayed.
+
+2. **User Story:**
+   - **As a Service Manager**
+   - **I want to navigate to the Vehicle Maintennant Scheduling page easily and quickly so that I can access appointment management features conveniently.**
+   - **Acceptance Criteria:**
+     - The system should have an intuitive navigation menu leading directly to the scheduling page.
+     - Once on the scheduling page, all relevant components are visible without requiring excessive clicks or navigations.
+
+3. **User Story:**
+   - **As a Service Manager**
+   - **I want to be able to select customer requests for vehicle maintenance appointments efficiently so that I can manage and address their needs promptly.**
+   - **Acceptance Criteria:**
+     - The system should allow easy access to customer request listings through search or filter options.
+     - Once a specific customer's request is selected, the related information and requested maintenance details are readily available for review.
+
+4. **User Story:**
+   - **As a Service Manager**
+   - **I want to be able to schedule vehicle maintenance appointments with flexibility in choosing dates and times so that I can accommodate various customer preferences while ensuring efficient use of resources.**
+   - **Acceptance Criteria:**
+     - The system should provide an interactive calendar view for selecting suitable appointment slots, taking into account business hours, availability, and potential conflicts.
+     - When scheduling appointments, the system should validate date and time inputs to ensure they are within working hours and not double-booked.
+
+5. **User Story:**
+   - **As a Service Manager**
+   - **I want the vehicle maintenance appointment details to be validated for accuracy before confirmation so that I can prevent errors in scheduling and customer satisfaction issues.**
+   - **Acceptance Criteria:**
+     - The system should have input validation rules (e.g., date, time format) to ensure accurate data entry by the Service Manager.
+     - Upon successful appointment creation, the details displayed for confirmation match the entered information.
+
+6. **User Story:**
+   - **As a Service Manager**
+   - **I want the system to send automatic appointment notifications and confirmations to customers so that they can plan accordingly and feel valued as a client.**
+   - **Acceptance Criteria:**
+     - The system should support automated email or SMS notification services for sending appointment details and confirmation messages.
+     - Upon successful appointment scheduling, the customer receives an acknowledgment message along with their scheduled date and time.
+
+7. **User Story (Alternative Flow):**
+   - **As a Service Manager**
+   - **I want to be able to handle unavailable appointment slots gracefully by prompting me to choose another suitable date and time so that I can efficiently reschedule customer requests without causing inconvenience.**
+   - **Acceptance Criteria:**
+     - If the selected slot is already taken, a clear error message should be displayed with suggestions for alternative dates or times in the near future based on system availability.
+
+8. **User Story (Alternative Flow):**
+   - **As a Service Manager**
+   - **I want to have options to add special requests and additional services during appointment scheduling so that I can meet diverse customer needs while maintaining an organized management approach.**
+   - **Acceptance Criteria:**
+     - The system should allow the addition of custom fields for requesting specialized maintenance or services related to specific vehicles.
+     - Custom service options provided by customers are stored and associated with their respective appointments in a structured manner, enabling Service Managers to better manage these requests during execution.
+
+9. **User Story (Exception Handling):**
+   - **As an IT Support Specialist or Service Manager**
+   - **I want the system to alert me when there are technical issues so that I can take appropriate action and ensure minimal disruption in scheduling services.**
+   - **Acceptance Criteria:**
+     - When a known technical issue arises, the system should log an incident report with details of the problem and suggested troubleshooting steps or alternative manual procedures to handle appointment rescheduling if necessary."
+Food,Production Line Monitoring,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," 1. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to log into the inventory management system seamlessly so that I can efficiently track and manage food inventory in a warehouse or distribution center.**
+   - **Acceptance Criteria:**
+     - The login process should be secure and require valid credentials.
+     - Upon successful authentication, access is granted to all necessary features within the system.
+     
+2. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to easily navigate to the Inventory Management Dashboard so that I can review current inventory levels and upcoming shipments at a glance.**
+   - **Acceptance Criteria:**
+     - The dashboard provides clear, real-time updates on inventory status.
+     - Information about incoming and outgoing shipments is readily available.
+     
+3. Written by AI.
+
+4. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to update inventory records based on received shipments or sales so that the system accurately reflects current stock levels and helps in making informed decisions for reordering and storage.**
+   - **Acceptance Criteria:**
+     - The system allows quick updating of inventory with minimal manual effort.
+     - Inventory records are synchronized across all relevant departments or systems after an update.
+     
+5. **User Story:**
+   - **As an Inventory Manager**
+   - **I want the inventory management system to automatically adjust inventory levels and generate reports so that I can easily monitor stock movement, identify trends, and forecast demand.**
+   - **Acceptance Criteria:**
+     - The system generates accurate and timely reports without manual intervention.
+     - Automatic adjustments of inventory levels are correctly applied following updates or sales.
+     
+6. **User Story:**
+   - **As an Inventory Manager**
+   - **I want to verify the accuracy of inventory data so that I can trust the information provided by the system and make decisions based on reliable data.**
+   - **Acceptance Criteria:**
+     - The system provides mechanisms for cross-checking inventory records against physical stock counts or other sources of truth.
+     - Any discrepaninas discovered during verification are highlighted and can be easily resolved.
+     
+7. **User Story:**
+   - **As an Inventory Manager**
+   - **I want the system to send notifications for low inventory levels or upcoming expirations so that I can take proactive measures before stock shortages occur.**
+   - **Acceptance Criteria:**
+     - The system notifies relevant parties (e.g., warehouse staff, suppliers) in a timely manner when thresholds are approached.
+     - Notifications include details like affected inventory items and recommended actions to prevent stock shortages.
+     
+8. **User Story:**
+   - **As an Inventory Manager**
+   - **I want the system to handle discrepancies in inventory records by allowing me to initiate a manual recount when necessary so that inventory accuracy is maintained even during technical issues or errors.**
+   - **Acceptance Criteria:**
+     - The system prompts for manual verification when automatic checks fail due to suspected discrepancies.
+     - Discrepancy resolution process should be well-documented and easily accessible within the system interface.
+     
+9. **User Story:**
+   - **As an Inventory Manager**
+   - **I want the inventory management system to adjust inventory forecasts and notify relevant stakeholders if a shipment is delayed or canceled so that I can mitigate potential impacts on operations.**
+   - **Acceptance Criteria:**
+     - The system provides real-time updates on shipping status, including delays and cancellations.
+     - Automated notifications are sent to stakeholders with an overview of the situation and suggested actions (e.g., source alternative suppliers).
+     
+10. **User Story:**
+    - **As an Inventory Manager**
+    - **I want a backup system or manual tracking process in place when technical issues occur within the inventory management system so that I can ensure continuous operations and maintain accurate inventory records.**
+    - **Acceptance Criteria:**
+      - The alternative tracking method allows for seamless transition from automated to manual processes without significant delays.
+      - Issues are reported accurately, enabling IT support staff to promptly address technical problems."
+Banking,Loan Processing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," 1. **User Story:**
+   - **As a Bank Customer**
+   - **I want to insert my ATM card into the machine so that I can begin withdrawing cash**
+   - **Acceptance Criteria:**
+     - The ATM allows an inserted bank customer's ATM card.
+     - The system displays a prompt for entering PIN after successful ATM card insertion.
+     
+2. **User Story:**
+   - **As a Bank Customer**
+   - **I want to enter my PIN correctly so that I can securely access my account and withdraw cash**
+   - **Acceptance Criteria:**
+     - The ATM system prompts the customer for their PIN after card insertion.
+     - Upon entering a correct PIN, the user is granted access to the main menu.
+     
+3. Written as part of Alternative Flow 1a
+   - **As a Bank Customer**
+   - **I want an error message when my entered PIN is incorrect so that I can re-enter it securely without compromising account security**
+   - **Acceptance Criteria:**
+     - If the entered PIN does not match, the system prompts to try entering again.
+     - After three failed attempts, the ATM locks for 15 minutes and contacts the bank's fraud department automatically.
+     
+4. **User Story:**
+   - **As a Bank Customer**
+   - **I want my ATM card to be valid so that I can access cash withdrawal services without unnecessary interruptions**
+   - **Acceptance Criteria:**
+     - The system checks the status of the bank customer's ATM card upon insertion.
+     - If the card is invalid or damaged, it prompts the customer to contact their bank for a replacement or repair.
+     
+5. **User Story:**
+   - **As a Bank Customer**
+   - **I want to select the 'Withdrawal' option so that I can initiate my cash withdrawal transaction**
+   - **Acceptance Criteria:**
+     - The ATM displays main menu options after successful PIN entry.
+     - From the main menu, the customer selects ""Withdrawal"" from the list of available services/options.
+     
+6. **User Story:**
+   - **As a Bank Customer**
+   - **I want to enter the withdrawal amount so that I can receive cash according to my specific needs**
+   - **Acceptance Criteria:**
+     - After selecting ""Withdrawal"", the ATM displays an input field where customers can specify their desired amount.
+     
+7. **User Story:**
+   - **As a Bank Customer**
+   - **I want to verify my transaction details so that I ensure accuracy and security before proceeding with cash withdrawal**
+   - **Acceptance Criteria:**
+     - The system verifies the entered ATM card, PIN, and selected withdrawal amount.
+     - It provides an overview of the requested funds for the customer's confirmation.
+     
+8. **User Story:**
+   - **As a Bank Customer**
+   - **I want to receive my cash after completing the transaction so that I can manage my finances effectively**
+   - **Acceptance Criteria:**
+     - Upon successful verification, the ATM dispenses the requested amount of cash.
+     - The system counts and confirms the total number of bills or notes for accuracy.
+     
+9. **User Story:**
+   - **As a Bank Customer**
+   - **I want to receive my receipt after withdrawing cash so that I can keep track of my transaction details**
+   - **Acceptance Criteria:**
+     - The ATM prints a receipt summarizing the transaction, including date, time, account number, and withdrawn amount.
+     
+10. **User Story:**
+    - **As a Bank Customer**
+    - **I want to remove my ATM card from the machine after completing the transaction so that I maintain security and privacy of my information**
+    - **Acceptance Criteria:**
+       - The system prompts the customer to press the ""Remove Card"" button once they have successfully withdrawn cash.
+       - Once pressed, the ATM card is securely ejected from the machine."
+Insurance,Claim Filing,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," 1. **User Story:**
+   - **As a policyholder**
+   - **I want to access my insurance account easily so that I can view my current policy details and coverage options**
+   - Acceptance Criteria: The system must allow the policyholder to log in seamlessly with their credentials.
+
+2. **User Story:**
+   - **As a policyholder**
+   - **I want to navigate to the Policy Renewal section easily so that I can review my renewal options before making any decisions**
+   - Acceptance Criteria: The system must have clear and visible navigation paths leading to the Policy Renewal section.
+
+3. Authorization: As a policyholder, I want to select the policy I wish to renew so that I may confirm which specific policy is being updated. 
+   - **Acceptance Criteria:** The selected policy information must be displayed accurately and allow only one policy selection at a time.
+
+4. **User Story:**
+   - **As a policyholder**
+   - **I want to review the renewal details and coverage options so that I can make an informed decision before confirming my renewal**
+   - Acceptance Criteria: The system must display all relevant policy details, including any changes in coverage or premiums.
+
+5. **User Story:**
+   - **As a policyholder**
+   - **I want to confirm the renewal and select a payment method easily so that I can securely update my insurance policy**
+   - Acceptance Criteria: The system must provide an easy-to-use interface for selecting a payment option, with all available options displayed.
+
+6. **User Story:**
+   - **As a policyholder**
+   - **I want the system to process my renewal payment without errors so that I can complete this important update to my insurance coverage**
+   - Acceptance Criteria: The processing of the payment must be successful, and any error messages should guide the user on how to rectify them.
+
+7. **User Story:**
+   - **As a policyholder**
+   - **I want to receive a confirmation email upon renewal so that I have proof of my updated insurance status and coverage options**
+   - Acceptance Criteria: The system must send an accurate, readable confirmation email containing all relevant information about the policy's renewal.
+
+8. **User Story (Alternative Flow): Cancel Renewal)**
+   - **As a policyholder**
+   - **I want to cancel my renewal if I choose not to continue with it so that I can reconsider my insurance coverage options or seek other alternatives**
+   - Acceptance Criteria: The system must allow the user to easily cancel their renewal process and display an appropriate message confirming this action.
+
+9. **User Story (Update Policy Details)**
+   - **As a policyholder**
+   - **I want to update my insurance policy details before confirming its renewal so that I can ensure it still meets my needs or aligns with recent changes in my life**
+   - Acceptance Criteria: The system must display all available fields for updating and provide clear instructions on how to make these changes. Changes should be saved after the user confirms their updates.
+
+10. **User Story (Exception Handling)**
+    - **As a policyholder**
+    - **I want the system to handle payment processing errors effectively so that I can complete my renewal process without unnecessary stress or complications**
+    - Acceptance Criteria: The system must provide clear error messages, and the user should be allowed to retry the payment or contact customer support if necessary."
+Healthcare,Patient Appointment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," 1. **User Story:**
+   - **As a receptionist**
+   - **I want to log into the appointment system**
+   - **So that I can schedule patient appointments efficiently and keep track of all interactions with patients**
+   - **Acceptance Criteria:**
+     - The user is able to access the appointment system successfully.
+     - Any login failure prompts error messages for troubleshooting.
+
+2. **User Story:**
+   - **As a receptionist**
+   - **I want to navigate to the Patient Appointment section in the healthcare system**
+   - **So that I can access and manage patient appointment schedules easily**
+   - **Acceptance Criteria:**
+     - The user is able to locate and select the Patient Appointment section without difficulty.
+     - Incorrect navigation prompts guidance for correct pathways.
+
+3. Written in a separate story due to multiple triggers within use case 3.
+   - **As a receptionist**
+   - **I want to select a patient from available records for whom an appointment needs to be scheduled**
+   - **So that the healthcare system maintains accurate and up-to-date patient information in the appointment schedule**
+   - **Acceptance Criteria:**
+     - The user can search and identify the required patient's record.
+     - If no records are found, the system provides feedback to the receptionist for further action.
+
+4. **User Story:**
+   - **As a receptionist**
+   - **I want to choose an appropriate date and time for scheduling the patient appointment**
+   - **So that all patients can receive timely healthcare services without overlapping appointments**
+   - **Acceptance Criteria:**
+     - The user selects a valid date and time slot from available options.
+     - If no slots are available, an alternative suggestion is provided or the user receives feedback to choose another date/time.
+
+5. **User Story:**
+   - **As a receptionist**
+   - **I want to confirm the appointment booking in the system**
+   - **So that there's no miscommunication regarding patient appointments between me and the healthcare management system**
+   - **Acceptance Criteria:**
+     - The user successfully confirms the appointment.
+     - If any error occurs during confirmation, appropriate alerts or errors are shown for correction.
+
+6. **User Story:**
+   - **As a receptionist**
+   - **I want the system to validate appointment details before finalizing**
+   - **So that incorrect or incomplete information doesn't result in patient scheduling conflicts or confusion**
+   - **Acceptance Criteria:**
+     - All required fields are filled with accurate data.
+     - If any details are missing, prompts appear for user correction.
+
+7. **User Story:**
+   - **As a receptionist**
+   - **I want the appointment to be updated in the schedule successfully**
+   - **So that healthcare providers can efficiently manage their patient appointments and maintain accurate records**
+   - **Acceptance Criteria:**
+     - The system accurately reflects the new appointment details.
+     - If any issue arises during updating, appropriate error messages are shown to address it.
+
+8. **User Story:**
+   - **As a patient**
+   - **I want to receive a confirmation notification for my scheduled appointment**
+   - **So that I'm aware of the details and timing of my healthcare visit without having to remember or check myself**
+   - **Acceptance Criteria:**
+     - The system sends an automated confirmation email/notification with all necessary appointment details.
+     - If there are any errors in sending, patients receive a notification acknowledging the attempted communication and providing alternative contact methods."
+Public Sector,Voter Registration,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," 1. **User Story:**
+   - **As a Public Health Officer**
+   - **I want to log into the public health monitoring system efficiently so that I can quickly access and manage infectious disease data in real-time.**
+   - **Acceptance Criteria:**
+     - The login process should be seamless with minimal authentication steps required.
+     - System must support secure, fast, and reliable logins to ensure the privacy of sensitive health information.
+
+2. **User Story:**
+   - **As a Public Health Officer**
+   - **I want to navigate to the Infectious Disease Tracking section in an intuitive manner so that I can easily locate relevant data and reports.**
+   - **Acceptance Criteria:**
+     - The interface should be user-friendly, with clear labels and organization for ease of access.
+     - Navigation menu must include all necessary sections related to public health monitoring, including Infectious Disease Tracking.
+
+3. Omitted due to character limitations, continue as follows:
+
+4. **User Story:**
+   - **As a Public Health Officer**
+   - **I want to select the specific infectious disease I am interested in monitoring so that I can focus on relevant data and reports for targeted analysis.**
+   - **Acceptance Criteria:**
+     - The system should provide an easily identifiable list of all infectious diseases tracked by the public health department.
+     - Users should be able to filter or sort through this list based on various parameters (e.g., geographical location, date range).
+
+5. **User Story:**
+   - **As a Public Health Officer**
+   - **I want to view current data on reported cases and trends of the selected infectious disease so that I can monitor its spread in real-time and take appropriate actions if necessary.**
+   - **Acceptance Criteria:**
+     - The system must display accurate, up-to-date information regarding reported cases, including demographic details where possible.
+     - Visualization tools (e.g., charts, graphs) should be available to help identify trends and patterns effectively.
+
+6. **User Story:**
+   - **As a Public Health Officer**
+   - **I want to update the system with any new reported cases so that I can maintain an accurate database of infectious disease data.**
+   - **Acceptance Criteria:**
+     - The input fields must be clear and correctly formatted for reporting case data (e.g., patient name, date of report, diagnosis).
+     - Data entry process should minimize errors to ensure the integrity of reported cases' information.
+
+7. **User Story:**
+   - **As a Public Health Officer**
+   - **I want the system to analyze the data and generate reports on the spread of the infectious disease so that I can make informed decisions based on reliable statistics and analysis.**
+   - **Acceptance Criteria:**
+     - The generated reports should provide valuable insights, including geographic distribution, temporal trends, risk factors, etc.
+     - Reports must be easily accessible and retrievable by the Public Health Officer within a reasonable time frame after generation.
+
+8. **User Story (Alternative Flow):**
+   - **As a Public Health Officer**
+   - **I want to receive an alert for any sudden spikes in reported cases of the selected infectious disease so that I can take immediate action as needed.**
+   - **Acceptance Criteria:**
+     - The system should detect significant changes in case numbers and notify officers without delay via a reliable communication channel (e.g., email, SMS).
+
+9. **User Story (Alternative Flow):**
+   - **As a Public Health Officer**
+   - **I want the system to assist me in investigating discrepaninas when there are issues with reported data so that I can ensure accurate and reliable information for analysis.**
+   - **Acceptance Criteria:**
+     - The system must provide an interface or mechanism (e.g., reports of inconsistencies, user-friendly correction forms) to aid officers in verifying and correcting erroneous data entries.
+     
+10. **User Story (Exception):**
+    - **As a Public Health Officer**
+    - **I want the system to notify me if there are any technical issues so that I can promptly report them to the IT department for resolution.**
+    - **Acceptance Criteria:**
+      - The system must include an error reporting functionality that allows officers to submit bug reports or technical issues encountered during use.
+
+11. **User Story (Postconditions):**
+    - **As a Public Health Officer**
+    - **I want the public health monitoring system to successfully monitor and track the spread of infectious diseases within the community so that I can ensure effective interventions, prevention measures, and resource allocation based on accurate data.**
+    - **Acceptance Criteria:**
+      - The Public Health Officer should be able to access comprehensive insights into disease spread patterns after utilizing the system's functionalities as outlined in previous user stories."
+Travel & Logistics,Shipment Tracking,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," 1. **User Story:**
+   - **As a Logistics Coordinator**
+   - **I want to log into the system using valid credentials so that I can access and track shipments in real-time.**
+   - Acceptance Criteria:
+     - The user successfully logs in with valid credentials.
+     - Upon successful login, the main dashboard is presented correctly.
+
+2. **User Story:**
+   - **As a Logistics Coordinator**
+   - **I want to navigate to the Shipment Tracking section so that I can monitor my shipments' status and location.**
+   - Acceptance Criteria:
+     - The user is able to access the Shipment Tracking section from the main dashboard without any issues.
+
+3. Written as an alternative flow:
+   - **As a Logistics Coordinator**
+   - **I want the system to prompt me for correct tracking number or shipment details if they are invalid, so that I can ensure accurate information is used in my tracking process.**
+   - Acceptance Criteria:
+     - If the provided tracking number or details are incorrect, an error message is displayed and a re-entry request is made.
+     - The system successfully validates input for accuracy and completeness before retrieving shipment details.
+
+4. **User Story:**
+   - **As a Logistics Coordinator**
+   - **I want the system to retrieve and display my shipment's current status and location so that I can stay updated on its progress.**
+   - Acceptance Criteria:
+     - The system retrieves the correct shipment information and displays it accurately.
+     - Shipment details are up-to-date as per the latest updates in the system.
+
+5. **User Story:**
+   - **As a Logistics Coordinator**
+   - **I want to review tracking details and any relevant updates so that I can make informed decisions regarding shipment handling based on its status.**
+   - Acceptance Criteria:
+     - The system provides complete and accurate tracking details for the user's shipments.
+     - Relevant updates are clearly visible in a format easy to understand by the Logistics Coordinator.
+
+6. **User Story:**
+   - **As a Logistics Coordinator**
+   - **I want to take necessary actions based on my shipment status so that I can ensure timely delivery and handle any potential issues promptly.**
+   - Acceptance Criteria:
+     - The user is able to perform appropriate actions, such as modifying the shipping route or contacting customer service, directly from the tracking dashboard.
+
+7. **User Story: (Alternative Flow)**
+   - **As a Logistics Coordinator**
+   - **I want an error message and alternative instructions if there is a technical issue retrieving shipment details so that I can seek assistance for any problems encountered.**
+   - Acceptance Criteria:
+     - In the event of system errors, an appropriate error message is displayed to the user.
+     - The Logistics Coordinator receives guidance on how and where to report the issue for technical support.
+
+8. **User Story: (Postconditions)**
+   - **As a Logistics Coordinator**
+   - **I want to successfully track my shipment and obtain the latest status and location information so that I can ensure efficient logistics operations.**
+   - Acceptance Criteria:
+     - The user successfully tracks their shipments throughout the process, regardless of whether there are technical issues or not.
+     - After every successful tracking activity, the Logistics Coordinator has access to the latest status and location details for each shipment they manage."
+Telecommunications,Service Ticket Resolution,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," 1. **User Story:**
+   - **As a Customer Service Agent**
+   - **I want to log into the system efficiently so that I can access and manage service tickets**
+   - Acceptance Criteria: The system should provide an intuitive login process with minimal time required for authentication.
+
+2. **User Story:**
+   - **As a Customer Service Agent**
+   - **I want to navigate quickly to the Service Ticket Resolution module so that I can manage service tickets effectively**
+   - Acceptance Criteria: The system should provide clear and intuitive navigation options to access the specific ticket resolution module.
+
+3. **User Story:**
+   - **As a Customer Service Agent**
+   - **I want to select newly submitted service tickets efficiently so that I can focus on resolving customer inquiries promptly**
+   - Acceptance Criteria: The system should provide an easily accessible way for agents to identify and access new service tickets.
+
+4. **User Story:**
+   - **As a Customer Service Agent**
+   - **I want to review the details of a service ticket quickly so that I can understand customer inquiries thoroughly**
+   - Acceptance Criteria: The system should display all relevant ticket information clearly and concisely for quick comprehension.
+
+5. **User Story:**
+   - **As a Customer Service Agent**
+   - **I want to take necessary actions to resolve the issue reported by the customer efficiently so that I can ensure their satisfaction**
+   - Acceptance Criteria: The system should provide relevant tools and options for troubleshooting, information provisioning, or escalating tickets as required.
+
+6. **User Story:**
+   - **As a Customer Service Agent**
+   - **I want the service ticket to be marked ""In Progress"" during resolution so that I can track its status easily and ensure accountability**
+   - Acceptance Criteria: The system should update the ticket's status automatically when an action is performed, ensuring accurate tracking.
+ Writes a complete set of user stories following the outlined format. Ensure each user story includes clear goals, reasons, and acceptance criteria (if necessary). I only need the set of user stories. No explanation or other information about the set of user stories is required."
+Corporate IT,Software Update Deployment,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," 1. **User Story:**
+   - **As an IT Administrator**
+   - **I want to log into the software update deployment system securely and efficiently**
+   - **So that I can initiate the deployment process for new software updates**
+   - **Acceptance Criteria:**
+     - The login page should have fields for email/username and password.
+     - The authentication mechanism should include two-factor authentication or equivalent security measures.
+
+2. **User Story:**
+   - **As an IT Administrator**
+   - **I want to select the new software update package for deployment easily**
+   - **So that I can ensure accurate and intentional updates are deployed**
+   - **Acceptance Criteria:**
+     - The system should have a well-organized interface with clear labels and descriptions of available software updates.
+     - There should be an option to filter or search for specific update packages based on version, vendor, etc.
+
+3. **User Story:**
+   - **As an IT Administrator**
+   - **I want to specify target devices or groups for the deployment quickly and accurately**
+   - **So that I can control which devices receive the software updates**
+   - **Acceptance Criteria:**
+     - The system should allow filtering of target devices based on IP ranges, MAC addresses, device types, etc.
+     - It should provide an option to include or exclude specific groups from deployment.
+
+4. **User Story:**
+   - **As a software update verification system**
+   - **I want the system to verify compatibility of the software updates with target devices before deployment**
+   - **So that potential issues can be avoided, reducing downtimes and improving overall user experience**
+   - **Acceptance Criteria:**
+     - The system should check device specifications against the requirements of the selected update package.
+     - It should alert the IT Administrator if any compatibility issues are detected.
+
+5. **User Story:**
+   - **As an IT Administrator**
+   - **I want to schedule software updates based on predefined maintenance windows or immediate deployment needs**
+   - **So that I can plan and manage deployments effectively while minimizing disruptions**
+   - **Acceptance Criteria:**
+     - The system should provide a calendar view for scheduling, allowing the administrator to set specific dates and times.
+     - There should be an option to mark updates as ""immediate"" in case of critical software issues.
+
+6. **User Story:**
+   - **As a monitoring system during deployment process**
+   - **I want to monitor the progress of the software update deployment and provide real-time status updates to the IT Administrator**
+   - **So that I can keep track of any potential problems or delays in the deployment process**
+   - **Acceptance Criteria:**
+     - The system should display live progress with percentage completion, estimated time remaining, etc.
+     - It must have an alerting mechanism for critical events and errors during deployment.
+
+7. **User Story:**
+   - **As an IT Administrator**
+   - **I want to be notified of successful software update deployments**
+   - **So that I can ensure the updates are applied correctly across all target devices**
+   - **Acceptance Criteria:**
+     - The system should send a notification (email, SMS) upon completion of each deployment.
+     - It must include details about deployed packages and successful device counts for verification purposes.
+
+8. **User Story:**
+   - **As an IT Administrator**
+   - **I want the software update deployment system to provide comprehensive reports on deployments, including any issues or errors encountered during the process**
+   - **So that I can analyze and improve future deployments**
+   - **Acceptance Criteria:**
+     - The system should generate detailed reports with summaries of successful deployments, failed attempts, compatibility issues, etc.
+     - It must have an export feature to save these reports for offline review or further analysis.
+
+9. **User Story:**
+   - **As a software update deployment system**
+   - **I want the system to handle errors and exceptions gracefully during deployments**
+   - **So that it minimizes downtimes, enables troubleshooting and improves overall user experience**
+   - **Acceptance Criteria:**
+     - The system should provide detailed error logs in case of failures or unexpected issues.
+     - It must offer the IT Administrator options to retry deployment automatically (if possible) or request manual intervention when needed."
+Consumer Products | New Data Solutions,Purchase Data Analysis,microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf," 1. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want to log into the inventory management system so that I can access and optimize inventory data**
+   - Acceptance Criteria: The system successfully authenticates the Supply Chain Manager's credentials and grants access.
+   
+2. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want to navigate to the Inventory Management Optimization page so that I can analyze inventory data**
+   - Acceptance Criteria: The navigation system guides the Supply Chain Manager correctly to the specified page without any errors.
+   
+3. Cookie Clicker Game User Story:
+   - **As a Supply Chain Manager**
+   - **I want an option to analyze inventory data so that I can identify opportunities for optimizing our current inventory levels and processes**
+   - Acceptance Criteria: The system presents the user with a clear, intuitive interface for selecting and initiating the analysis feature.
+   
+4. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want the system to validate my input data so that inaccurate or incomplete information doesn't affect the optimization process**
+   - Acceptance Criteria: The validation checks ensure all necessary fields are filled and data is correctly formatted before processing.
+   
+5. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want the system to process the inventory data and generate optimization recommendations so that I can make informed decisions about our inventory management practices**
+   - Acceptance Criteria: The generated recommendations are based on accurate, reliable analysis of the inputted inventory data.
+   
+6. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want to review optimization recommendations so that I can assess their impact and potential benefits before implementing them**
+   - Acceptance Criteria: The system presents the recommendations in an easily comprehensible format, with clear explanations for each suggestion.
+   
+7. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want to implement recommended inventory management changes so that our operations become more efficient and cost-effective**
+   - Acceptance Criteria: The system provides options to update inventory records based on the recommendations, allowing for easy implementation of changes.
+   
+8. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want the system to update inventory records with implemented optimization changes so that our inventory management becomes more accurate and streamlined over time**
+   - Acceptance Criteria: The updated inventory data reflects recommended changes, and new recommendations are generated based on the latest information.
+   
+9. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want an alternative flow wherein if the system encounters errors during data processing, I am alerted and provided with guidance to resolve the issue so that my workflow is not interrupted by technical problems**
+   - Acceptance Criteria: The error handling mechanism captures issues in real-time, alerts the Supply Chain Manager, provides troubleshooting steps, and offers alternative approaches to continue data processing.
+   
+10. **User Story:**
+    - **As a Supply Chain Manager**
+    - **I want to be notified if there is system downtime during inventory management optimization so that I can adjust my schedule accordingly and minimize the impact of unavailability on our operations**
+     - Acceptance Criteria: The system detects outages, notifies Supply Chain Managers promptly, and provides an estimated time for restoration."
+Automotive,Parts Supplier Management,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,"Sure! Here are the user stories generated using the provided use case:
+1. As a Customer Request a Vehicle Maintenance Appointment:
+
+As a [type of customer], I want to schedule a vehicle maintenance appointment for [customer's name]. The reason behind this goal is that [reason].
+
+Acceptance Criteria: 
+- Service Manager logs into the system and navigates to the Vehicle Maintenance Scheduling page.
+- Service Manager selects the customer requesting a maintenance appointment.
+- Service Manager schedules the appointment date and time.
+- The system validates the appointment details.
+- The system confirms the appointment and sends a notification to the customer.
+
+2. As a [type of user], I want to cancel an upcoming maintenance appointment:
+
+As a [type of user], I want to cancel an upcoming vehicle maintenance appointment for [customer's name]. The reason behind this goal is that [reason].
+
+Acceptance Criteria: 
+- Service Manager logs into the system and navigates to the Vehicle Maintenance Scheduling page.
+- Service Manager selects the customer requesting a maintenance appointment.
+- Service Manager schedules the appointment date and time.
+- The system validates the appointment details.
+- The system confirms the appointment and sends a notification to the customer.
+
+3. As a [type of user], I want to change my预约 for a maintenance appointment:
+
+As a [type of user], I want to change my current maintenance appointment for [customer's name]. The reason behind this goal is that [reason].
+
+Acceptance Criteria: 
+- Service Manager logs into the system and navigates to the Vehicle Maintenance Scheduling page.
+- Service Manager selects the customer requesting a maintenance appointment.
+- Service Manager schedules the appointment date and time.
+- The system validates the appointment details.
+- The system confirms the appointment and sends a notification to the customer.
+
+These user stories cover all aspects of the given use case, addressing various functionalities, user interactions, and system responses."
+Food,Production Line Monitoring,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,"Sure, here are the user stories based on the provided use case:
+
+1. As a  **Inventory Manager**:
+    -  **I want to be able to track and manage my food inventory in the inventory management system**
+    -  **So that I can easily check if my inventory levels fall below a specified threshold or receive new shipments of food products**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager logged into the system, I want to be able to view all my current inventory levels and upcoming shipments**
+
+2. As a  **Inventory Manager**:
+    -  **I want to be able to review and update my inventory records based on received shipments or sales**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can view all my existing stock levels for each shipment of food products and adjust them based on the quantity received or sold**
+
+3. As a  **Inventory Manager**:
+    -  **I want to be able to receive notifications for low inventory levels**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can receive notifications when there are discrepancies in inventory records or if a shipment is delayed or canceled**
+
+4. As a  **Inventory Manager**:
+    -  **I want to be able to verify the accuracy of inventory data**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can view my current stock levels and receive real-time updates on inventory accuracy**
+
+5. As a  **Inventory Manager**:
+    -  **I want to be able to send notifications for low inventory levels or upcoming expirations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can receive notifications when there are discrepancies in stock records or if a shipment is delayed or canceled**
+
+6. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when inventory levels fall below a specified threshold or receive new shipments of food products**
+
+7. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can monitor my food inventory levels and adjust them based on the quantity received or sold**
+
+8. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+9. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+10. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+11. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+12. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+13. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+14. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+15. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+16. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+17. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+18. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+19. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+12. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+13. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+14. As a  **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+15. As a **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+16. As a **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+17. As a **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+18. As a **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+19. As a **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+10. As a **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+11. As a **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+12. As a **Inventory Manager**:
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+13. As a 46
+    -  **I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  **With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products**
+
+14. As a 56
+    -  I want to be able to manage food inventory to ensure efficient operations**
+    -  **Acceptance Criteria:** 
+      -  with Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products
+
+15. As a 56
+    -  I want to be able to manage food inventory to ensure efficient operations**
+    -  With Inventory Manager, I can track my food inventory levels and receive alerts when stock levels fall below a specific threshold or receive new shipments of food products
+
+16. As a 46
+    -  I want to be able to manage food inventory to ensure efficient operations
+    -  with Inventory Manager,
+      I can track my food inventory levels and receive alerts when stock levels fall below a specified threshold or receive new shipments of food products
+   "
+Banking,Loan Processing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,"Sure, here are the user stories for the ATM withdrawal use case:
+
+### User Story 1: As a 25-year-old male, who has recently moved to a new city and needs to withdraw cash from an ATM:
+-  **As a 25-year-old male** 
+    -  **I want  **to withdraw some cash from an ATM**
+    -  **So that  **I can head out for dinner tonight**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [Criterion 2]
+-  **As a 25-year-old male** 
+    -  **I want to withdraw some cash from an ATM**
+    -  **So that  **I can buy something on my next shopping trip**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [Criterion 2]
+-  **As a 25-year-old male** 
+    -  **I want to withdraw some cash from an ATM**
+    -  **So that  **I can buy something on my next shopping trip**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [Criterion 2]
+-  **As a 25-year-old male** 
+    -  **I want to withdraw some cash from an ATM**
+    -  **So that  **I can buy something on my next shopping trip**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [Criterion 2]
+-  **As a 25-year-old male** 
+    -  **I want to withdraw some cash from an ATM**
+    -  **So that  **I can buy something on my next shopping trip**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [Criterion 2]
+-  **As a 25-year-old male** 
+    -  **I want to withdraw some cash from an ATM**
+    -  **So that  **I can buy something on my next shopping trip**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [Criterion 2]
+-  **As a 25-year-old male** 
+    -  **I want to withdraw some cash from an ATM**
+    -  **So that  **I can buy something on my next shopping trip**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [Criterion 2]
+-  **As a 25-year-old male** 
+    -  **I want to withdraw some cash from an ATM**
+    -  **So that  **I can buy something on my next shopping trip**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [Criterion 2]
+-  **As a 25-year-old male** 
+    -  **I want to withdraw some cash from an ATM**
+    -  **So that  **I can buy something on my next shopping trip**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [riterion 2]
+-  **As a 25-year-old male** 
+    -  **I want to withdraw some cash from an ATM**
+    -  **So that  **I can buy something on my next shopping trip**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [ Criterion 2]
+-  **As a 25-year-old male** 
+    -  **I want to withdraw some cash from an ATM**
+    -  **So that  **I can buy something on my next shopping trip**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [Criterion 2]
+-  **As a 25-year-old male** 
+    -  **I want to withdraw some cash from an ATM**
+    -  **So that  **I can buy something on my next shopping trip**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [ Criterion 2]
+-  **As a 25-year-old male** 
+    -  **I want to withdraw some cash from an ATM**
+    -  **So that  **I can buy something on my next shopping trip**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [ Criterion 2]
+-  **As a 25-year-old male** 
+    -  **I want to withdraw some cash from an ATM**
+    -  **So that  **I can buy something on my next shopping trip**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [ Criterion 2]
+-  **As a 25-year-old male** 
+    -  **I want to withdraw some cash from an ATM**
+    -  **So that  **I can buy something on my next shopping trip**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [ Criterion 2]
+-  **As a 25-year-old male** 
+    -  **I want to withdraw some cash from an ATM**
+    -  **So that  **I can buy something on my next shopping trip**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [ Criterion 2]
+-  **As a 25-year-old male** 
+    -  **I want to withdraw some cash from an ATM**
+    -  **So that  **I can buy something on my next shopping trip**
+    -  **Acceptance Criteria:** 
+      -  [riterion 1] 
+      -  [ Criterion 2]
+-  **As a 25-year-old male** 
+    -"
+Insurance,Claim Filing,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,"Sure, here are the complete sets of user stories for the policy renewal use case:
+
+1. As a [type of user]:
+    -  **As a  [type of user]** 
+        -  I want to renew an existing insurance policy.
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [ Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [ Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [ Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [ Criterion 1] 
+            -  [Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [ Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [ Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [ Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [ Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [ Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [riterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [riterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [ Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [ Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  So that  [some reason] 
+        -  Acceptance Criteria: 
+            -  [ Criterion 1] 
+            -  [ Criterion 2]
+        -  (If Policyholder is logged into their insurance account)
+    -  **I want to renew a policy with my name on it**
+        -  ..."
+Healthcare,Patient Appointment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,"```plaintext
+Title: Patient Appointment
+Actor: Receptionist
+Description: Schedule a patient appointment in the healthcare system
+Preconditions:
+1. Receptionist is logged into the appointment system.
+2. Patient information is available in the system. 
+Trigger: Patient requests an appointment. 
+Main Flow: 
+1. Receptionist logs into the healthcare system. 
+2. Receptionist navigates to the Patient Appointment section. 
+3. Receptionist selects the patient for whom the appointment needs to be scheduled. 
+4. Receptionist chooses the date and time for the appointment. 
+5. Receptionist confirms the appointment booking. 
+6. The system validates the appointment details. 
+7. The system updates the appointment schedule. 
+8. The system sends a confirmation notification to the patient. 
+9. If the system is unavailable, Receptionist is notified to try again later.
+10. If an error occurs during the appointment process, receptionist retries and continues with the next step.
+
+Alternative Flows: 
+3a. If the patient is a new patient, Receptionist adds the patient' information to the system before scheduling the appointment.
+4a. If the selected date and time are not available, Receptionist selects an alternative slot.
+6a. If the appointment details are incomplete or invalid, the system prompts the receptionist to correct them.
+10. If the system is unavailable, Receptionist is notified to try again later.
+
+Postconditions: 
+- The patient appointment is successfully scheduled in the system. 
+- The patient receives a confirmation of the appointment details."
+Public Sector,Voter Registration,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,"1. As a  **As a citizen** 
+-  **I want to be able to easily access the public health monitoring system**
+-  **So that I can track and monitor the spread of infectious diseases within my community**
+-  **Acceptance Criteria:** 
+      - The user should have the ability to access the public health monitoring system with a web browser.
+      - The system should be accessible from any device, including mobile phones and tablets.
+      - The system should be easy to navigate and understand.
+
+2. As a  **As a patient** 
+-  **I want to be able to easily view my medical records**
+-  **So that I can track my symptoms and progress in managing the disease**
+-  **Acceptance Criteria:** 
+      - The user should have access to their medical records through a web browser.
+      - The system should be accessible from any device, including mobile phones and tablets.
+      - The system should provide a clear overview of the user's medical history and current treatment plan.
+
+3. As a  **As an administrator** 
+-  **I want to be able to manage and track the spread of infectious diseases**
+-  **So that I can take appropriate action based on the data and trends**
+-  **Acceptance Criteria:** 
+      - The user should have access to the public health monitoring system through a web browser.
+      - The system should be accessible from any device, including mobile phones and tablets.
+      - The system should provide access to all necessary administrative tools such as virus scanning, disease tracking, and treatment plan management."
+Travel & Logistics,Shipment Tracking,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,"Here are the user stories that meet the given use case:
+
+1. As a  **Shipment Tracking**:
+   -  **As a  [type of user]**
+   -  **I want  [some goal]**
+   -  **So that  [some reason]**
+   -  **Acceptance Criteria:** 
+      -  **riterion 1**: The system should be able to accurately track the shipment and provide information about its current location.
+      -  **riterion 2**: The system should display relevant updates on the status and location of the shipment in the main dashboard.
+      
+   2. As a  **Shipment Tracking**:
+     -  **As a  [type of user]**
+     -  **I want  [some goal]**
+     -  **So that  [some reason]**
+     -  **Acceptance Criteria:** 
+       -  **riterion 1**: The system should be able to retrieve the shipment information from the tracking database and display it in a readable format.
+       -  **riterion 2**: The system should provide clear and concise information about the status and location of the shipment.
+      
+   3. As a  **Shipment Tracking**:
+     -  **As a  [type of user]**
+     -  **I want  [some goal]**
+     -  **So that  [some reason]**
+     -  **Acceptance Criteria:** 
+       -  **riterion 1**: The system should be able to handle errors gracefully and provide appropriate feedback to the Logistics Coordinator.
+       -  ** Criterion 2**: The system should be able to handle unexpected situations, such as system crashes or technical difficulties, with minimal impact on user experience."
+Telecommunications,Service Ticket Resolution,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,"Sure, here are the user stories based on the given use case:
+### User Story 1: As a [type of user]:
+-  **I want to see all tickets in my account**
+-  **So that I can view and manage my tickets easily**
+
+### User Story 2: As a [type of user]:
+-  **I want to be able to create new tickets for specific issues or customers**
+-  **So that I can track the progress of a ticket**
+
+### User Story 3: As a [type of user]:
+-  **I want to be able to view all tickets associated with my current customer**
+-  **So that I can manage my customer's tickets easily**
+
+### User Story 4: As a [type of user]:
+-  **I want to be able to update the status of a ticket after it has been closed**
+-  **So that I can track the status of a ticket after it has been closed**
+
+### User Story 5: As a [type of user]:
+-  **I want to be able to view all tickets related to a specific customer**
+-  **So that I can manage my customer's tickets easily**
+
+### User Story 6: As a [type of user]:
+-  **I want to be able to cancel a ticket associated with a specific customer**
+-  **So that I can close the ticket after it has been cancelled**
+
+### User Story 7: As a [type of user]:
+-  **I want to be able to view all tickets related to a specific issue**
+-  **So that I can manage my issue's tickets easily**
+
+### User Story 8: As a [type of user]:
+-  **I want to be able to view all tickets related to a specific customer**
+-  **So that I can close the ticket after it has been closed**
+
+### User Story 9: As a [type of user]:
+-  **I want to be able to view all tickets related to a specific issue**
+-  **So that I can manage my issue's tickets easily**
+
+### User Story 10: As a [type of user]:
+-  **I want to be able to cancel a ticket associated with a specific customer**
+-  **So that I can close the ticket after it has been cancelled**
+
+### Acceptance Criteria:
+1. The customer logs into the system using their credentials.
+2. The customer navigates to the Service Ticket Resolution module.
+3. The customer selects the newly submitted service ticket to resolve.
+4. The customer reviews the details of the service ticket and identifies the issue reported by the customer.
+5. The customer takes necessary actions to resolve the issue, which may include troubleshooting, providing information, or escalating the ticket to a higher level of support.
+6. The system updates the status of the service ticket as  ""In Progress"" during the resolution process.
+7. Once the issue is resolved, the customer updates the ticket with the resolution details.
+8. The system validates the information provided by the Customer Service Agent."
+Corporate IT,Software Update Deployment,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,"1.  **As a  [type of user]**
+    -  **I want  [some goal]**
+    -  **So that  [some reason]**
+    -  **Acceptance Criteria:** 
+      - The IT Administrator needs to deploy the new software update to ensure that all employees are aware of the changes and that they can access the updated system.
+      - The IT Administrator must ensure that the deployment process is顺畅, with minimal delays or disruptions.
+      - The IT Administrator must provide regular updates on the progress of the deployment, including any issues or technical difficulties that arise."
+Consumer Products | New Data Solutions,Purchase Data Analysis,Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,"Here are the user stories based on the provided use case:
+
+1.  **As a  ** [Type of user]: 
+    - As a  **[Type of user]**, I want the inventory management system to optimize my inventory levels for maximum efficiency.
+    - So that this can be done by analyzing data from the inventory management system.
+
+2.  **I want  ** [some goal]: 
+    - To improve the accuracy and reliability of the inventory management system.
+    - This can help me avoid errors, maintain accurate stock levels, and minimize waste.
+
+3.  **So that  ** [some reason]: 
+    - I want the inventory management system to have a user-friendly interface with easy-to-use features like adding items to my cart, viewing inventory levels, and managing orders.
+    - This can make it easier for me to track my needs and make informed decisions about inventory levels.
+
+4.  **Acceptance Criteria:** 
+    - The user wants the inventory management system to have a user-friendly interface with easy-to-use features.
+    - The system should be able to add items to my cart, view inventory levels, and manage orders within the same application.
+
+5.  **If the system encounters errors during data processing, the system alerts me and provides guidance on resolving the issue.**
+    - The system should provide a clear error message and suggest ways to resolve the issue, such as resetting my account or replacing an item that has been damaged.
+    - If the system fails to resolve the issue, it should notify me of the issue and provide an estimated time for system restoration.
+
+6.  **Postconditions:** 
+    - The inventory management system is updated with optimized inventory levels based on data analysis.
+    - The system provides clear error messages to help users identify potential issues and take corrective action.
+
+7.  **Exception: If the system experiences downtime, the Supply Chain Manager is notified and provided with an estimated time for system restoration.**
+    - The system should notify the Supply Chain Manager of any issues that may occur during system restoration, including potential downtime.
+    - If a power outage or other disruption occurs, the System管理员 will be notified of the issue and provide guidance on how to minimize its impact.
+
+Note: These user stories are based on a sample use case provided, and you may need to modify them according to your specific needs and requirements."
+Automotive,Parts Supplier Management,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,"
+1. **User Story:**
+   - **As a Service Manager**
+   - **I want to log into the system**
+   - **So that I can access the vehicle maintenance scheduling feature.**
+   - **Acceptance Criteria:**
+     - The login page is accessible and secure.
+     - The correct credentials are accepted to grant access to the system.
+
+2. **User Story:**
+   - **As a Service Manager**
+   - **I want to navigate to the Vehicle Maintenance Scheduling page**
+   - **So that I can schedule appointments for customers.**
+   - **Acceptance Criteria:**
+     - The Vehicle Maintenance Scheduling page is accessible from the main menu.
+     - The page displays a clear interface with all necessary fields to schedule an appointment.
+
+3. **User Story:**
+   - **As a Service Manager**
+   - **I want to select a customer requesting a maintenance appointment**
+   - **So that I can associate their profile with the scheduled appointment.**
+   - **Acceptance Criteria:**
+     - A list of customers is displayed, searchable by name or vehicle information.
+     - The selected customer's profile is populated with their relevant information (e.g., contact details).
+
+4. **User Story:**
+   - **As a Service Manager**
+   - **I want to schedule the appointment date and time**
+   - **So that I can allocate resources for the maintenance task.**
+   - **Acceptance Criteria:**
+     - A calendar with available time slots is presented to the Service Manager.
+     - The scheduled appointment appears in the system calendar, preventing double-bookings.
+
+5. **User Story:**
+   - **As a System**
+   - **I want to validate the appointment details**
+   - **So that I can ensure the appointment is correctly scheduled and avoid errors.**
+   - **Acceptance Criteria:**
+     - The system checks for date and time conflicts before confirming the appointment.
+     - Required fields (e.g., customer information, chosen service) are properly filled out.
+
+6. **User Story:**
+   - **As a System**
+   - **I want to send a notification to the customer**
+   - **So that they are informed about their scheduled appointment.**
+   - **Acceptance Criteria:**
+     - The customer receives an email or text message confirming the scheduled appointment.
+     - The notification includes all relevant information, such as date, time, and service requested.
+
+7. **User Story:**
+   - **As a Service Manager**
+   - **I want to handle unavailable appointment slots**
+   - **So that I can reschedule the appointment without disrupting my workflow.**
+   - **Acceptance Criteria:**
+     - The system prompts the Service Manager to choose another time when an initial slot is not available.
+     - The selected alternative slot is validated before confirming the new appointment.
+
+8. **User Story:**
+   - **As a Service Manager**
+   - **I want to add special requests or additional services to the appointment**
+   - **So that I can ensure the customer's needs are met during the maintenance process.**
+   - **Acceptance Criteria:**
+     - The system allows the Service Manager to add notes and attachments related to the appointment.
+     - Additional services or requests appear in the scheduled appointment details, accessible by relevant staff members.
+
+9. **User Story:**
+   - **As a System**
+   - **I want to alert the Service Manager of technical issues**
+   - **So that I can ensure proper manual handling of appointments in case of system failures.**
+   - **Acceptance Criteria:**
+     - The system sends an error message or notification to the Service Manager upon encountering a technical issue.
+     - The Service Manager is advised to reschedule the appointment manually through alternative means (e.g., phone call, email)."
+Food,Production Line Monitoring,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,"
+1. **User Story:**
+    - **As an Inventory Manager**
+    - **I want to log into the inventory management system**
+    - **So that I can access and manage the inventory data.**
+    - **Acceptance Criteria:**
+      - The Inventory Manager enters their valid login credentials.
+      - The system verifies the login credentials and grants access.
+  
+2. **User Story:**
+    - **As an Inventory Manager**
+    - **I want to navigate to the inventory management dashboard**
+    - **So that I can quickly review and manage the inventory levels.**
+    - **Acceptance Criteria:**
+      - The Inventory Manager clicks on the ""Inventory Management Dashboard"" option in the system.
+      - The system displays the dashboard with up-to-date inventory data.
+  
+3. **User Story:**
+    - **As an Inventory Manager**
+    - **I want to view current inventory levels and upcoming shipments on the dashboard**
+    - **So that I can monitor the inventory levels and plan accordingly.**
+    - **Acceptance Criteria:**
+      - The system displays the current inventory levels and upcoming shipments on the dashboard.
+      - The Inventory Manager can easily view and understand the data presented.
+  
+4. **User Story:**
+    - **As an Inventory Manager**
+    - **I want to update inventory records based on received shipments or sales**
+    - **So that I can keep the system up-to-date and ensure accurate inventory tracking.**
+    - **Acceptance Criteria:**
+      - The Inventory Manager enters the relevant data for received shipments or sales.
+      - The system updates the inventory records based on the entered data.
+  
+5. **User Story:**
+    - **As an Inventory Manager**
+    - **I want the system to automatically adjust inventory levels and generate reports**
+    - **So that I can save time and have accurate reports for decision-making.**
+    - **Acceptance Criteria:**
+      - The system automatically updates the inventory levels based on received shipments or sales.
+      - The system generates reports reflecting the updated inventory data.
+  
+6. **User Story:**
+    - **As an Inventory Manager**
+    - **I want to verify the accuracy of inventory data**
+    - **So that I can ensure the system is functioning correctly and make informed decisions.**
+    - **Acceptance Criteria:**
+      - The Inventory Manager reviews the displayed inventory data on the dashboard.
+      - If discrepancies are found, the Inventory Manager investigates and resolves the issue.
+  
+7. **User Story:**
+    - **As an Inventory Manager**
+    - **I want the system to send notifications for low inventory levels or upcoming expirations**
+    - **So that I can take timely action and avoid stockouts or waste.**
+    - **Acceptance Criteria:**
+      - The system sends notifications based on predefined thresholds.
+      - The Inventory Manager receives and responds to the notifications promptly.
+  
+8. **User Story:**
+    - **As an Inventory Manager**
+    - **I want to initiate a manual recount if there are discrepancies in inventory records**
+    - **So that I can ensure the accuracy of the inventory data and maintain trust in the system.**
+    - **Acceptance Criteria:**
+      - The Inventory Manager identifies discrepancies in the inventory records.
+      - The Inventory Manager initiates a manual recount and updates the system accordingly.
+  
+9. **User Story:**
+    - **As an Inventory Manager**
+    - **I want to adjust inventory forecasts and notify relevant stakeholders if a shipment is delayed or canceled**
+    - **So that I can minimize the impact on operations and communicate effectively with other teams.**
+    - **Acceptance Criteria:**
+      - The system notifies the Inventory Manager of the delay or cancellation.
+      - The Inventory Manager updates the forecasts in the system and communicates the changes to relevant stakeholders.
+  
+10. **User Story:**
+    - **As an Inventory Manager**
+    - **I want to switch to manual inventory tracking and report technical issues to the IT department for resolution**
+    - **So that I can continue managing inventory and ensure operations run smoothly despite system failures.**
+    - **Acceptance Criteria:**
+      - The system experiences technical issues.
+      - The Inventory Manager switches to manual inventory tracking and reports the issue to the IT department."
+Banking,Loan Processing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,"1. **User Story:**
+    - **As a bank customer**
+    - **I want to insert my ATM card into the machine**
+    - **So that I can initiate a transaction with the ATM.**
+    - **Acceptance Criteria:**
+      - The ATM must accept the card.
+
+2. **User Story:**
+    - **As a bank customer**
+    - **I want to enter my PIN**
+    - **So that I can authenticate myself and access my account.**
+    - **Acceptance Criteria:**
+      - The system must validate the entered PIN.
+
+3. **User Story:**
+    - **As a bank customer**
+    - **I want to select the ""Withdrawal"" option**
+    - **So that I can initiate the cash withdrawal process.**
+    - **Acceptance Criteria:**
+      - The system must present a menu of options after authentication.
+      - The ""Withdrawal"" option must be available in the menu.
+
+4. **User Story:**
+    - **As a bank customer**
+    - **I want to enter the amount to withdraw**
+    - **So that I can specify how much cash I need.**
+    - **Acceptance Criteria:**
+      - The system must prompt for the withdrawal amount.
+
+5. **User Story:**
+    - **As a bank customer**
+    - **I want the system to verify the transaction details**
+    - **So that it can check if the requested amount is available in my account and the ATM has enough cash.**
+    - **Acceptance Criteria:**
+      - The system must verify the requested withdrawal amount.
+      - The system must ensure there is enough cash in the ATM for the transaction.
+      - The system must confirm that the requested amount is available in the customer's account.
+
+6. **User Story:**
+    - **As a bank customer**
+    - **I want the system to dispense the requested amount of cash**
+    - **So that I can get my money.**
+    - **Acceptance Criteria:**
+      - The system must provide the correct amount of cash.
+
+7. **User Story:**
+    - **As a bank customer**
+    - **I want to take the cash and receipt**
+    - **So that I have evidence of my transaction.**
+    - **Acceptance Criteria:**
+      - The ATM must dispense a receipt with the transaction details.
+
+8. **User Story:**
+    - **As a bank customer**
+    - **I want to remove my ATM card**
+    - **So that I can secure my card and end the transaction.**
+    - **Acceptance Criteria:**
+      - The system must indicate the end of the transaction.
+
+9. **User Story:**
+    - **As a bank customer**
+    - **I want the system to prompt me for correct PIN if entered PIN is incorrect**
+    - **So that I can re-enter the correct PIN and continue the transaction.**
+    - **Acceptance Criteria:**
+      - The system must prompt the user to re-enter the correct PIN after an incorrect entry.
+
+10. **User Story:**
+    - **As a bank customer**
+    - **I want the system to prompt me to contact the bank if the ATM card is invalid or damaged**
+    - **So that I can report the issue and receive assistance.**
+    - **Acceptance Criteria:**
+      - The system must inform the user when an invalid or damaged card is detected.
+      - The system must provide instructions on how to contact customer service for further assistance.
+
+11. **User Story:**
+    - **As a bank customer**
+    - **I want the system to notify me if the ATM is out of service or unable to dispense cash**
+    - **So that I can contact customer service.**
+    - **Acceptance Criteria:**
+      - The system must display an error message when it's unable to dispense cash.
+      - The system must inform the user about the issue and prompt them to contact customer service."
+Insurance,Claim Filing,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,"
+1. **User Story:**
+   - **As a policyholder**
+   - **I want to access my insurance account**
+   - **So that I can manage and renew my existing policies.**
+   - **Acceptance Criteria:**
+     - The login page should display the policyholder's username and password fields.
+     - Upon successful login, the user should be directed to their dashboard with an option to navigate to the Policy Renewal section.
+     - In case of incorrect credentials, a clear error message should appear on the login screen.
+2. **User Story:**
+   - **As a policyholder**
+   - **I want to navigate to the Policy Renewal section**
+   - **So that I can initiate the process of renewing my existing insurance policies.**
+   - **Acceptance Criteria:**
+     - The dashboard should display a prominent link or button for the ""Policy Renewal"" section.
+     - Upon clicking the ""Policy Renewal"" option, the user should be taken to a page showing their active policies with an option to select the policy they wish to renew.
+3. **User Story:**
+   - **As a policyholder**
+   - **I want to review the policy details and coverage options before renewing**
+   - **So that I can verify the changes made to the policy during its current term.**
+   - **Acceptance Criteria:**
+     - Upon selecting a policy for renewal, the user should be presented with the existing policy details and any applicable coverage options.
+     - The user should have the ability to modify coverage levels or make other changes before confirming renewal.
+4. **User Story:**
+   - **As a policyholder**
+   - **I want to confirm the renewal of my insurance policy**
+   - **So that I can finalize the renewal process and update my policy status.**
+   - **Acceptance Criteria:**
+     - After reviewing the policy details, the user should be able to submit a request to renew the policy by clicking a ""Confirm Renewal"" button.
+     - Upon successful confirmation, the system should update the policy status to ""Renewed.""
+5. **User Story:**
+   - **As a policyholder**
+   - **I want to choose my preferred payment method for policy renewal**
+   - **So that I can complete the transaction conveniently and securely.**
+   - **Acceptance Criteria:**
+     - The user should be presented with various payment options such as credit card, debit card, or bank transfer.
+     - Upon selecting a payment option, the system should prompt the user to enter the necessary payment details.
+6. **User Story:**
+   - **As a policyholder**
+   - **I want the system to process my payment for policy renewal**
+   - **So that my policy remains active and in good standing.**
+   - **Acceptance Criteria:**
+     - Upon entering valid payment details, the system should process the payment promptly.
+     - In case of any issues with payment processing, the user should be notified immediately and given options to retry or contact customer support.
+7. **User Story:**
+   - **As a policyholder**
+   - **I want the system to send me a confirmation email upon successful renewal**
+   - **So that I have a record of the renewal transaction and can reference it if needed.**
+   - **Acceptance Criteria:**
+     - Upon completing the payment and policy status update, the system should send an automated email confirming the successful renewal to the policyholder's registered email address.
+8. **User Story:**
+   - **As a policyholder**
+   - **I want to cancel the renewal process if I change my mind before final confirmation**
+   - **So that I can avoid any accidental charges or changes to my policy status.**
+   - **Acceptance Criteria:**
+     - The user should have an option to cancel the renewal process at any time before confirming their decision.
+     - In case of cancellation, no transaction should occur, and the policy status remains unchanged.
+9. **User Story:**
+   - **As a policyholder**
+   - **I want to update my policy details if there are any changes required during renewal**
+   - **So that I can keep my policy information accurate and up-to-date.**
+   - **Acceptance Criteria:**
+     - Before confirming the renewal, the user should have an option to edit their policy details such as contact information or coverage preferences.
+     - Upon saving these changes, they should be reflected in the policy details displayed during the renewal process.
+10. **User Story:**
+    - **As a policyholder**
+    - **I want the system to handle payment failure exceptions gracefully**
+    - **So that I can either retry the payment or contact customer support for assistance.**
+    - **Acceptance Criteria:**
+      - If the payment processing fails, the user should be presented with an appropriate error message.
+      - The user should have options to either retry the payment or contact customer support directly from the error screen."
+Healthcare,Patient Appointment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,"
+1. **User Story:**
+   - **As a Receptionist**
+   - **I want to log into the healthcare system**
+   - **So that I can access the Patient Appointment section and schedule appointments for patients.**
+   - **Acceptance Criteria:**
+     - The receptionist enters their login credentials.
+     - The system verifies the login information.
+     - Upon successful login, the receptionist is directed to the Patient Appointment section.
+
+2. **User Story:**
+   - **As a Receptionist**
+   - **I want to navigate to the Patient Appointment section**
+   - **So that I can access the tools and functionality required for scheduling patient appointments.**
+   - **Acceptance Criteria:**
+     - The receptionist clicks on the ""Patient Appointment"" button or navigates to the appropriate menu.
+     - Upon selecting the Patient Appointment section, the receptionist is presented with a user interface containing relevant options for appointment scheduling.
+
+3. **User Story:**
+   - **As a Receptionist**
+   - **I want to select a patient from the available list**
+   - **So that I can link the patient's information to the scheduled appointment.**
+   - **Acceptance Criteria:**
+     - The receptionist accesses a list of available patients.
+     - The receptionist selects a specific patient by clicking on their name or using search functionality.
+     - Upon selection, the system displays the patient's relevant information, such as contact details and medical history.
+
+4. **User Story:**
+   - **As a Receptionist**
+   - **I want to choose the date and time for the appointment**
+   - **So that I can determine an appropriate time slot for the patient.**
+   - **Acceptance Criteria:**
+     - The receptionist accesses a calendar or scheduling tool.
+     - The receptionist selects a specific date and time using the calendar or by scrolling through available slots.
+     - Upon selection, the system validates the chosen date and time to ensure availability.
+
+5. **User Story:**
+   - **As a Receptionist**
+   - **I want to confirm the appointment booking**
+   - **So that I can finalize the scheduling process and ensure the patient receives a confirmation.**
+   - **Acceptance Criteria:**
+     - The receptionist clicks on a ""Confirm Appointment"" button or takes an appropriate action to finalize the booking.
+     - Upon confirmation, the system records the appointment details in the schedule and updates the patient's record.
+     - A confirmation notification is sent to the patient via their preferred contact method (e.g., email, text message).
+
+6. **User Story:**
+   - **As a Receptionist**
+   - **I want the system to validate the appointment details**
+   - **So that any potential errors can be identified and resolved before finalizing the booking.**
+   - **Acceptance Criteria:**
+     - The system checks the entered date, time, patient information, and other relevant details.
+     - If all details are correct, the system proceeds with the appointment scheduling process.
+     - If any errors or inconsistencies are detected, the system displays an error message and prompts the receptionist to correct the information.
+
+7. **User Story:**
+   - **As a Receptionist**
+   - **I want the system to update the appointment schedule**
+   - **So that all relevant parties have access to the most current scheduling information.**
+   - **Acceptance Criteria:**
+     - Upon confirmation and validation, the system updates the appointment schedule in real-time.
+     - The updated schedule is visible to other authorized personnel accessing the same system.
+
+8. **User Story:**
+   - **As a Patient**
+   - **I want to receive a confirmation notification of my scheduled appointment**
+   - **So that I have a record and reminder of the booking, ensuring I attend on time.**
+   - **Acceptance Criteria:**
+     - Upon confirming the appointment, the system sends a confirmation message to the patient via their preferred contact method.
+     - The confirmation should include key details such as date, time, location, and any additional instructions or requirements for the appointment.
+     - The patient receives the notification within an acceptable time frame after booking the appointment.
+
+9. **User Story:**
+   - **As a Receptionist**
+   - **I want to add new patient information to the system before scheduling the appointment (if necessary)**
+   - **So that I can create and maintain accurate patient records within the healthcare system.**
+   - **Acceptance Criteria:**
+     - If the selected patient is not present in the system, the receptionist accesses an ""Add New Patient"" feature.
+     - The receptionist inputs the necessary patient information such as name, contact details, medical history, and insurance information.
+     - Upon saving this new patient record, it becomes accessible for future appointment scheduling and medical care management.
+
+10. **User Story:**
+    - **As a Receptionist**
+    - **I want to select an alternative slot if the initially selected date and time are not available**
+    - **So that I can find a suitable time slot for the patient without having to cancel the appointment.**
+    - **Acceptance Criteria:**
+      - The system checks the availability of the initially selected date and time.
+      - If unavailable, the system presents alternative time slots within specified constraints (e.g., same day, next day, within a week).
+      - The receptionist selects an appropriate alternative slot from the options provided by the system, which then updates the appointment schedule accordingly.
+
+11. **User Story:**
+    - **As a Receptionist**
+    - **I want to receive an error message when attempting to schedule an appointment outside of specified constraints (e.g., beyond a certain time frame)**
+    - **So that I am aware of any restrictions and can avoid scheduling conflicts or errors.**
+    - **Acceptance Criteria:**
+      - The system displays an error message when the receptionist attempts to book an appointment outside of specified parameters, such as maximum lead time or earliest/latest appointment times.
+      - The error message clearly communicates the reason for the booking restriction and provides guidance on how to proceed within these constraints.
+
+12. **User Story:**
+    - **As a Receptionist**
+    - **I want to cancel an existing appointment if needed, with proper notification to the patient**
+    - **So that I can manage scheduling changes effectively and minimize disruption for both the practice and the patients.**
+    - **Acceptance Criteria:**
+      - The system allows the receptionist to cancel an existing appointment by accessing the relevant scheduling interface.
+      - Upon cancellation, the system sends a notification to the affected patient via their preferred contact method, including details about the reason for the change (if applicable) and any alternative suggestions or rescheduling options.
+      - The cancelled appointment is removed from the schedule, ensuring all relevant parties have an accurate representation of current scheduling information.
+
+13. **User Story:**
+    - **As a Patient**
+    - **I want to receive notifications for appointment reminders and updates**
+    - **So that I can be informed about any changes or confirmations related to my scheduled appointments, promoting better attendance and engagement with my healthcare.**
+    - **Acceptance Criteria:**
+      - The system sends automated reminders via the patient's preferred contact method (e.g., email, text message) a certain time before an appointment is due.
+      - If there are any changes or updates to an existing appointment, the patient receives notifications outlining the revised details, allowing them to adjust their schedule accordingly.
+      - The system ensures that notifications are sent within an acceptable time frame and contain clear, concise information relevant to the patient's scheduled appointments."
+Public Sector,Voter Registration,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,"
+1. **As a Public Health Officer**
+   **I want to log into the public health monitoring system**
+   **So that I can access the features and data for tracking infectious diseases within the community.**
+   - **Acceptance Criteria:**
+     - The user is prompted to enter their login credentials.
+     - Upon successful authentication, the user gains access to the Infectious Disease Tracking section.
+     - Invalid login attempts are logged by the system.
+
+2. **As a Public Health Officer**
+   **I want to navigate to the Infectious Disease Tracking section**
+   **So that I can easily monitor and track infectious diseases within my community.**
+   - **Acceptance Criteria:**
+     - The system displays a menu or navigation bar with options to access different sections, including Infectious Disease Tracking.
+     - Selecting the Infectious Disease Tracking option directs the user to the section containing relevant data and features for disease monitoring.
+
+3. **As a Public Health Officer**
+   **I want to select a specific infectious disease to monitor**
+   **So that I can focus on tracking the spread of that particular disease within my community.**
+   - **Acceptance Criteria:**
+     - The Infectious Disease Tracking section displays a list or a searchable database of infectious diseases.
+     - Selecting a specific disease from the list directs the user to the relevant data and features for monitoring its spread.
+     - The system updates the displayed information based on the selected disease.
+
+4. **As a Public Health Officer**
+   **I want to view current data on reported cases and trends**
+   **So that I can assess the situation and plan appropriate interventions.**
+   - **Acceptance Criteria:**
+     - The system displays up-to-date information on reported cases of the selected infectious disease.
+     - The displayed data includes visualizations or graphs to represent trends in case numbers over time.
+     - The user can filter and sort the data based on various parameters, such as date, location, or demographics.
+
+5. **As a Public Health Officer**
+   **I want to update the system with any new reported cases**
+   **So that the system reflects the most accurate and up-to-date information for disease monitoring.**
+   - **Acceptance Criteria:**
+     - The user can input new reported cases through a form or interface within the Infectious Disease Tracking section.
+     - The system validates the input data to ensure its accuracy and consistency with existing data.
+     - Upon successful validation, the system updates the database with the new case information.
+
+6. **As a Public Health Officer**
+   **I want the system to generate reports on the spread of the infectious disease**
+   **So that I can analyze the data, identify patterns and trends, and make informed decisions.**
+   - **Acceptance Criteria:**
+     - The system provides an option to generate reports based on the selected infectious disease.
+     - The generated report includes visualizations or graphs representing the spread of the disease over time and across different locations or demographics.
+     - The user can customize the report by selecting specific parameters, such as date ranges or data filters.
+
+7. **As a Public Health Officer**
+   **I want to take necessary actions based on the data and trends**
+   **So that I can effectively manage and control the spread of infectious diseases within my community.**
+   - **Acceptance Criteria:**
+     - The system enables the user to export or print reports for further analysis and collaboration with other stakeholders.
+     - The Infectious Disease Tracking section provides tools or resources for planning and implementing interventions, such as contact tracing, vaccination campaigns, or public awareness initiatives.
+     - The user can document and track the progress of implemented actions within the system.
+
+8. **As a Public Health Officer**
+   **I want to receive an alert if there is a sudden spike in reported cases**
+   **So that I can prioritize resources and take immediate action to control the spread of the disease.**
+   - **Acceptance Criteria:**
+     - The system monitors reported cases and tracks their trends.
+     - If the number of new reported cases significantly exceeds a predefined threshold, the system sends an alert or notification to the user.
+     - The alert contains relevant information, such as the affected locations, demographics, or types of infectious diseases.
+
+9. **As a Public Health Officer**
+   **I want to investigate and correct discrepancies in reported data**
+   **So that I can maintain the accuracy and reliability of the system's information for disease monitoring.**
+   - **Acceptance Criteria:**
+     - The system identifies inconsistencies or discrepancies in reported case data through internal validation checks or user-initiated reviews.
+     - The user is notified about the identified discrepancies, along with details on the affected cases and potential sources of errors.
+     - The user can review and correct the discrepancies by updating the relevant case information within the system."
+Travel & Logistics,Shipment Tracking,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,"
+1. **As a logistics coordinator**
+   *I want to log into the system*
+   *So that I can access the shipment tracking features and manage shipments.*
+   - Acceptance Criteria:
+     *The system should authenticate the user using valid credentials.*
+     *The main dashboard should be displayed upon successful login.*
+   
+2. **As a logistics coordinator**
+   *I want to navigate to the Shipment Tracking section*
+   *So that I can access shipment details and track shipments in progress.*
+   - Acceptance Criteria:
+     *The system should present a clear menu or navigation options for accessing different features, including shipment tracking.*
+     *Upon selecting Shipment Tracking, the system should display the section for entering tracking information.*
+   
+3. **As a logistics coordinator**
+   *I want to enter the tracking number or shipment details*
+   *So that I can initiate the process of retrieving and tracking the relevant shipments.*
+   - Acceptance Criteria:
+     *The system should provide an input field for entering tracking numbers or other relevant shipment information (such as sender, recipient, date, etc.).*
+     *If multiple shipments match the entered details, the system should prompt the user to select the desired shipment for tracking.*
+   
+4. **As a logistics coordinator**
+   *I want the system to validate my input for accuracy and completeness*
+   *So that I can be confident in the information provided and avoid errors or incorrect tracking results.*
+   - Acceptance Criteria:
+     *The system should perform real-time checks on entered data, ensuring it adheres to predefined rules (e.g., valid tracking numbers, correct date formats, etc.).*
+     *If the input is invalid or incomplete, the system should display an error message and prompt the user to re-enter the information.*
+   
+5. **As a logistics coordinator**
+   *I want the system to retrieve the shipment information and display the current status and location*
+   *So that I can stay informed about the progress of the shipment and identify any issues or delays in real-time.*
+   - Acceptance Criteria:
+     *Upon entering valid tracking information, the system should quickly process the request and retrieve the relevant shipment data from its database.*
+     *The current status and location of the shipment should be displayed clearly, along with any relevant updates or notes regarding transit times, delays, customs clearance, etc.*
+   
+6. **As a logistics coordinator**
+   *I want to review the tracking details and any relevant updates*
+   *So that I can assess the progress of the shipment and make informed decisions on how best to manage it.*
+   - Acceptance Criteria:
+     *The system should present tracking information in an easy-to-read format, including status updates and any relevant notes or comments from other users (such as customs officers).*
+     *The user should be able to scroll through a history of previous status updates and events related to the shipment.*
+   
+7. **As a logistics coordinator**
+   *I want to take necessary actions based on the shipment status*
+   *So that I can quickly respond to any issues or changes in the shipment's progress and ensure it reaches its destination efficiently.*
+   - Acceptance Criteria:
+     *Based on the current status of the shipment, the system should provide suggestions for actions the user might need to take (such as contacting a carrier, arranging for customs clearance, etc.).*
+     *If there are no immediate actions required, the system should simply display the current status and allow the user to monitor further updates.*
+   
+8. **As a logistics coordinator**
+   *I want to save the shipment tracking details for future reference*
+   *So that I can easily access historical information about past shipments and compare their progress to current ones.*
+   - Acceptance Criteria:
+     *The system should provide an option for users to save or bookmark specific shipment tracking details, either individually or in batches.*
+     *Saved data should be accessible through a separate ""history"" or ""archive"" section within the shipment tracking feature.*
+   
+9. **As a logistics coordinator**
+   *I want to receive notifications about any changes in the shipment status*
+   *So that I can stay informed about the progress of my shipments and respond promptly to any issues or delays.*
+   - Acceptance Criteria:
+     *The system should offer users the ability to opt-in for real-time notifications via email, SMS, or push notifications on a mobile app.*
+     *Notifications should be sent automatically when there are updates to the shipment status or when specific events occur (e.g., out for delivery).*
+   
+10. **As a logistics coordinator**
+   *I want to be able to print shipping labels and documentation*
+   *So that I can provide the necessary paperwork for carriers, customs officials, and recipients.*
+   - Acceptance Criteria:
+     *The system should offer an option to generate shipping labels and other required documents (such as commercial invoices, packing lists, etc.) based on the shipment details entered into the tracking feature.*
+     *Printed documents should be formatted correctly according to industry standards and include all necessary information (e.g., sender/recipient addresses, item descriptions, weights, etc.).*
+
+11. **As a logistics coordinator**
+   *I want to access historical data about past shipments*
+   *So that I can analyze trends over time and identify areas for improvement in my shipping processes.*
+   - Acceptance Criteria:
+     *The system should maintain a comprehensive database of all past shipment tracking information, allowing users to filter and sort this data by various criteria (e.g., date, carrier, destination, etc.).*
+     *Users should be able to export this information into external formats such as CSV or Excel for further analysis.*
+
+12. **As a logistics coordinator**
+   *I want the system to provide insights and analytics about my shipping performance*
+   *So that I can identify areas where I might be able to optimize my processes, reduce costs, or improve customer satisfaction.*
+   - Acceptance Criteria:
+     *The system should offer users a range of built-in reports and dashboards that display key metrics related to their shipping operations (e.g., average transit times, late shipments, total shipping costs, etc.).*
+     *Users should also have the ability to create custom reports based on specific criteria or data points they are interested in tracking.*
+
+13. **As a logistics coordinator**
+   *I want the system to be accessible from multiple devices and platforms*
+   *So that I can check my shipments at any time, regardless of whether I am using a desktop computer, laptop, tablet, or smartphone.*
+   - Acceptance Criteria:
+     *The tracking feature should be designed with a responsive layout that adapts to different screen sizes and resolutions, ensuring an optimal viewing experience on all devices.*
+     *A dedicated mobile app should be available for download on major platforms (e.g., iOS, Android) to provide users with even more convenience when monitoring their shipments on-the-go.*
+
+14. **As a logistics coordinator**
+   *I want the system to integrate with other software tools and systems*
+   *So that I can streamline my workflows by automating data transfers between different applications and reducing manual entry errors.*
+   - Acceptance Criteria:
+     *The tracking feature should offer APIs or webhooks for seamless integration with popular logistics management tools, such as TMS (Transportation Management Systems), WMS (Warehouse Management Systems), ERP (Enterprise Resource Planning) systems, etc.*
+     *Integrations should allow for bi-directional data sharing, enabling users to push new shipment details into the tracking system and pull updated status information back out into their primary workflow tools.*"
+Telecommunications,Service Ticket Resolution,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,"
+1. **As a Customer Service Agent**
+   - **I want to log into the system using my credentials**
+   - **So that I can access the Service Ticket Resolution module and manage customer inquiries.**
+   - **Acceptance Criteria:**
+     - The login process validates the provided credentials.
+     - Upon successful validation, the system grants access to the Service Ticket Resolution module.
+
+2. **As a Customer Service Agent**
+   - **I want to navigate to the Service Ticket Resolution module**
+   - **So that I can manage and resolve customer service tickets effectively.**
+   - **Acceptance Criteria:**
+     - The system displays the Service Ticket Resolution module upon login.
+     - The module provides access to all relevant ticket-related functions.
+
+3. **As a Customer Service Agent**
+   - **I want to select a new service ticket to resolve**
+   - **So that I can efficiently address customer inquiries and issues.**
+   - **Acceptance Criteria:**
+     - The system displays a list of newly submitted tickets.
+     - The agent can choose the desired ticket from the list for resolution.
+
+4. **As a Customer Service Agent**
+   - **I want to review the details of the service ticket and identify the issue reported by the customer**
+   - **So that I can provide accurate information and resolve the issue in an efficient manner.**
+   - **Acceptance Criteria:**
+     - The system displays all relevant ticket details, including customer contact information and a description of the issue.
+     - The agent is able to understand the reported issue and determine the necessary steps for resolution.
+
+5. **As a Customer Service Agent**
+   - **I want to take necessary actions to resolve the issue**
+   - **So that I can efficiently address customer inquiries and issues.**
+   - **Acceptance Criteria:**
+     - The agent has access to all relevant information required for resolving the issue.
+     - The system allows the agent to perform necessary actions, such as troubleshooting or providing information to resolve the ticket.
+
+6. **As a Customer Service Agent**
+   - **I want the system to update the status of the service ticket as ""In Progress"" during the resolution process**
+   - **So that I can track my progress and avoid confusion with other agents regarding ticket status.**
+   - **Acceptance Criteria:**
+     - The system automatically updates the ticket status upon agent interaction.
+     - The updated status is visible to all involved agents.
+
+7. **As a Customer Service Agent**
+   - **I want to update the ticket with the resolution details once the issue is resolved**
+   - **So that the customer has a clear understanding of the solution and future reference for similar issues.**
+   - **Acceptance Criteria:**
+     - The system provides an area to input the resolution details.
+     - Upon submission, the ticket's status is automatically updated, and the resolution details are recorded in the system.
+
+8. **As a Customer Service Agent**
+   - **I want the system to validate the information provided by me for ticket resolution**
+   - **So that I can ensure the accuracy of the information before notifying the customer about the resolution.**
+   - **Acceptance Criteria:**
+     - The system performs validation on the entered resolution details.
+     - The agent receives a notification if any errors are detected during the validation process.
+
+9. **As a Customer Service Agent**
+   - **I want the system to update the status of the service ticket to ""Resolved"" and notify the customer via email or notification within the system**
+   - **So that the customer is informed about the resolution in a timely manner.**
+   - **Acceptance Criteria:**
+     - Upon agent submission, the system updates the ticket's status to ""Resolved.""
+     - The system automatically sends an email or in-app notification to the customer regarding the resolved issue.
+
+10. **As a Customer Service Agent**
+    - **I want the system to record the resolution details for future reference and analysis**
+    - **So that the team can learn from previous resolutions and improve service quality.**
+    - **Acceptance Criteria:**
+      - Upon ticket closure, the system stores all resolution details in a database.
+      - The stored information is accessible for future reference and analysis by the support team.
+
+11. **As a Customer Service Agent**
+    - **I want to escalate the ticket to a senior support representative if I encounter difficulties resolving the issue**
+    - **So that I can ensure the customer receives timely and appropriate assistance.**
+    - **Acceptance Criteria:**
+      - The system allows agents to transfer the ticket to a higher-level support team.
+      - Upon successful transfer, the senior support representative receives notification of the escalation.
+
+12. **As a Customer Service Agent**
+    - **I want to collaborate with relevant teams if the service ticket requires input from another department or team**
+    - **So that I can ensure a timely and effective resolution to the customer's issue.**
+    - **Acceptance Criteria:**
+      - The system enables agents to involve other departments or teams in resolving the ticket.
+      - Upon involvement, these teams receive notification of their participation and the details of the issue.
+
+13. **As a Customer Service Agent**
+    - **I want the system to notify me if there are any unresolved tickets within my assigned timeframe**
+    - **So that I can prioritize my tasks and ensure timely resolution of all tickets.**
+    - **Acceptance Criteria:**
+      - The system tracks the age of each open ticket.
+      - Upon reaching a predefined time limit, the agent receives a notification to review the unresolved ticket."
+Corporate IT,Software Update Deployment,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,"1. **User Story:**
+   - **As an IT Administrator**
+   - **I want to log into the software update deployment system**
+   - **So that I can initiate the deployment process for the new software update**
+   - **Acceptance Criteria:**
+     - The login credentials are valid and accepted by the system.
+2. **User Story:**
+   - **As an IT Administrator**
+   - **I want to select the new software update package to deploy**
+   - **So that I can ensure that the correct update is deployed to the target devices**
+   - **Acceptance Criteria:**
+     - The selected update package is available and compatible with the deployment system.
+     - The selected package is clearly displayed for confirmation.
+3. **User Story:**
+   - **As an IT Administrator**
+   - **I want to specify the target devices or groups for the deployment**
+   - **So that I can ensure that only the intended devices receive the software update**
+   - **Acceptance Criteria:**
+     - The device selection interface is user-friendly and intuitive.
+     - The selected devices are listed and confirmed before proceeding with the deployment.
+4. **User Story:**
+   - **As an IT Administrator**
+   - **I want the system to verify the compatibility of the software update with the target devices**
+   - **So that I can avoid potential issues or errors during the deployment process**
+   - **Acceptance Criteria:**
+     - The system checks for compatibility using predefined criteria.
+     - Compatibility results are clearly displayed for review before proceeding.
+5. **User Story:**
+   - **As an IT Administrator**
+   - **I want the system to schedule the deployment based on predefined maintenance windows or immediate deployment**
+   - **So that I can minimize disruptions to user productivity and ensure timely software updates**
+   - **Acceptance Criteria:**
+     - The scheduling interface allows for easy selection of maintenance windows or immediate deployment.
+     - Scheduled deployments are confirmed and displayed for reference.
+6. **User Story:**
+   - **As an IT Administrator**
+   - **I want the system to initiate the deployment process to the target devices**
+   - **So that I can start updating the software on the selected devices**
+   - **Acceptance Criteria:**
+     - The deployment process starts at the scheduled time or immediately upon request.
+     - Deployment status is displayed and regularly updated throughout the process.
+7. **User Story:**
+   - **As an IT Administrator**
+   - **I want the system to monitor the deployment progress and provide real-time status updates**
+   - **So that I can track the deployment's progress and quickly identify any issues or errors**
+   - **Acceptance Criteria:**
+     - The system continuously checks for deployment progress and reports any significant events.
+     - Real-time status updates are displayed in an easily accessible location.
+8. **User Story:**
+   - **As an IT Administrator**
+   - **I want the system to notify me of the successful deployment**
+   - **So that I can confirm that the update was deployed correctly and move on to other tasks**
+   - **Acceptance Criteria:**
+     - The system sends a notification upon completion of the deployment.
+     - The notification includes details about the successfully updated devices.
+9. **User Story:**
+   - **As an IT Administrator**
+   - **I want the system to alert me if it detects any compatibility issues with the target devices**
+   - **So that I can take corrective actions before proceeding with the deployment**
+   - **Acceptance Criteria:**
+     - The system checks for compatibility during the selection process and before starting the deployment.
+     - If incompatible devices are found, an alert is displayed, and deployment cannot proceed until resolved.
+10. **User Story:**
+    - **As an IT Administrator**
+    - **I want the system to provide detailed error logs for troubleshooting if the deployment process encounters errors or failures**
+    - **So that I can diagnose and resolve any issues quickly**
+    - **Acceptance Criteria:**
+      - The system generates and stores error logs during the deployment process.
+      - Error logs are easily accessible for review and analysis.
+11. **User Story:**
+    - **As an IT Administrator**
+    - **I want to be able to track the deployment status and view deployment reports**
+    - **So that I can monitor the progress of previous deployments and gather information for future planning**
+    - **Acceptance Criteria:**
+      - The system maintains a history of past deployments and associated reports.
+      - Reports are easily accessible and provide relevant information about each deployment, including success rates, device counts, and potential issues encountered."
+Consumer Products | New Data Solutions,Purchase Data Analysis,NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,"1. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want to log into the inventory management system**
+   - **So that I can access the features and functionality of the system for managing inventory optimization**
+   
+2. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want to navigate to the Inventory Management Optimization page**
+   - **So that I can view and analyze my inventory data to optimize management levels**
+   
+3. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want to select the option to analyze inventory data**
+   - **So that the system can process my inventory data and generate optimization recommendations**
+
+4. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want the system to validate my input**
+   - **So that errors in my input can be detected and resolved before proceeding with data analysis**
+   
+5. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want the system to process my inventory data and generate optimization recommendations**
+   - **So that I can review these recommendations to make informed decisions about managing inventory levels**
+
+6. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want to review the optimization recommendations generated by the system**
+   - **So that I can assess their feasibility and determine which changes to implement for optimizing inventory management**
+   
+7. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want to implement the recommended inventory management changes**
+   - **So that my inventory levels are optimized based on data analysis, leading to cost savings and increased efficiency in supply chain operations**
+
+8. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want the system to update the inventory records with the changes made**
+   - **So that all relevant stakeholders have access to accurate, up-to-date information on inventory levels and management practices**
+   
+9. **User Story:**
+   - **As a Supply Chain Manager**
+   - **I want the system to alert me if it encounters errors during data processing**
+   - **So that I can address any issues promptly, ensuring accurate analysis and optimization recommendations**
+
+10. **User Story:**
+    - **As a Supply Chain Manager**
+    - **I want guidance on resolving issues encountered during data processing**
+    - **So that I can take appropriate actions to fix errors and maintain system functionality**
+    
+(Note: Acceptance criteria may vary based on specific requirements or technical considerations, but the above format captures the user's goals, reasons, and desired outcomes.)"
+Automotive,Parts Supplier Management,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"**User Story 1:**
+As a service manager, I want to navigate to the vehicle maintenance scheduling page quickly, so that I can schedule appointments efficiently.
+
+**Acceptance Criteria:**
+- The system should have a clear and intuitive navigation menu for accessing the vehicle maintenance scheduling page.
+- The navigation process should be fast and reliable, minimizing user effort.
+
+**User Story 2:**
+As a service manager, I want to select a customer for an appointment easily, so that I can quickly schedule the appointment.
+
+**Acceptance Criteria:**
+- The customer selection process should be intuitive and straightforward.
+- The system should display a list of available appointment times for the selected customer.
+- Each time slot should be accompanied by clear and concise details such as date, time, and available service types.
+
+**User Story 3:**
+As a service manager, I want to schedule an appointment for a specific customer on a specific date and time, so that I can plan my workflow accordingly,
+
+**Acceptance Criteria:**
+- The booking process should allow the service manager to select a specific date and time for the appointment.
+- The system should validate the selected appointment time and date, ensuring that they are compatible with available resources and customer availability.
+
+**User Story 4:**
+As a service manager, I want to confirm the appointment details, so that I can prepare for the appointment and communicate it to the customer, so that they can plan accordingly,
+
+**Acceptance Criteria:**
+- The appointment confirmation process should be seamless and provide clear and concise details about the appointment, including appointment date, time, customer information, and estimated duration.
+- The confirmation should be sent to the customer's email address and mobile phone."
+Food,Production Line Monitoring,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"## User Stories:
+
+1. **As an Inventory Manager**
+    - **I want to access the Inventory Management Dashboard**
+        - **Reason:** Provides a clear overview of current inventory and upcoming shipments.
+
+
+2. **As an Inventory Manager**
+    - **I want to view inventory levels for different products**
+        - **Reason:** Enables better monitoring of inventory distribution across various categories.
+
+
+3. **As an Inventory Manager**
+    - **I want to update inventory records for received shipments**
+        - **Reason:** Ensures accurate record-keeping of incoming products.
+
+
+4. **As an Inventory Manager**
+    - **I want the system to automatically adjust inventory levels when needed**
+        - **Reason:** Simplifies inventory management by reducing manual intervention.
+
+
+5. **As an Inventory Manager**
+    - **I want to receive alerts for low inventory levels**
+        - **Reason:** Allows timely intervention to prevent stockouts and maintain efficient supply chains.
+
+
+6. **As an Inventory Manager**
+    - **I want to receive alerts for upcoming product expirations**
+        - **Reason:** Ensures timely procurement and planning for new inventory purchases.
+
+
+7. **As an Inventory Manager**
+    - **I want to view inventory data in a clear and organized format**
+        - **Reason:** Enables easy analysis and decision-making based on inventory trends.
+
+
+8. **As an Inventory Manager**
+    - **I want to be able to export inventory data for further analysis**
+        - **Reason:** Provides a comprehensive record of inventory levels for future reference."
+Banking,Loan Processing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"**User Stories:**
+
+1. As a bank customer, I want to withdraw cash from an ATM using my ATM card and PIN, so that I can manage my finances efficiently.
+2. As a bank customer, I want to be notified if the ATM is out of service or unable to dispense cash, so that I can plan my transactions accordingly.
+3. As a bank customer, I want to be able to withdraw a specific amount of money, so that I can cover various expenses without exceeding my budget.
+4. As a bank customer, I want to be able to withdraw cash quickly and efficiently, without having to wait in line, so that I can avoid missing out on important transactions.
+5. As a bank customer, I want to be able to withdraw cash in multiple denominations, so that I can choose the option that is most convenient for me.
+6. As a bank customer, I want to be able to track my ATM withdrawal history, so that I can monitor my spending and identify patterns or trends.
+7. As a bank customer, I want to be able to set up spending limits on my ATM withdrawals, so that I can control how much money I can withdraw each month.
+8. As a bank customer, I want to be able to reset my PIN in case I forget it, so that I can continue using the ATM without interruption."
+Insurance,Claim Filing,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"**User Stories:**
+
+1. As a policyholder, I want to access the Policy Renewal section easily and quickly so that I can renew my policy promptly.
+2. As a policyholder, I want to see the available insurance policies and coverage options before I make a decision to renew.
+3. As a policyholder, I want to be able to review the policy details and coverage options before confirming the renewal.
+4. As a policyholder, I want to be able to easily select the payment method and submit it without any errors.
+5. As a policyholder, I want to receive a confirmation email as soon as my policy is renewed successfully.
+6. As a policyholder, I want to be able to access a history of my past insurance renewals and policy details.
+7. As a policyholder, I want to be notified in case of any changes to the policy details."
+Healthcare,Patient Appointment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"Sure, here is the set of user stories based on the use case:
+
+1. **As a Receptionist**
+    - I want to schedule patient appointments in the healthcare system.
+    - So that I can manage patient schedules efficiently.
+
+
+2. **As a Receptionist**
+    - I want to be able to select and book patient appointments.
+    - So that patients can schedule their appointments conveniently.
+
+
+3. **As a Receptionist**
+    - I want to see available appointment slots for patients.
+    - So that I can accommodate patient requests promptly.
+
+
+4. **As a Receptionist**
+    - I want to confirm patient appointments successfully.
+    - So that patients know their appointments have been booked and can plan accordingly.
+
+
+5. **As a Receptionist**
+    - I want the system to validate and update the appointment schedule in real-time.
+    - So that appointments are confirmed promptly and accurately.
+
+
+6. **As a Receptionist**
+    - I want to receive a notification when an appointment is booked successfully.
+    - So that patients are informed and can plan accordingly.
+
+
+7. **As a Receptionist**
+    - I want the system to provide a clear and concise confirmation of the appointment booking.
+    - So that patients can confirm their appointments easily.
+
+
+8. **As a Receptionist**
+    - I want to handle exceptions related to unavailable system resources.
+    - So that the system remains operational and provides accurate information to patients."
+Public Sector,Voter Registration,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"**User Story 1:**
+- **As a Public Health Officer**
+- **I want to be able to access the public health monitoring system**
+- **So that I can monitor and track the spread of infectious diseases within the community**
+
+**User Story 2:**
+- **As a Public Health Officer**
+- **I want to navigate to the Infectious Disease Tracking section**
+- **So that I can view the current data on reported cases and trends**
+
+**User Story 3:**
+- **As a Public Health Officer**
+- **I want to select the specific infectious disease to monitor**
+- **So that I can view detailed information about that disease**
+
+**User Story 4:**
+- **As a Public Health Officer**
+- **I want to view current and historical data on reported cases of an infectious disease**
+- **So that I can track the spread of the disease over time**
+
+**User Story 5:**
+- **As a Public Health Officer**
+- **I want to update the system with any new reported cases**
+- **So that I can monitor the spread of the disease in real-time**
+
+**User Story 6:**
+- **As a Public Health Officer**
+- **I want the system to analyze the data and generate reports on the spread of an infectious disease**
+- **So that I can make informed decisions about disease control**
+
+**User Story 7:**
+- **As a Public Health Officer**
+- **I want to access alerts when there is a sudden spike in reported cases**
+- **So that I can take immediate action to prevent the spread of the disease**
+
+**User Story 8:**
+- **As a Public Health Officer**
+- **I want to access alerts when there are discrepancies in the reported data**
+- **So that I can investigate and correct the information in the system**"
+Travel & Logistics,Shipment Tracking,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"## User Stories based on the Use Case:
+
+1. **As a Logistics Coordinator**
+    - I want to access the Shipment Tracking section of the system.
+    - So that I can track shipments and locate their current status.
+
+
+2. **As a Logistics Coordinator**
+    - I want to enter a valid tracking number for the shipment I'm interested in.
+    - So that the system can validate the input and proceed with tracking.
+
+
+3. **As a Logistics Coordinator**
+    - I want to see the current status of the shipment, including the location and estimated delivery date.
+    - So that I can track the shipment's progress and make informed decisions.
+
+
+4. **As a Logistics Coordinator**
+    - I want to review any updates or notifications related to the shipment's status.
+    - So that I stay informed about any changes in the tracking information.
+
+
+5. **As a Logistics Coordinator**
+    - In case of an invalid tracking number or incomplete details, I want the system to prompt me to re-enter them.
+    - So that I can provide accurate and complete information for proper tracking.
+
+
+6. **As a Logistics Coordinator**
+    - If the system encounters an error while retrieving shipment details, I want an error message to appear.
+    - So that I know where to seek assistance and avoid misinformation."
+Telecommunications,Service Ticket Resolution,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"**User Story 1:**
+As a customer support agent,
+I want to be able to log in to the system using my credentials.
+So that I can access the service ticket management module.
+
+**User Story 2:**
+As a customer support agent,
+I want to navigate to the Service Ticket Resolution module.
+So that I can select the newly submitted service ticket to resolve.
+
+**User Story 3:**
+As a customer support agent,
+I want to review the details of the service ticket and identify the issue reported by the customer.
+So that I can determine the resolution steps required.
+
+**User Story 4:**
+As a customer support agent,
+I want to take necessary actions to resolve the issue.
+So that the ticket is moved from ""New"" to ""In Progress"".
+
+**User Story 5:**
+As a customer support agent,
+I want the system to update the status of the service ticket as ""In Progress"" during the resolution process.
+So that I can track the progress of the ticket.
+
+**User Story 6:**
+As a customer support agent,
+I want once the issue is resolved, the system to update the ticket with the resolution details.
+So that I can provide feedback to the customer and close the ticket.
+
+**User Story 7:**
+As a customer support agent,
+I want to validate the information provided by the customer.
+So that I can ensure that the ticket is resolved accurately.
+
+**User Story 8:**
+As a customer support agent,
+I want the system to update the status of the service ticket to ""Resolved"" and notify the customer via email or notification within the system.
+So that I can inform the customer that their issue has been resolved.
+
+**User Story 9:**
+As a customer support agent,
+I want the system to record the resolution details for future reference and analysis.
+So that I can identify trends and improve the service."
+Corporate IT,Software Update Deployment,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"Sure, here are the user stories based on the use case:
+
+1. **As an IT Administrator**
+    - I want to deploy a new software update quickly and efficiently.
+    - So that I can minimize downtime and user disruption.
+
+
+2. **As an IT Administrator**
+    - I want to specify the target devices for the software update deployment.
+    - So that I can ensure that the update is deployed only to the intended audience.
+
+
+3. **As an IT Administrator**
+    - I want to view real-time progress updates during the software update deployment process.
+    - So that I can track the status of the deployment and make informed decisions if necessary.
+
+
+4. **As an IT Administrator**
+    - I want to be notified immediately if an error occurs during the software update deployment process.
+    - So that I can take corrective actions promptly.
+
+
+5. **As an IT Administrator**
+    - I want to be able to view detailed error logs related to the software update deployment process.
+    - So that I can diagnose and resolve issues quickly.
+
+
+6. **As an IT Administrator**
+    - I want to be able to cancel the software update deployment process at any time.
+    - So that I can avoid unnecessary downtime."
+Consumer Products | New Data Solutions,Purchase Data Analysis,lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,"**User Story 1:**
+- **As a Supply Chain Manager**
+- **I want to analyze inventory data**
+- **So that I can identify trends and patterns**
+
+**User Story 2:**
+- **As a Supply Chain Manager**
+- **I want the analysis to include historical data**
+- **So that I can track changes over time**
+
+**User Story 3:**
+- **As a Supply Chain Manager**
+- **I want the analysis to provide insights into customer demand**
+- **So that I can make informed inventory decisions**
+
+**User Story 4:**
+- **As a Supply Chain Manager**
+- **I want the analysis to generate recommendations for inventory optimization**
+- **So that I can improve inventory levels and reduce costs**
+
+**User Story 5:**
+- **As a Supply Chain Manager**
+- **I want the recommendations to be implemented automatically**
+- **So that I can save time and effort**"

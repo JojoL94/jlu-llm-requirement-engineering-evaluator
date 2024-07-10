@@ -21,8 +21,8 @@ criteria = [
 ]
 
 # Pfade zu den CSV-Dateien
-input_use_cases_file = '../../ErgebnisseBackup/generated_use_cases.csv'
-input_user_stories_file = '../../ErgebnisseBackup/generated_user_stories.csv'
+input_use_cases_file = '../../ErgebnisseBackup/18.06.2024/1/generated_use_cases.csv'
+input_user_stories_file = '../../ErgebnisseBackup/18.06.2024/1/generated_user_stories.csv'
 output_prompts_file = 'generated_evaluation_prompts.csv'
 
 # Lesen der Use Cases

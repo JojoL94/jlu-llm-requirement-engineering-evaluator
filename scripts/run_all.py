@@ -44,13 +44,13 @@ def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
 
     steps = [
-        (os.path.join(base_dir, "generators/UseCaseGenerator.py"), run_script),
-        (os.path.join(base_dir, "generators/PromptGenerator.py"), run_script),
+        (os.path.join(base_dir, "generators/useCaseGenerator.py"), run_script),
+        (os.path.join(base_dir, "generators/promptGenerator.py"), run_script),
         ("Start LM Studio Server", start_lm_studio_server),
-        (os.path.join(base_dir, "generators/UserStoryGenerator.js"), run_node_script),
+        (os.path.join(base_dir, "generators/userStoryGenerator.js"), run_node_script),
         ("Stop LM Studio Server", stop_lm_studio_server),
-        (os.path.join(base_dir, "evaluators/GPTEvaluatorUserStories.py"), run_script),
-        (os.path.join(base_dir, "analytics/LeaderboardGenerator.py"), run_script)
+        (os.path.join(base_dir, "evaluators/gPTEvaluateUserStories.py"), run_script),
+        (os.path.join(base_dir, "analytics/leaderboardGenerator.py"), run_script)
     ]
 
     server_process = None
