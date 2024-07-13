@@ -45,6 +45,14 @@ Dieses Projekt generiert Use Cases und User Stories für verschiedene Branchen u
    ```sh
    npx lmstudio install-cli
    ```
+   
+6. **.env Datei erstellen und OpenAI API-Schlüssel hinzufügen**:
+
+   Erstelle eine `.env` Datei im Hauptverzeichnis des Projekts (oder kopiere die .envBEISPIEL Datei und lösche das "BEISPIEL") und füge deinen OpenAI API-Schlüssel hinzu:
+
+   ```
+   OPENAI_API_KEY=sk-proj-123456789010
+   ```
 
 ## Verwendung
 
