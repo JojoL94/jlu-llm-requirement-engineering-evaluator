@@ -78,7 +78,7 @@ Der `run_all.py`-Skript steuert den gesamten Prozess vom Generieren der Use Case
 
 ### Einzelschritte ausführen
 
-Sie können auch jeden Schritt des Prozesses einzeln ausführen, wie unten beschrieben.
+Du kannst auch jeden Schritt des Prozesses einzeln ausführen, wie unten beschrieben.
 
 ### Use Cases generieren
 
