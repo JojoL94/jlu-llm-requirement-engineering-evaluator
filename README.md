@@ -75,6 +75,7 @@ Der `run_all.py`-Skript steuert den gesamten Prozess vom Generieren der Use Case
    - Erstellt Referenz User Stories (`gPTRefrenceUserStoryGenerator.py`)
    - Evaluiert die User Stories (`gPTEvaluateUserStories.py`)
    - Erstellt ein Leaderboard (`leaderboardGenerator.py`)
+![image](https://github.com/user-attachments/assets/df5682ce-88f8-423e-822b-f7adc8bd676e)
 
 ### Einzelschritte ausführen
 
