@@ -49,6 +49,7 @@ def main():
         ("Start LM Studio Server", start_lm_studio_server),
         (os.path.join(base_dir, "generators/userStoryGenerator.js"), run_node_script),
         ("Stop LM Studio Server", stop_lm_studio_server),
+        (os.path.join(base_dir, "generators/gPTRefrenceUserStoryGenerator.py"), run_script),
         (os.path.join(base_dir, "evaluators/gPTEvaluateUserStories.py"), run_script),
         (os.path.join(base_dir, "analytics/leaderboardGenerator.py"), run_script)
     ]

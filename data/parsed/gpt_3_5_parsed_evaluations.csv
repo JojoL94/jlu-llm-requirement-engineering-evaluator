@@ -102,15 +102,15 @@ Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-3
 Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,12,0,12
 Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,12,0,12
 Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,12,0,12
-Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,11,0,11
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,12,0,12
 Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,12,0,12
 Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,12,0,12
-Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,11,0,11
-Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Full sentence,21,0,21
-Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,13,0,13
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,12,0,12
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Full sentence,12,0,12
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,12,0,12
 Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,12,0,12
-Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,21,0,21
-Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,10,0,10
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,12,0,12
+Telecommunications,Service Ticket Resolution,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,12,0,12
 Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,13,0,13
 Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,0,13,13
 Corporate IT,Software Update Deployment,MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,13,0,13
