@@ -17,7 +17,7 @@ Dieses Projekt generiert Use Cases und User Stories für verschiedene Branchen u
 1. **Repository klonen**:
 
    ```sh
-   git clone https://github.com/dein-benutzername/jlu-llm-requirement-engineering-evaluator.git
+   git clone https://github.com/JojoL94/jlu-llm-requirement-engineering-evaluator.git
    cd jlu-llm-requirement-engineering-evaluator
    ```
 
@@ -59,12 +59,14 @@ Der `run_all.py`-Skript steuert den gesamten Prozess vom Generieren der Use Case
    ```
 
    Dieses Skript führt die folgenden Schritte aus:
-   - Generiert Use Cases (`UseCaseGenerator.py`)
-   - Generiert Prompts (`PromptGenerator.py`)
+   - Generiert Use Cases (`useCaseGenerator.py`)
+   - Generiert Prompts (`promptGenerator.py`)
    - Startet den LM Studio-Server
    - Generiert User Stories (`userStoryGenerator.js`)
-   - Evaluiert die User Stories (`GPTEvaluatorUserStories.py`)
-   - Erstellt ein Leaderboard (`LeaderboardGenerator.py`)
+   - Beendet den LM Studio-Server
+   - Erstellt Referenz User Stories (`gPTRefrenceUserStoryGenerator.py`)
+   - Evaluiert die User Stories (`gPTEvaluateUserStories.py`)
+   - Erstellt ein Leaderboard (`leaderboardGenerator.py`)
 
 ### Einzelschritte ausführen
 
@@ -72,7 +74,7 @@ Sie können auch jeden Schritt des Prozesses einzeln ausführen, wie unten besch
 
 ### Use Cases generieren
 
-Der `UseCaseGenerator.py` erstellt eine Reihe von Use Cases für verschiedene Branchen und speichert sie in einer CSV-Datei.
+Der `useCaseGenerator.py` erstellt eine Reihe von Use Cases für verschiedene Branchen und speichert sie in einer CSV-Datei.
 
 1. **Use Cases generieren**:
 
@@ -82,9 +84,9 @@ Der `UseCaseGenerator.py` erstellt eine Reihe von Use Cases für verschiedene Br
 
    Diese Datei liest die Brancheninformationen und generiert die entsprechenden Use Cases, die in der Datei `data/generated/generated_use_cases.csv` gespeichert werden.
 
-#### Änderung der Branche im `UseCaseGenerator.py`
+#### Änderung der Branche im `useCaseGenerator.py`
 
-Um die Branche zu ändern oder neue Branchen hinzuzufügen, kannst du die Liste `industries` im `UseCaseGenerator.py` bearbeiten. Hier ist ein Beispiel, wie du eine neue Branche hinzufügen kannst:
+Um die Branche zu ändern oder neue Branchen hinzuzufügen, kannst du die Liste `industries` im `useCaseGenerator.py` bearbeiten. Hier ist ein Beispiel, wie du eine neue Branche hinzufügen kannst:
 
 ```python
 industries = [
@@ -97,7 +99,7 @@ industries = [
 
 ### Prompts generieren
 
-Der `PromptGenerator.py` erstellt Prompts basierend auf den generierten Use Cases und speichert sie in einer CSV-Datei.
+Der `promptGenerator.py` erstellt Prompts basierend auf den generierten Use Cases und speichert sie in einer CSV-Datei.
 
 1. **Prompts generieren**:
 
@@ -107,9 +109,9 @@ Der `PromptGenerator.py` erstellt Prompts basierend auf den generierten Use Case
 
    Diese Datei liest die `data/generated/generated_use_cases.csv` und erstellt die entsprechenden Prompts, die in der Datei `data/generated/generated_prompts.csv` gespeichert werden.
 
-#### Änderung des Prompts im `PromptGenerator.py`
+#### Änderung des Prompts im `promptGenerator.py`
 
-Um den Prompt anzupassen, kannst du den `prompt_template` im `PromptGenerator.py` bearbeiten. Hier ist ein Beispiel:
+Um den Prompt anzupassen, kannst du den `prompt_template` im `promptGenerator.py` bearbeiten. Hier ist ein Beispiel:
 
 ```python
 prompt_template = """
@@ -188,7 +190,15 @@ const models = [
 ];
 ```
 
-Die generierten User Stories werden in der Datei `data/generated/generated_user_stories.csv` gespeichert, mit einer klaren Trennung zwischen den Modellen und den Use Cases.
+### Referenz User Stories generieren
+
+1. **Referenz User Stories generieren**:
+
+   ```sh
+   python scripts/generators/gPTRefrenceUserStoryGenerator.py
+   ```
+
+   Diese Datei liest die `data/generated/generated_use_cases.csv` und erstellt Referenz User Stories mit gpt-3.5-turbo. Die generierten Referenz User Stories werden in der Datei `data/generated/generated_reference_user_stories.csv` gespeichert.
 
 ### User Stories evaluieren
 
@@ -202,7 +212,7 @@ Die generierten User Stories werden in der Datei `data/generated/generated_user_
 
 ### Ergebnisse analysieren und ein Leaderboard erstellen
 
-Das Skript `LeaderboardGenerator.py` analysiert die Evaluationsergebnisse und erstellt ein Leaderboard.
+Das Skript `leaderboardGenerator.py` analysiert die Evaluationsergebnisse und erstellt ein Leaderboard.
 
 1. **Ergebnisse analysieren und ein Leaderboard erstellen**:
 
@@ -210,7 +220,7 @@ Das Skript `LeaderboardGenerator.py` analysiert die Evaluationsergebnisse und er
    python scripts/analytics/leaderboardGenerator.py
    ```
 
-   Diese Datei liest die `data/evaluated/evaluated_by_GPT-3.5-Turbo_user_stories.csv`, analysiert die Ergebnisse und erstellt ein Leaderboard, das in der Datei `data/leaderboard/leaderboard.csv` gespeichert wird.
+   Diese Datei liest die `data/evaluated/evaluated_by_GPT-3.5-Turbo_user_stories.csv`, analysiert die Ergebnisse und erstellt ein Leaderboard, das in den Dateien `data/parsed/gpt_3_5_parsed_evaluations.csv`, `data/aggregated/aggregated_results.csv` und `data/leaderboard/leaderboard.csv` gespeichert wird.
 
 ## Lizenz
 
