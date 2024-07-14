@@ -5,7 +5,10 @@ const csv = require("csv-parser");
 const { stringify } = require("csv-stringify");
 
 const models = [
-    "Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf"
+    "lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct-Q4_K_M.gguf",
+    "Qwen/Qwen2-7B-Instruct-GGUF/qwen2-7b-instruct-q5_0.gguf",
+    // Neues Modell hinzufügen
+    "lmstudio-community/New-Model-Name"
 ];
 
 const TOKEN_LIMIT = 5600;

@@ -1,0 +1,74 @@
+Model,Criterion,Yes,No,Total,Quality Index
+MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,A user story is a well-formed full sentence,10,0,10,1.0
+MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Atomic,10,0,10,1.0
+MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Complete,8,2,10,0.8
+MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conceptually sound,9,0,9,1.0
+MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Conflict-free,10,0,10,1.0
+MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Explicit dependencies,7,2,9,0.7777777777777778
+MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Independent,10,0,10,1.0
+MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Minimal,2,7,9,0.2222222222222222
+MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Problem-oriented,9,0,9,1.0
+MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Scalable,9,1,10,0.9
+MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unambiguous,8,2,10,0.8
+MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Uniform,9,1,10,0.9
+MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Unique,9,0,9,1.0
+MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf,Well-formed,9,1,10,0.9
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,A user story is a well-formed full sentence,9,1,10,0.9
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Atomic,9,1,10,0.9
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Complete,9,1,10,0.9
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conceptually sound,9,1,10,0.9
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Conflict-free,10,0,10,1.0
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Explicit dependencies,8,2,10,0.8
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Independent,10,0,10,1.0
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Minimal,6,4,10,0.6
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Problem-oriented,10,0,10,1.0
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Scalable,8,2,10,0.8
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unambiguous,9,1,10,0.9
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Uniform,9,1,10,0.9
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Unique,10,0,10,1.0
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf,Well-formed,10,0,10,1.0
+Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,A user story is a well-formed full sentence,5,5,10,0.5
+Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Atomic,4,5,9,0.4444444444444444
+Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Complete,1,9,10,0.1
+Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conceptually sound,4,7,11,0.36363636363636365
+Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Conflict-free,7,1,8,0.875
+Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Explicit dependencies,2,8,10,0.2
+Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Full sentence,0,0,0,
+Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Independent,7,2,9,0.7777777777777778
+Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Minimal,1,8,9,0.1111111111111111
+Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Problem-oriented,6,3,9,0.6666666666666666
+Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Scalable,2,8,10,0.2
+Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unambiguous,1,6,7,0.14285714285714285
+Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Uniform,2,5,7,0.2857142857142857
+Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Uniformity,0,1,1,0.0
+Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Unique,7,2,9,0.7777777777777778
+Qwen/Qwen1.5-0.5B-Chat-GGUF/qwen1_5-0_5b-chat-q8_0.gguf,Well-formed,4,6,10,0.4
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,A user story is a well-formed full sentence,9,0,9,1.0
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Atomic,9,1,10,0.9
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Complete,5,5,10,0.5
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conceptually sound,8,2,10,0.8
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Conflict-free,10,0,10,1.0
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Explicit dependencies,6,3,9,0.6666666666666666
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Full sentence,1,0,1,1.0
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Independent,9,1,10,0.9
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Minimal,5,5,10,0.5
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Problem-oriented,10,0,10,1.0
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Scalable,8,2,10,0.8
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unambiguous,7,3,10,0.7
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Uniform,8,2,10,0.8
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Unique,10,0,10,1.0
+lmstudio-ai/gemma-2b-it-GGUF/gemma-2b-it-q8_0.gguf,Well-formed,10,0,10,1.0
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,A user story is a well-formed full sentence,9,1,10,0.9
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Atomic,8,2,10,0.8
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Complete,8,2,10,0.8
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conceptually sound,9,1,10,0.9
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Conflict-free,9,1,10,0.9
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Explicit dependencies,9,1,10,0.9
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Independent,9,1,10,0.9
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Minimal,1,9,10,0.1
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Problem-oriented,10,0,10,1.0
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Scalable,8,1,9,0.8888888888888888
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unambiguous,7,2,9,0.7777777777777778
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Uniform,8,2,10,0.8
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Unique,10,0,10,1.0
+microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf,Well-formed,8,1,9,0.8888888888888888

@@ -111,7 +111,7 @@ def generate_use_case(industry, title, description, actor, preconditions, trigge
     return message
 
 def main():
-    anwendungsfaelle = [
+    industries = [
         {"industry": "Automotive", "title": "Parts Supplier Management", "description": "manage parts supply for automotive manufacturers", "actor": "Supply Chain Manager", "preconditions": "Supply Chain Manager is logged into the supplier management system", "trigger": "New parts order is placed by the manufacturer"},
         {"industry": "Food", "title": "Production Line Monitoring", "description": "monitor and manage production lines in a food manufacturing facility", "actor": "Production Supervisor", "preconditions": "Production Supervisor is logged into the production monitoring system", "trigger": "Production line status update or alert"},
         {"industry": "Banking", "title": "Loan Processing", "description": "process a loan application", "actor": "Bank Officer", "preconditions": "Bank Officer is logged into the loan processing system", "trigger": "Customer submits a loan application"},
@@ -135,7 +135,7 @@ def main():
         writer = csv.writer(file)
         writer.writerow(["Industry", "Title", "Description", "Actor", "Preconditions", "Trigger", "Use Case"])
 
-        for anwendungsfall in anwendungsfaelle:
+        for anwendungsfall in industries:
             use_case = generate_use_case(
                 industry=anwendungsfall["industry"],
                 title=anwendungsfall["title"],
