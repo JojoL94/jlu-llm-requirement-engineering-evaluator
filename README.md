@@ -2,7 +2,7 @@
 
 ## Projektbeschreibung
 
-Dieses Projekt generiert Use Cases und User Stories für verschiedene Branchen unter Verwendung von Sprachmodellen (LLMs) und LM Studio. Zudem werden die generierten User Stories auf 13 Qualitätskriterien von Lucassen et al., 2015 evaluiert und ein Leaderboard erstellt, das die Leistung der verschiedenen Modelle vergleicht.
+Dieses Projekt generiert Use Cases und User Stories für verschiedene Branchen unter Verwendung von Sprachmodellen (LLMs) und LM Studio. Zudem werden die generierten User Stories auf 13 Qualitätskriterien von Lucassen et al., 2016 evaluiert und ein Leaderboard erstellt, das die Leistung der verschiedenen Modelle vergleicht.
 
 ## Installation
 
@@ -45,6 +45,14 @@ Dieses Projekt generiert Use Cases und User Stories für verschiedene Branchen u
    ```sh
    npx lmstudio install-cli
    ```
+   
+6. **.env Datei erstellen und OpenAI API-Schlüssel hinzufügen**:
+
+   Erstelle eine `.env` Datei im Hauptverzeichnis des Projekts (oder kopiere die .envBEISPIEL Datei und lösche das "BEISPIEL") und füge deinen OpenAI API-Schlüssel hinzu:
+
+   ```
+   OPENAI_API_KEY=sk-proj-123456789010
+   ```
 
 ## Verwendung
 
@@ -67,10 +75,11 @@ Der `run_all.py`-Skript steuert den gesamten Prozess vom Generieren der Use Case
    - Erstellt Referenz User Stories (`gPTRefrenceUserStoryGenerator.py`)
    - Evaluiert die User Stories (`gPTEvaluateUserStories.py`)
    - Erstellt ein Leaderboard (`leaderboardGenerator.py`)
+![image](https://github.com/user-attachments/assets/df5682ce-88f8-423e-822b-f7adc8bd676e)
 
 ### Einzelschritte ausführen
 
-Sie können auch jeden Schritt des Prozesses einzeln ausführen, wie unten beschrieben.
+Du kannst auch jeden Schritt des Prozesses einzeln ausführen, wie unten beschrieben.
 
 ### Use Cases generieren
 
