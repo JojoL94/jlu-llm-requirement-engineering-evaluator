@@ -2,7 +2,7 @@
 
 ## Projektbeschreibung
 
-Dieses Projekt generiert Use Cases und User Stories für verschiedene Branchen unter Verwendung von Sprachmodellen (LLMs) und LM Studio. Zudem werden die generierten User Stories auf 13 Qualitätskriterien von Lucassen et al., 2015 evaluiert und ein Leaderboard erstellt, das die Leistung der verschiedenen Modelle vergleicht.
+Dieses Projekt generiert Use Cases und User Stories für verschiedene Branchen unter Verwendung von Sprachmodellen (LLMs) und LM Studio. Zudem werden die generierten User Stories auf 13 Qualitätskriterien von Lucassen et al., 2016 evaluiert und ein Leaderboard erstellt, das die Leistung der verschiedenen Modelle vergleicht.
 
 ## Installation
 
