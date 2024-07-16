@@ -5,10 +5,10 @@ const csv = require("csv-parser");
 const { stringify } = require("csv-stringify");
 
 const models = [
-    "lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct-Q4_K_M.gguf",
-    "Qwen/Qwen2-7B-Instruct-GGUF/qwen2-7b-instruct-q5_0.gguf",
+    "MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF/Llama-3-8B-Instruct-32k-v0.1.Q5_K_M.gguf",
+    "NousResearch/Nous-Hermes-2-Mistral-7B-DPO-GGUF/Nous-Hermes-2-Mistral-7B-DPO.Q6_K.gguf",
+    "microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf",
     // Neues Modell hinzufügen
-    "lmstudio-community/New-Model-Name"
 ];
 
 const TOKEN_LIMIT = 5600;
