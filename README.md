@@ -1,4 +1,4 @@
-# jlu-llm-requirement-engineering-evaluator
+# jlu-llm-requirements-engineering-evaluator
 
 ## Projektbeschreibung
 
